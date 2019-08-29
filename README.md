@@ -69,4 +69,23 @@
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
 
 
+## Models
 
+### Word Embeddings 
+
+- [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
+- [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
+- [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot) 
+
+### Sentence Embeddings
+
+- [BERT Multilingual](https://github.com/google-research/bert)
+
+### Multilingual Word Embeddings 
+
+- [GeoMM](https://github.com/anoopkunchukuttan/geomm)
+- [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual)
+
+### SMT Models
+
+- [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
