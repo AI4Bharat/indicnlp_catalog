@@ -5,7 +5,6 @@
 - [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/download.php)
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
 
-
 ## Corpora
 
 ### Monolingual Corpus
@@ -30,6 +29,7 @@
 - [FIRE 2014 AUKBC NER Corpus](http://www.au-kbc.org/nlp/NER-FIRE2014/)
 - [IIT Bombay Marathi NER Corpus](http://www.cfilt.iitb.ac.in/ner/download_data.html)
 - [WikiAnn NER Corpus](http://nlp.cs.rpi.edu/wikiann/) (_Noisy_)
+- [a-mma NER data](https://github.com/a-mma/NER_Open_Data)
 
 ### Parallel Translation Corpus
 
@@ -68,6 +68,8 @@
 - [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB)
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
 
+### Dialog
+- [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
 
 ## Models
 
