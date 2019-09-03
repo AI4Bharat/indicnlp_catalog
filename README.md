@@ -1,3 +1,11 @@
+# A Catalog of resources for Indian language NLP
+
+_Please suggest any other resources you may be aware of. Raise an issue add more resources to the catalog. Put the proposed entry in the following format:_
+
+  \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/\)
+  
+_Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource._
+
 ## Major Indic Language NLP Repositories
 
 - [Technology Development for Indian Languages (TDIL)](http://tdil-dc.in)
@@ -48,7 +56,7 @@
 
 ### Parallel Transliteration Corpus
 
-- [BrahmiNet Corpus: 110 language pairs](http://www.cfilt.iitb.ac.in/brahminet/static/download.html)
+- [BrahmiNet Corpus](http://www.cfilt.iitb.ac.in/brahminet/static/download.html): 110 language pairs
 - [Xlit-Crowd: Hindi-English Transliteration Corpus](https://github.com/anoopkunchukuttan/crowd-indic-transliteration-data)
 - [Xlit-IITB-Par: Hindi-English Transliteration Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/supplementary_resources/xlit-iitb-par.tgz)
 
@@ -90,4 +98,4 @@
 
 ### SMT Models
 
-- [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/)
+- [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
