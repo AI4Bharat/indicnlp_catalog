@@ -60,6 +60,10 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Xlit-Crowd: Hindi-English Transliteration Corpus](https://github.com/anoopkunchukuttan/crowd-indic-transliteration-data)
 - [Xlit-IITB-Par: Hindi-English Transliteration Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/supplementary_resources/xlit-iitb-par.tgz)
 
+### Textual Entailment
+
+- [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu
+
 ### POS Tagged corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
