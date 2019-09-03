@@ -2,7 +2,7 @@
 
 _Please suggest any other resources you may be aware of. Raise an issue add more resources to the catalog. Put the proposed entry in the following format:_
 
-  \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/\)
+  \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/)
   
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource._
 
