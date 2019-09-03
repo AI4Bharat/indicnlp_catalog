@@ -1,6 +1,6 @@
 # A Catalog of resources for Indian language NLP
 
-_Please suggest any other resources you may be aware of. Raise an issue add more resources to the catalog. Put the proposed entry in the following format:_
+_Please suggest any other resources you may be aware of. Raise an issue to add more resources to the catalog. Put the proposed entry in the following format:_
 
   \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/)
   
