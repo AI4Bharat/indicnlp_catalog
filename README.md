@@ -99,3 +99,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### SMT Models
 
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
+
+
+## Libraries
+
+- [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library)
