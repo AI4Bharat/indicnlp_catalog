@@ -13,7 +13,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/download.php)
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
 
-## Corpora
+## Text Corpora
 
 ### Monolingual Corpus
 
@@ -82,6 +82,19 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
+
+## Speech Corpora
+
+- [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e): Speech corpus for Telugu, Tamil and Gujarati
+
+## OCR Corpora
+
+- [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist)
+
+## Multimodal Corpora
+
+- [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi. 
+
 
 ## Models
 
