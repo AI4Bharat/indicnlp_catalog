@@ -52,7 +52,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Charles University English-Tamil Parallel Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
 - [Charles University English-Odia Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 - [Charles University English-Urdu Religious Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2582)
-
+- [WikiMatrix Corpus](https://ai.facebook.com/blog/wikimatrix)
+- [FLORES dataset](https://github.com/facebookresearch/flores)
 
 ### Parallel Transliteration Corpus
 
