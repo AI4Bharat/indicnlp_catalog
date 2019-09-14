@@ -26,6 +26,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [WMT CommonCrawl Corpus](http://data.statmt.org/ngrams/raw/)
 - [WMT NEWS Crawl](http://data.statmt.org/news-crawl/)
 - [Janmabhumi Malayalam Corpus](https://github.com/ABHISHEKVALSAN/Malayalam-Newspaper-Article-Dataset)
+- [Leipzig Corpus](http://wortschatz.uni-leipzig.de/en/download/)
 
 ### Lexical Resources
 
