@@ -12,6 +12,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Center for Indian Language Technology (CFILT)](http://www.cfilt.iitb.ac.in/)
 - [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/download.php)
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
+- [University of Hyderabad - Sanskrit NLP](http://sanskrit.uohyd.ac.in/scl)
 
 ## Text Corpora
 
@@ -27,6 +28,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [WMT NEWS Crawl](http://data.statmt.org/news-crawl/)
 - [Janmabhumi Malayalam Corpus](https://github.com/ABHISHEKVALSAN/Malayalam-Newspaper-Article-Dataset)
 - [Leipzig Corpus](http://wortschatz.uni-leipzig.de/en/download/)
+- [Sanskrit Monolingual and Sandhi-split Corpus](http://sanskrit.uohyd.ac.in/Corpus/)
 
 ### Lexical Resources
 
