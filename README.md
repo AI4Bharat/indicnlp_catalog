@@ -1,4 +1,7 @@
+
 # A Catalog of resources for Indian language NLP
+
+
 
 _Please suggest any other resources you may be aware of. Raise an issue to add more resources to the catalog. Put the proposed entry in the following format:_
 
@@ -6,7 +9,39 @@ _Please suggest any other resources you may be aware of. Raise an issue to add m
   
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource._
 
-## Major Indic Language NLP Repositories
+<!-- vscode-markdown-toc -->
+* [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
+* [Text Corpora](#TextCorpora)
+	* [Unicode Standard](#UnicodeStandard)
+	* [Monolingual Corpus](#MonolingualCorpus)
+	* [Lexical Resources](#LexicalResources)
+	* [NER Corpora](#NERCorpora)
+	* [Parallel Translation Corpus](#ParallelTranslationCorpus)
+	* [Parallel Transliteration Corpus](#ParallelTransliterationCorpus)
+	* [Textual Entailment](#TextualEntailment)
+	* [Sentiment Analysis](#SentimentAnalysis)
+	* [POS Tagged corpus](#POSTaggedcorpus)
+	* [Chunk Corpus](#ChunkCorpus)
+	* [Dependency Parse Corpus](#DependencyParseCorpus)
+	* [Dialog](#Dialog)
+* [Speech Corpora](#SpeechCorpora)
+* [OCR Corpora](#OCRCorpora)
+* [Multimodal Corpora](#MultimodalCorpora)
+* [Models](#Models)
+	* [Word Embeddings](#WordEmbeddings)
+	* [Sentence Embeddings](#SentenceEmbeddings)
+	* [Multilingual Word Embeddings](#MultilingualWordEmbeddings)
+	* [SMT Models](#SMTModels)
+* [Libraries](#Libraries)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+
+## <a name='MajorIndicLanguageNLPRepositories'></a>Major Indic Language NLP Repositories
 
 - [Technology Development for Indian Languages (TDIL)](http://tdil-dc.in)
 - [Center for Indian Language Technology (CFILT)](http://www.cfilt.iitb.ac.in/)
@@ -14,15 +49,15 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
 - [University of Hyderabad - Sanskrit NLP](http://sanskrit.uohyd.ac.in/scl)
 
-## Text Corpora
+## <a name='TextCorpora'></a>Text Corpora
 
-### Unicode Standard
+### <a name='UnicodeStandard'></a>Unicode Standard
 
 - [An Introduction to Indic Scripts 
 ](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
 - [Unicode Standard for South Asian Scripts](http://www.unicode.org/versions/Unicode12.1.0/ch12.pdf)
 
-### Monolingual Corpus
+### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
 - [Wikipedia Dumps](https://dumps.wikimedia.org/)
 - [LDCIL Monolingual Corpus](https://data.ldcil.org)
@@ -36,11 +71,11 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Leipzig Corpus](http://wortschatz.uni-leipzig.de/en/download/)
 - [Sanskrit Monolingual and Sandhi-split Corpus](http://sanskrit.uohyd.ac.in/Corpus/)
 
-### Lexical Resources
+### <a name='LexicalResources'></a>Lexical Resources
 
 - [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
 
-### NER Corpora
+### <a name='NERCorpora'></a>NER Corpora
 
 - [FIRE 2013 AUKBC NER Corpus](http://au-kbc.org/nlp/NER-FIRE2013)
 - [FIRE 2014 AUKBC NER Corpus](http://www.au-kbc.org/nlp/NER-FIRE2014/)
@@ -48,7 +83,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [WikiAnn NER Corpus](http://nlp.cs.rpi.edu/wikiann/) (_Noisy_)
 - [a-mma NER data](https://github.com/a-mma/NER_Open_Data)
 
-### Parallel Translation Corpus
+### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp): Available on TDIL portal on request
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/)
@@ -64,77 +99,77 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [WikiMatrix Corpus](https://ai.facebook.com/blog/wikimatrix)
 - [FLORES dataset](https://github.com/facebookresearch/flores)
 
-### Parallel Transliteration Corpus
+### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
 - [BrahmiNet Corpus](http://www.cfilt.iitb.ac.in/brahminet/static/download.html): 110 language pairs
 - [Xlit-Crowd: Hindi-English Transliteration Corpus](https://github.com/anoopkunchukuttan/crowd-indic-transliteration-data)
 - [Xlit-IITB-Par: Hindi-English Transliteration Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/supplementary_resources/xlit-iitb-par.tgz)
 
-### Textual Entailment
+### <a name='TextualEntailment'></a>Textual Entailment
 
 - [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).
 
-### Sentiment Analysis
+### <a name='SentimentAnalysis'></a>Sentiment Analysis
 
 - [IIT Bombay movie review datasets for Hindi and Marathi](http://www.cfilt.iitb.ac.in/Sentiment_Analysis_Resources.html) 
 - [IIT Patna movie review datasets for Hindi](http://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
-### POS Tagged corpus
+### <a name='POSTaggedcorpus'></a>POS Tagged corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 - [Universal Dependencies](https://universaldependencies.org/)
 
-### Chunk Corpus
+### <a name='ChunkCorpus'></a>Chunk Corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 
-### Dependency Parse Corpus
+### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
 
 - [IIIT Hyderabad Hindi Treebank](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1977&lang=en)
 - [Universal Dependencies](https://universaldependencies.org/)
 - [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB)
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
 
-### Dialog
+### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
 
-## Speech Corpora
+## <a name='SpeechCorpora'></a>Speech Corpora
 
 - [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e): Speech corpus for Telugu, Tamil and Gujarati
 - [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php)
 - [BABEL Speech Corpus](https://en.wikipedia.org/wiki/BABEL_Speech_Corpus): includes some Indian languages
 
-## OCR Corpora
+## <a name='OCRCorpora'></a>OCR Corpora
 
 - [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist)
 
-## Multimodal Corpora
+## <a name='MultimodalCorpora'></a>Multimodal Corpora
 
 - [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi. 
 
 
-## Models
+## <a name='Models'></a>Models
 
-### Word Embeddings 
+### <a name='WordEmbeddings'></a>Word Embeddings 
 
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot) 
 
-### Sentence Embeddings
+### <a name='SentenceEmbeddings'></a>Sentence Embeddings
 
 - [BERT Multilingual](https://github.com/google-research/bert)
 
-### Multilingual Word Embeddings 
+### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings 
 
 - [GeoMM](https://github.com/anoopkunchukuttan/geomm)
 - [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual)
 
-### SMT Models
+### <a name='SMTModels'></a>SMT Models
 
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
 
 
-## Libraries
+## <a name='Libraries'></a>Libraries
 
 - [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library)
