@@ -16,6 +16,12 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ## Text Corpora
 
+### Unicode Standard
+
+- [An Introduction to Indic Scripts 
+](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
+- [Unicode Standard for South Asian Scripts](http://www.unicode.org/versions/Unicode12.1.0/ch12.pdf)
+
 ### Monolingual Corpus
 
 - [Wikipedia Dumps](https://dumps.wikimedia.org/)
@@ -66,7 +72,12 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### Textual Entailment
 
-- [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu
+- [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).
+
+### Sentiment Analysis
+
+- [IIT Bombay movie review datasets for Hindi and Marathi](http://www.cfilt.iitb.ac.in/Sentiment_Analysis_Resources.html) 
+- [IIT Patna movie review datasets for Hindi](http://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
 ### POS Tagged corpus
 
