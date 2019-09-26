@@ -74,6 +74,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='LexicalResources'></a>Lexical Resources
 
 - [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
+- [IIIT-Hyderabad Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages): 7 Indian languages
+- [Facebook Hindi Analogy Dataset](https://dl.fbaipublicfiles.com/fasttext/word-analogies/questions-words-hi.txt)
 
 ### <a name='NERCorpora'></a>NER Corpora
 
