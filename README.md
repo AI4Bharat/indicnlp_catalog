@@ -174,4 +174,5 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ## <a name='Libraries'></a>Libraries
 
-- [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library)
+- [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentece splitting, normalization, script conversion, transliteration, _etc_
+- [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
