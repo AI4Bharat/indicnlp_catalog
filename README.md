@@ -179,4 +179,4 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 - [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentece splitting, normalization, script conversion, transliteration, _etc_
 - [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
-- [Indic-OCR] (https://indic-ocr.github.io/) : OCR for Indic Scripts
+- [Indic-OCR](https://indic-ocr.github.io/) : OCR for Indic Scripts
