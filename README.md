@@ -115,11 +115,13 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 - [IIT Bombay movie review datasets for Hindi and Marathi](http://www.cfilt.iitb.ac.in/Sentiment_Analysis_Resources.html) 
 - [IIT Patna movie review datasets for Hindi](http://www.iitp.ac.in/~ai-nlp-ml/resources.html)
+- [IIIT-H LTRC Multi-domain dataset for Telugu](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/sentiraama/)
 
 ### <a name='POSTaggedcorpus'></a>POS Tagged corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 - [Universal Dependencies](https://universaldependencies.org/)
+- [Code Mixed Dataset for Hindi, Bengali and Telugu, ICON 2016 shared task](https://amitavadas.com/Code-Mixing.html)
 
 ### <a name='ChunkCorpus'></a>Chunk Corpus
 
@@ -170,9 +172,11 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='SMTModels'></a>SMT Models
 
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
+- [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz)
 
 
 ## <a name='Libraries'></a>Libraries
 
 - [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentece splitting, normalization, script conversion, transliteration, _etc_
 - [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
+- [Indic-OCR] (https://indic-ocr.github.io/) : OCR for Indic Scripts
