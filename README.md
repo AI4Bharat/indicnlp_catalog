@@ -172,7 +172,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='SMTModels'></a>SMT Models
 
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
-- [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz)
+- [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
 
 
 ## <a name='Libraries'></a>Libraries
