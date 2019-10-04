@@ -69,7 +69,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [WMT NEWS Crawl](http://data.statmt.org/news-crawl/)
 - [Janmabhumi Malayalam Corpus](https://github.com/ABHISHEKVALSAN/Malayalam-Newspaper-Article-Dataset)
 - [Leipzig Corpus](http://wortschatz.uni-leipzig.de/en/download/)
-- [Sanskrit Monolingual and Sandhi-split Corpus](http://sanskrit.uohyd.ac.in/Corpus/)
+- [Sanskrit Monolingual and Sandhi-split Corpus](http://sanskrit.uohyd.ac.in/Corpus/)\
+- [Lot Of Indic Tweets Corpus](https://github.com/bedapudi6788/LOIT): Large twitter datasets for telugu (7.9 million) and hindi (17.6 million) and fasttext skipgram and cbow word vectors for the same.
 
 ### <a name='LexicalResources'></a>Lexical Resources
 
