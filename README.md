@@ -112,11 +112,12 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 - [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).
 
-### <a name='SentimentAnalysis'></a>Sentiment Analysis
+### <a name='SentimentAnalysis'></a>Sentiment, Sarcasm, Emotion Analysis
 
 - [IIT Bombay movie review datasets for Hindi and Marathi](http://www.cfilt.iitb.ac.in/Sentiment_Analysis_Resources.html) 
 - [IIT Patna movie review datasets for Hindi](http://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 - [IIIT-H LTRC Multi-domain dataset for Telugu](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/sentiraama/)
+- [BHAAV (भाव) Corpus](https://doi.org/10.5281/zenodo.3457467): A Text Corpus for Emotion Analysis from Hindi Stories
 
 ### <a name='POSTaggedcorpus'></a>POS Tagged corpus
 
