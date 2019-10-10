@@ -19,7 +19,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Parallel Translation Corpus](#ParallelTranslationCorpus)
 	* [Parallel Transliteration Corpus](#ParallelTransliterationCorpus)
 	* [Textual Entailment](#TextualEntailment)
-	* [Sentiment Analysis](#SentimentAnalysis)
+	* [Sentiment, Sarcasm, Emotion  Analysis](#SentimentAnalysis)
 	* [POS Tagged corpus](#POSTaggedcorpus)
 	* [Chunk Corpus](#ChunkCorpus)
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
