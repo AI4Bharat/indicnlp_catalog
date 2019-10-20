@@ -20,11 +20,11 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Parallel Transliteration Corpus](#ParallelTransliterationCorpus)
 	* [Textual Entailment](#TextualEntailment)
 	* [Sentiment, Sarcasm, Emotion  Analysis](#SentimentAnalysis)
+	* [Question Answering](#QuestionAnswering)
+	* [Dialog](#Dialog)
 	* [POS Tagged corpus](#POSTaggedcorpus)
 	* [Chunk Corpus](#ChunkCorpus)
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
-	* [Question Answering](#QuestionAnswering)
-	* [Dialog](#Dialog)
 * [Speech Corpora](#SpeechCorpora)
 * [OCR Corpora](#OCRCorpora)
 * [Multimodal Corpora](#MultimodalCorpora)
@@ -121,6 +121,12 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [ACTSA corpus for Telugu](https://github.com/NirantK/bharatNLP/releases)
 - [BHAAV (भाव) Corpus](https://doi.org/10.5281/zenodo.3457467): A Text Corpus for Emotion Analysis from Hindi Stories
 
+### <a name='QuestionAnswering'></a>Question Answering
+- [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
+
+### <a name='Dialog'></a>Dialog
+- [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
+
 ### <a name='POSTaggedcorpus'></a>POS Tagged corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
@@ -137,13 +143,6 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Universal Dependencies](https://universaldependencies.org/)
 - [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB)
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
-
-### <a name='Dialog'></a>Dialog
-- [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
-
-### <a name='QuestionAnswering'></a>Question Answering
-
-- [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
 
 ## <a name='SpeechCorpora'></a>Speech Corpora
 
