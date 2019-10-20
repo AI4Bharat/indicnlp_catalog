@@ -23,6 +23,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [POS Tagged corpus](#POSTaggedcorpus)
 	* [Chunk Corpus](#ChunkCorpus)
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
+	* [Question Answering](#QuestionAnswering)
 	* [Dialog](#Dialog)
 * [Speech Corpora](#SpeechCorpora)
 * [OCR Corpora](#OCRCorpora)
@@ -139,6 +140,10 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
+
+### <a name='QuestionAnswering'></a>Question Answering
+
+- [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
 
 ## <a name='SpeechCorpora'></a>Speech Corpora
 
