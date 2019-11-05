@@ -1,8 +1,6 @@
 
 # A Catalog of resources for Indian language NLP
 
-
-
 _Please suggest any other resources you may be aware of. Raise an issue to add more resources to the catalog. Put the proposed entry in the following format:_
 
   \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/)
@@ -61,6 +59,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
 - [Wikipedia Dumps](https://dumps.wikimedia.org/)
+- [Statmt Common Crawl Dumps](http://data.statmt.org/ngrams/raw): Crawls between 2012 and 2016. Noisy text, needs to be filtered.
 - [LDCIL Monolingual Corpus](https://data.ldcil.org)
 - [Charles University Hindi Monolingual Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-625F-0)
 - [Charles University Urdu Monolingual Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-65A9-5)
@@ -157,7 +156,6 @@ _Add a small, informative description of the dataset and provide links to any pa
 ## <a name='MultimodalCorpora'></a>Multimodal Corpora
 
 - [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi. 
-
 
 ## <a name='Models'></a>Models
 
