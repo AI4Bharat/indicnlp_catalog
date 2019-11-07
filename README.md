@@ -4,7 +4,7 @@
 _Please suggest any other resources you may be aware of. Raise an issue to add more resources to the catalog. Put the proposed entry in the following format:_
 
   \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/)
-  
+
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource._
 
 <!-- vscode-markdown-toc -->
@@ -52,8 +52,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### <a name='UnicodeStandard'></a>Unicode Standard
 
-- [An Introduction to Indic Scripts 
-](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
+- [An Introduction to Indic Scripts](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
 - [Unicode Standard for South Asian Scripts](http://www.unicode.org/versions/Unicode12.1.0/ch12.pdf)
 
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
@@ -108,6 +107,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [BrahmiNet Corpus](http://www.cfilt.iitb.ac.in/brahminet/static/download.html): 110 language pairs
 - [Xlit-Crowd: Hindi-English Transliteration Corpus](https://github.com/anoopkunchukuttan/crowd-indic-transliteration-data)
 - [Xlit-IITB-Par: Hindi-English Transliteration Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/supplementary_resources/xlit-iitb-par.tgz)
+- [Hindi word transliteration pairs 1 and 2](https://cse.iitkgp.ac.in/resgrp/cnerg/qa/fire13translit/index.html)
 
 ### <a name='TextualEntailment'></a>Textual Entailment
 
@@ -115,7 +115,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### <a name='SentimentAnalysis'></a>Sentiment, Sarcasm, Emotion Analysis
 
-- [IIT Bombay movie review datasets for Hindi and Marathi](http://www.cfilt.iitb.ac.in/Sentiment_Analysis_Resources.html) 
+- [IIT Bombay movie review datasets for Hindi and Marathi](http://www.cfilt.iitb.ac.in/Sentiment_Analysis_Resources.html)
 - [IIT Patna movie review datasets for Hindi](http://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 - [IIIT-H LTRC Multi-domain dataset for Telugu](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/sentiraama/)
 - [ACTSA corpus for Telugu](https://github.com/NirantK/bharatNLP/releases)
@@ -156,21 +156,21 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ## <a name='MultimodalCorpora'></a>Multimodal Corpora
 
-- [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi. 
+- [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
 
 ## <a name='Models'></a>Models
 
-### <a name='WordEmbeddings'></a>Word Embeddings 
+### <a name='WordEmbeddings'></a>Word Embeddings
 
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
-- [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot) 
+- [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
 
 ### <a name='SentenceEmbeddings'></a>Sentence Embeddings
 
 - [BERT Multilingual](https://github.com/google-research/bert)
 
-### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings 
+### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
 - [GeoMM](https://github.com/anoopkunchukuttan/geomm)
 - [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual)
