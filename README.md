@@ -104,10 +104,10 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
-- [BrahmiNet Corpus](http://www.cfilt.iitb.ac.in/brahminet/static/download.html): 110 language pairs
-- [Xlit-Crowd: Hindi-English Transliteration Corpus](https://github.com/anoopkunchukuttan/crowd-indic-transliteration-data)
-- [Xlit-IITB-Par: Hindi-English Transliteration Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/supplementary_resources/xlit-iitb-par.tgz)
-- [Hindi word transliteration pairs 1 and 2](https://cse.iitkgp.ac.in/resgrp/cnerg/qa/fire13translit/index.html)
+- [BrahmiNet Corpus](http://www.cfilt.iitb.ac.in/brahminet/static/download.html): 110 language pairs mined from ILCI parallel corpus.
+- [Xlit-Crowd](https://github.com/anoopkunchukuttan/crowd-indic-transliteration-data): Hindi-English Transliteration Corpus created via crowdsourcing.
+- [Xlit-IITB-Par](http://www.cfilt.iitb.ac.in/iitb_parallel/supplementary_resources/xlit-iitb-par.tgz)": Hindi-English Transliteration Corpus mined from parallel translation corpora.
+- [FIRE 2013 Track on Transliterated Search](https://cse.iitkgp.ac.in/resgrp/cnerg/qa/fire13translit/index.html): Transliteration datasest of native words in Hindi, Bengali and Gujarati.
 
 ### <a name='TextualEntailment'></a>Textual Entailment
 
