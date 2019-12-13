@@ -110,6 +110,11 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [FIRE 2013 Track on Transliterated Search](https://cse.iitkgp.ac.in/resgrp/cnerg/qa/fire13translit/index.html): Transliteration dataset of native words in Hindi, Bengali and Gujarati.
 - [NEWS 2016 Shared Task dataset](http://workshop.colips.org/news2016/dataset.html): Transliteration datasets for Kannada, Tamil, Bengali and Hindi created by Microsoft Research India.
 
+### <a name='TextualClassification'></a>Text Classification
+
+- [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1): 14 class classification
+- [iNLTK News Headlines classificaiton](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
+
 ### <a name='TextualEntailment'></a>Textual Entailment
 
 - [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).
@@ -121,6 +126,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [IIIT-H LTRC Multi-domain dataset for Telugu](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/sentiraama/)
 - [ACTSA corpus for Telugu](https://github.com/NirantK/bharatNLP/releases)
 - [BHAAV (भाव) Corpus](https://doi.org/10.5281/zenodo.3457467): A Text Corpus for Emotion Analysis from Hindi Stories
+- [iNLTK Movie Reviews](https://github.com/goru001/nlp-for-hindi/blob/master/classification-movie-review/Hindi_Classification_Data.csv): Hindi sentiment analysis on movie reviews
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
