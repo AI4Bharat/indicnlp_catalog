@@ -17,6 +17,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Parallel Translation Corpus](#ParallelTranslationCorpus)
 	* [Parallel Transliteration Corpus](#ParallelTransliterationCorpus)
 	* [Textual Entailment](#TextualEntailment)
+	* [Paraphrase](#Paraphrase)
 	* [Sentiment, Sarcasm, Emotion  Analysis](#SentimentAnalysis)
 	* [Question Answering](#QuestionAnswering)
 	* [Dialog](#Dialog)
@@ -118,6 +119,10 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='TextualEntailment'></a>Textual Entailment
 
 - [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).
+
+### <a name='Paraphrase'></a> Paraphrase
+
+- [Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html): Sentence level paraphrase identification for four Indian languages (Tamil, Malayalam, Hindi and Punjabi).
 
 ### <a name='SentimentAnalysis'></a>Sentiment, Sarcasm, Emotion Analysis
 
