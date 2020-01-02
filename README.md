@@ -101,6 +101,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Charles University English-Odia Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 - [Charles University English-Urdu Religious Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2582)
 - [WikiMatrix Corpus](https://ai.facebook.com/blog/wikimatrix)
+- [CCMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix)
 - [JW300 Corpus](http://opus.nlpl.eu/JW300.php): Parallel corpus mined from jw.org. Religious text from Jehovah's Witness.
 - [IndoWordnet Parallel Corpus](): Parallel corpora can be mined from IndoWordNet gloss and/or examples. 
 - [FLORES dataset](https://github.com/facebookresearch/flores): English-Sinhala and English-Nepali corpora
