@@ -106,6 +106,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [JW300 Corpus](http://opus.nlpl.eu/JW300.php): Parallel corpus mined from jw.org. Religious text from Jehovah's Witness.
 - [IndoWordnet Parallel Corpus](): Parallel corpora can be mined from IndoWordNet gloss and/or examples. 
 - [FLORES dataset](https://github.com/facebookresearch/flores): English-Sinhala and English-Nepali corpora
+- [Uka Tarsadia University Corpus](https://github.com/shahparth123/eng_guj_parallel_corpus): 65k sentence pairs. Corpus is described in [this paper](https://arxiv.org/abs/2002.02758).
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
