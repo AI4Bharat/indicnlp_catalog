@@ -140,9 +140,13 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
+- [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
+
+### <a name='Information Extraction'></a>Information Extraction
+- [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 
 ### <a name='POSTaggedcorpus'></a>POS Tagged corpus
 
