@@ -92,7 +92,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp): Available on TDIL portal on request
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): Largest en-hi parallel corpora in public domain (about 1.5 million semgents)
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
-- [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined fromIndian PM Narendra Modi's _Mann ki Baat_ speeches.
+- [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
 - [OPUS corpus](http://opus.nlpl.eu/)
 - [WAT 2018 Parallel Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html): There may significant overlap between WAT and OPUS.
 - [EILMT Corpus](http://tdil-dc.in/index.php?searchword=EILMT&searchphrase=all&option=com_search&lang=en)
@@ -142,7 +142,9 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
-- [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu
+- [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu.
+- [bAbi 1.2 dataset](http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz): Has Hindi version of bAbi tasks in romanized Hindi.
+- [MMQA dataset](): Hindi QA dataset described in [this paper](https://www.cse.iitb.ac.in/~pb/papers/lrec18-mmqa.pdf)
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
