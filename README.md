@@ -90,9 +90,11 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp): Available on TDIL portal on request
-- [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/)
+- [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): Largest en-hi parallel corpora in public domain (about 1.5 million semgents)
+- [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
+- [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined fromIndian PM Narendra Modi's _Mann ki Baat_ speeches.
 - [OPUS corpus](http://opus.nlpl.eu/)
-- [WAT 2018 Parallel Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html)
+- [WAT 2018 Parallel Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html): There may significant overlap between WAT and OPUS.
 - [EILMT Corpus](http://tdil-dc.in/index.php?searchword=EILMT&searchphrase=all&option=com_search&lang=en)
 - [Joshua Decoder Corpus](https://github.com/joshua-decoder/indian-parallel-corpora)
 - [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus)
@@ -101,12 +103,12 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Charles University English-Odia Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 - [Charles University English-Urdu Religious Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2582)
 - [PMIndia](http://data.statmt.org/pmindia): Parallel corpus for En-Indian languages mined from _Mann ki Baat_ speeches of the PM of India ([paper](https://arxiv.org/abs/2001.09907)).
-- [WikiMatrix Corpus](https://ai.facebook.com/blog/wikimatrix)
-- [CCMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix)
-- [JW300 Corpus](http://opus.nlpl.eu/JW300.php): Parallel corpus mined from jw.org. Religious text from Jehovah's Witness.
-- [IndoWordnet Parallel Corpus](): Parallel corpora can be mined from IndoWordNet gloss and/or examples. 
+- [WikiMatrix Corpus](https://ai.facebook.com/blog/wikimatrix): Mined from Wikipedia, looks noisy.
+- [CCMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix): Parallel corpus mined from CommonCrawl, looks noisy.
+- [JW300 Corpus](http://opus.nlpl.eu/JW300.php): Parallel corpus mined from jw.org. Religious text from Jehovah's Witness. 
+- [IndoWordnet Parallel Corpus](): Parallel corpora can be mined from IndoWordNet gloss and/or examples for Indian-Indian language corpora. 
 - [FLORES dataset](https://github.com/facebookresearch/flores): English-Sinhala and English-Nepali corpora
-- [Uka Tarsadia University Corpus](https://github.com/shahparth123/eng_guj_parallel_corpus): 65k sentence pairs. Corpus is described in [this paper](https://arxiv.org/abs/2002.02758).
+- [Uka Tarsadia University Corpus](https://github.com/shahparth123/eng_guj_parallel_corpus): 65k English-Gujarati sentence pairs. Corpus is described in [this paper](https://arxiv.org/abs/2002.02758).
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
