@@ -110,6 +110,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [FLORES dataset](https://github.com/facebookresearch/flores): English-Sinhala and English-Nepali corpora
 - [Uka Tarsadia University Corpus](https://github.com/shahparth123/eng_guj_parallel_corpus): 65k English-Gujarati sentence pairs. Corpus is described in [this paper](https://arxiv.org/abs/2002.02758)
 - [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus): 9k sentences, 24k glossary terms
+- [English-Tamil Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz): from statmt
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
