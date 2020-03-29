@@ -71,6 +71,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Leipzig Corpus](http://wortschatz.uni-leipzig.de/en/download/)
 - [Sanskrit Monolingual and Sandhi-split Corpus](http://sanskrit.uohyd.ac.in/Corpus/)
 - [Lot Of Indic Tweets Corpus](https://github.com/bedapudi6788/LOIT): Large twitter datasets for telugu (7.9 million) and hindi (17.6 million) and fasttext skipgram and cbow word vectors for the same.
+- [CMU Romanized Hinglish Corpus](https://github.com/khyathiraghavi/multi_task_code_switched_language_modeling/tree/master/hinglishData): See [THIS PAPER](https://www.aclweb.org/anthology/W18-3211.pdf) for details. 
 
 ### <a name='LexicalResources'></a>Lexical Resources
 
