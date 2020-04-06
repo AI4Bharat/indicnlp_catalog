@@ -198,6 +198,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='SentenceEmbeddings'></a>Sentence Embeddings
 
 - [BERT Multilingual](https://github.com/google-research/bert)
+- [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
@@ -208,7 +209,6 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
-
 
 ## <a name='Libraries'></a>Libraries
 
