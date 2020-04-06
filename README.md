@@ -25,14 +25,14 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [POS Tagged corpus](#POSTaggedcorpus)
 	* [Chunk Corpus](#ChunkCorpus)
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
-* [Speech Corpora](#SpeechCorpora)
-* [OCR Corpora](#OCRCorpora)
-* [Multimodal Corpora](#MultimodalCorpora)
 * [Models](#Models)
 	* [Word Embeddings](#WordEmbeddings)
 	* [Sentence Embeddings](#SentenceEmbeddings)
 	* [Multilingual Word Embeddings](#MultilingualWordEmbeddings)
 	* [SMT Models](#SMTModels)
+* [Speech Corpora](#SpeechCorpora)
+* [OCR Corpora](#OCRCorpora)
+* [Multimodal Corpora](#MultimodalCorpora)	
 
 
 <!-- vscode-markdown-toc-config
@@ -181,19 +181,6 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB)
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
 
-## <a name='SpeechCorpora'></a>Speech Corpora
-
-- [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e): Speech corpus for Telugu, Tamil and Gujarati
-- [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php)
-- [BABEL Speech Corpus](https://en.wikipedia.org/wiki/BABEL_Speech_Corpus): includes some Indian languages
-
-## <a name='OCRCorpora'></a>OCR Corpora
-
-- [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist)
-
-## <a name='MultimodalCorpora'></a>Multimodal Corpora
-
-- [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
 
 ## <a name='Models'></a>Models
 
@@ -217,4 +204,19 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
+
+## <a name='SpeechCorpora'></a>Speech Corpora
+
+- [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e): Speech corpus for Telugu, Tamil and Gujarati
+- [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php)
+- [BABEL Speech Corpus](https://en.wikipedia.org/wiki/BABEL_Speech_Corpus): includes some Indian languages
+
+## <a name='OCRCorpora'></a>OCR Corpora
+
+- [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist)
+
+## <a name='MultimodalCorpora'></a>Multimodal Corpora
+
+- [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
+
 
