@@ -7,6 +7,15 @@ _Please suggest any other resources you may be aware of. Raise an issue to add m
 
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource._
 
+:+1: **Featured Resources**
+
+- [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): Largest en-hi parallel corpora in public domain (about 1.5 million semgents)
+- [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
+- [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
+- [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu.
+
+**Browse the catalog...**
+
 <!-- vscode-markdown-toc -->
 * [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
 * [Libraries](#Libraries)
