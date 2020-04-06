@@ -9,6 +9,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 <!-- vscode-markdown-toc -->
 * [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
+* [Libraries](#Libraries)
 * [Text Corpora](#TextCorpora)
 	* [Unicode Standard](#UnicodeStandard)
 	* [Monolingual Corpus](#MonolingualCorpus)
@@ -32,7 +33,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Sentence Embeddings](#SentenceEmbeddings)
 	* [Multilingual Word Embeddings](#MultilingualWordEmbeddings)
 	* [SMT Models](#SMTModels)
-* [Libraries](#Libraries)
+
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -48,6 +49,13 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/download.php)
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
 - [University of Hyderabad - Sanskrit NLP](http://sanskrit.uohyd.ac.in/scl)
+
+
+## <a name='Libraries'></a>Libraries
+
+- [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentece splitting, normalization, script conversion, transliteration, _etc_
+- [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
+- [Indic-OCR](https://indic-ocr.github.io/) : OCR for Indic Scripts
 
 ## <a name='TextCorpora'></a>Text Corpora
 
@@ -210,8 +218,3 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
 
-## <a name='Libraries'></a>Libraries
-
-- [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentece splitting, normalization, script conversion, transliteration, _etc_
-- [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
-- [Indic-OCR](https://indic-ocr.github.io/) : OCR for Indic Scripts
