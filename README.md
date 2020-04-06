@@ -14,7 +14,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
 - [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu.
 
-**Browse the catalog...**
+**Browse the entire catalog...**
 
 <!-- vscode-markdown-toc -->
 * [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
@@ -76,14 +76,13 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
 - [Wikipedia Dumps](https://dumps.wikimedia.org/)
-- [Statmt Common Crawl Dumps](http://data.statmt.org/ngrams/raw): Crawls between 2012 and 2016. Noisy text, needs to be filtered.
+- [WMT Common Crawl Dumps](http://data.statmt.org/ngrams/raw): Crawls between 2012 and 2016. Noisy text, needs to be filtered.
+- [WMT NEWS Crawl](http://data.statmt.org/news-crawl)
 - [LDCIL Monolingual Corpus](https://data.ldcil.org)
 - [Charles University Hindi Monolingual Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-625F-0)
 - [Charles University Urdu Monolingual Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-65A9-5)
 - [IIT Bombay Hindi Monolingual Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/iitb_corpus_download/monolingual.hi.tgz)
 - [EMILLE Corpus (multiple Indian languages)](https://www.lancaster.ac.uk/fass/projects/corpus/emille/)
-- [WMT CommonCrawl Corpus](http://data.statmt.org/ngrams/raw/)
-- [WMT NEWS Crawl](http://data.statmt.org/news-crawl/)
 - [Janmabhumi Malayalam Corpus](https://github.com/ABHISHEKVALSAN/Malayalam-Newspaper-Article-Dataset)
 - [Leipzig Corpus](http://wortschatz.uni-leipzig.de/en/download/)
 - [Sanskrit Monolingual and Sandhi-split Corpus](http://sanskrit.uohyd.ac.in/Corpus/)
