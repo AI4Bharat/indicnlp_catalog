@@ -31,6 +31,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Sentiment, Sarcasm, Emotion  Analysis](#SentimentAnalysis)
 	* [Question Answering](#QuestionAnswering)
 	* [Dialog](#Dialog)
+	* [Discourse](#Discourse)
 	* [POS Tagged corpus](#POSTaggedcorpus)
 	* [Chunk Corpus](#ChunkCorpus)
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
@@ -169,6 +170,9 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
 
+### <a name='Discourse'></a>Discourse
+- [MIDAS-Hindi Discourse Analysis](https://github.com/midas-research/hindi-discourse)
+
 ### <a name='Information Extraction'></a>Information Extraction
 - [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 
@@ -188,7 +192,6 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Universal Dependencies](https://universaldependencies.org/)
 - [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB)
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
-
 
 ## <a name='Models'></a>Models
 
