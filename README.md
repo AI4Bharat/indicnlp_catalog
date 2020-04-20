@@ -137,6 +137,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Xlit-IITB-Par](http://www.cfilt.iitb.ac.in/iitb_parallel/supplementary_resources/xlit-iitb-par.tgz): Hindi-English Transliteration Corpus mined from parallel translation corpora.
 - [FIRE 2013 Track on Transliterated Search](https://cse.iitkgp.ac.in/resgrp/cnerg/qa/fire13translit/index.html): Transliteration dataset of native words in Hindi, Bengali and Gujarati.
 - [NEWS 2016 Shared Task dataset](http://workshop.colips.org/news2016/dataset.html): Transliteration datasets for Kannada, Tamil, Bengali and Hindi created by Microsoft Research India.
+- [NotAI-tech English-Telugu](https://github.com/notAI-tech/Datasets/tree/master/En-Te_Transliteration): Around 38k word pairs
 
 ### <a name='TextualClassification'></a>Text Classification
 
