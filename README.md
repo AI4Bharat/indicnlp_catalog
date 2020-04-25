@@ -66,6 +66,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentece splitting, normalization, script conversion, transliteration, _etc_
 - [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
 - [Indic-OCR](https://indic-ocr.github.io/) : OCR for Indic Scripts
+- [CLTK](https://github.com/cltk/cltk/tree/master/cltk): Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
 
 ## <a name='TextCorpora'></a>Text Corpora
 
@@ -204,8 +205,9 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### <a name='SentenceEmbeddings'></a>Sentence Embeddings
 
-- [BERT Multilingual](https://github.com/google-research/bert)
+- [BERT Multilingual](https://github.com/google-research/bert): BERT model trained on Wikipedias of many languages (including major Indic languages).
 - [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
+- [albert-base-sanskrit](https://huggingface.co/surajp/albert-base-sanskrit): ALBERT-based model trained on Sanskrit Wikipedia.
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
