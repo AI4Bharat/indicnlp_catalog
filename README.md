@@ -5,7 +5,7 @@ _Please suggest any other resources you may be aware of. Raise an issue to add m
 
   \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/)
 
-_Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list. _
+_Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list._
 
 :+1: **Featured Resources**
 
