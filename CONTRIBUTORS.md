@@ -9,4 +9,5 @@
 - Jubin Jose
 - Shivam Rana
 - Swapnil Dhanwal
+- Suraj Parmar
 
