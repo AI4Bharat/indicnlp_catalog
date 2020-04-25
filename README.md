@@ -5,7 +5,7 @@ _Please suggest any other resources you may be aware of. Raise an issue to add m
 
   \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/)
 
-_Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too._
+_Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list. _
 
 :+1: **Featured Resources**
 
@@ -13,6 +13,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
 - [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu.
+
 
 **Browse the entire catalog...**
 
