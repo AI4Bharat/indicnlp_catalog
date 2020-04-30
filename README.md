@@ -228,6 +228,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e): Speech corpus for Telugu, Tamil and Gujarati
 - [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php)
 - [BABEL Speech Corpus](https://en.wikipedia.org/wiki/BABEL_Speech_Corpus): includes some Indian languages
+- [Pratham ASER dataset](https://github.com/shashwatup9k/bho-resources): Dataset for research on reading level assessment.
 
 ## <a name='OCRCorpora'></a>OCR Corpora
 
