@@ -23,6 +23,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 * [Text Corpora](#TextCorpora)
 	* [Unicode Standard](#UnicodeStandard)
 	* [Monolingual Corpus](#MonolingualCorpus)
+	* [Language Identification](#LanguageIdentification)	
 	* [Lexical Resources](#LexicalResources)
 	* [NER Corpora](#NERCorpora)
 	* [Parallel Translation Corpus](#ParallelTranslationCorpus)
@@ -91,7 +92,13 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Sanskrit Monolingual and Sandhi-split Corpus](http://sanskrit.uohyd.ac.in/Corpus/)
 - [Lot Of Indic Tweets Corpus](https://github.com/bedapudi6788/LOIT): Large twitter datasets for telugu (7.9 million) and hindi (17.6 million) and fasttext skipgram and cbow word vectors for the same.
 - [CMU Romanized Hinglish Corpus](https://github.com/khyathiraghavi/multi_task_code_switched_language_modeling/tree/master/hinglishData): See [THIS PAPER](https://www.aclweb.org/anthology/W18-3211.pdf) for details. 
-- [JNU-BHLTR Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of 100k sentences
+- [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of 100k sentences
+- [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
+- [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
+
+### <a name='LanguageIdentification'></a>Language Identification
+
+- [VarDial 2018 Language Identification Dataset](https://github.com/kmi-linguistics/vardial2018): 5 languages - Hindi, Braj, Awadhi, Bhojpuri, Magahi.
 
 ### <a name='LexicalResources'></a>Lexical Resources
 
@@ -132,7 +139,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Uka Tarsadia University Corpus](https://github.com/shahparth123/eng_guj_parallel_corpus): 65k English-Gujarati sentence pairs. Corpus is described in [this paper](https://arxiv.org/abs/2002.02758)
 - [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus): 9k sentences, 24k glossary terms
 - [English-Tamil Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz): from statmt
-- [JNU-BHLTR Corpus](https://github.com/shashwatup9k/bho-resources): English-Bhojpuri corpus of 65k sentences
+- [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources): English-Bhojpuri corpus of 65k sentences
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
@@ -186,7 +193,9 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 - [Universal Dependencies](https://universaldependencies.org/)
 - [Code Mixed Dataset for Hindi, Bengali and Telugu, ICON 2016 shared task](https://amitavadas.com/Code-Mixing.html)
-- [JNU-BHLTR Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of ~4500 sentences.
+- [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of ~4500 sentences.
+- [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
+- [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
 
 ### <a name='ChunkCorpus'></a>Chunk Corpus
 
