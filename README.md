@@ -12,6 +12,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): Largest en-hi parallel corpora in public domain (about 1.5 million semgents)
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
+- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Text corpora, word embeddings, text classification datasets for Indian languages. 
 - [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu.
 
 
@@ -41,6 +42,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Word Embeddings](#WordEmbeddings)
 	* [Sentence Embeddings](#SentenceEmbeddings)
 	* [Multilingual Word Embeddings](#MultilingualWordEmbeddings)
+	* [Morphanalyzers](#Morphanalyzers)
 	* [SMT Models](#SMTModels)
 * [Speech Corpora](#SpeechCorpora)
 * [OCR Corpora](#OCRCorpora)
@@ -153,7 +155,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='TextualClassification'></a>Text Classification
 
 - [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1): 14 class classification
-- [iNLTK News Headlines classificaiton](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
+- [iNLTK News Headlines classification](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
+- [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Word embeddings for 10 Indian languages.
 
 ### <a name='TextualEntailment'></a>Textual Entailment
 
@@ -215,6 +218,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
+- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Word embeddings for 10 Indian languages.
 
 ### <a name='SentenceEmbeddings'></a>Sentence Embeddings
 
@@ -226,6 +230,10 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 - [GeoMM](https://github.com/anoopkunchukuttan/geomm)
 - [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual)
+
+### <a name='Morphanalyzers'></a>Morphanalyzers
+
+- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
 
 ### <a name='SMTModels'></a>SMT Models
 
