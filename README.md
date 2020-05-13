@@ -46,7 +46,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [SMT Models](#SMTModels)
 * [Speech Corpora](#SpeechCorpora)
 * [OCR Corpora](#OCRCorpora)
-* [Multimodal Corpora](#MultimodalCorpora)	
+* [Multimodal Corpora](#MultimodalCorpora)
+* [Language Specific Catalogs](#LanguageSpecificCatalogs)	
 
 
 <!-- vscode-markdown-toc-config
@@ -255,4 +256,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 - [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
 
+## <a name='LanguageSpecificCatalogs'></a>Language Specific Catalogs 
 
+ Pointers to language-specific NLP resource catalogs
+ 
+ - [Odia](https://github.com/shantipriyap/Odia-NLP-Resource-Catalog)
