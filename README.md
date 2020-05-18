@@ -17,7 +17,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 
 **Browse the entire catalog...**
-
+<span style="color:blue"> Note: Many resources have not been classified into the catalog. They can be found as open issues in the repo </span>
+	
 <!-- vscode-markdown-toc -->
 * [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
 * [Libraries](#Libraries)
