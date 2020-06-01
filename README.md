@@ -129,7 +129,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [OPUS corpus](http://opus.nlpl.eu/)
 - [WAT 2018 Parallel Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html): There may significant overlap between WAT and OPUS.
 - [EILMT Corpus](http://tdil-dc.in/index.php?searchword=EILMT&searchphrase=all&option=com_search&lang=en)
-- [Joshua Decoder Corpus](https://github.com/joshua-decoder/indian-parallel-corpora)
+- [MTurk Indian Parallel Corpus](https://github.com/joshua-decoder/indian-parallel-corpora)
 - [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus)
 - [Charles University English-Hindi Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-BD17-1)
 - [Charles University English-Tamil Parallel Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
