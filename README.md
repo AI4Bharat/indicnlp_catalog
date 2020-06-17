@@ -15,7 +15,6 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [AI4Bharat IndicNLP Project](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Text corpora, word embeddings, text classification datasets for Indian languages. 
 - [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu.
 
-
 **Browse the entire catalog...**
 
 :raising_hand:**Note**: Many known resources have not yet been classified into the catalog. They can be found as open issues in the repo.
@@ -85,7 +84,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
 - [Wikipedia Dumps](https://dumps.wikimedia.org/)
-- [Common Crawl]
+- Common Crawl
 	- [OSCAR Corpus](https://traces1.inria.fr/oscar): Released in 2019, large-scaled processed CommonCrawl.	
 	- [WMT Common Crawl Dumps](http://data.statmt.org/ngrams/raw): Crawls between 2012 and 2016. Noisy text, needs to be filtered.
 - [WMT NEWS Crawl](http://data.statmt.org/news-crawl)
