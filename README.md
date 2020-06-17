@@ -85,7 +85,9 @@ _Add a small, informative description of the dataset and provide links to any pa
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
 - [Wikipedia Dumps](https://dumps.wikimedia.org/)
-- [WMT Common Crawl Dumps](http://data.statmt.org/ngrams/raw): Crawls between 2012 and 2016. Noisy text, needs to be filtered.
+- [Common Crawl]
+	- [OSCAR Corpus](https://traces1.inria.fr/oscar): Released in 2019, large-scaled processed CommonCrawl.	
+	- [WMT Common Crawl Dumps](http://data.statmt.org/ngrams/raw): Crawls between 2012 and 2016. Noisy text, needs to be filtered.
 - [WMT NEWS Crawl](http://data.statmt.org/news-crawl)
 - [LDCIL Monolingual Corpus](https://data.ldcil.org)
 - [Charles University Hindi Monolingual Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-625F-0)
