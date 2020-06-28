@@ -14,6 +14,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
 - [AI4Bharat IndicNLP Project](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Text corpora, word embeddings, text classification datasets for Indian languages. 
 - [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu.
+- [Dakshina Dataset](https://github.com/google-research-datasets/dakshina): The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. Contains an aggregate of around 300k word pairs and 120k sentence pairs. Useful for transliteration.
 
 **Browse the entire catalog...**
 
@@ -150,6 +151,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
+- [Dakshina Dataset](https://github.com/google-research-datasets/dakshina): The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. Contains an aggregate of around 300k word pairs and 120k sentence pairs.
 - [BrahmiNet Corpus](http://www.cfilt.iitb.ac.in/brahminet/static/download.html): 110 language pairs mined from ILCI parallel corpus.
 - [Xlit-Crowd](https://github.com/anoopkunchukuttan/crowd-indic-transliteration-data): Hindi-English Transliteration Corpus created via crowdsourcing.
 - [Xlit-IITB-Par](http://www.cfilt.iitb.ac.in/iitb_parallel/supplementary_resources/xlit-iitb-par.tgz): Hindi-English Transliteration Corpus mined from parallel translation corpora.
