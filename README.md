@@ -264,6 +264,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 ## <a name='MultimodalCorpora'></a>Multimodal Corpora
 
 - [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
+- [English-Hindi Flickr 8k](https://arxiv.org/pdf/2004.11954.pdf): A subset of images from [Flickr8k](https://jair.org/index.php/jair/article/view/10833) images captioned by native speakers in both English and Hindi. Code and data available [here](https://github.com/madaan/PML4DC-Comparable-Data-Collection).
 
 ## <a name='LanguageSpecificCatalogs'></a>Language Specific Catalogs 
 
