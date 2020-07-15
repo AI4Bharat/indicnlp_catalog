@@ -74,6 +74,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
 - [Indic-OCR](https://indic-ocr.github.io/) : OCR for Indic Scripts
 - [CLTK](https://github.com/cltk/cltk/tree/master/cltk): Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
+- [iNLTK](https://github.com/goru001/inltk): iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 
 ## <a name='TextCorpora'></a>Text Corpora
 
@@ -180,7 +181,6 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [IIIT-H LTRC Multi-domain dataset for Telugu](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/sentiraama/)
 - [ACTSA corpus for Telugu](https://github.com/NirantK/bharatNLP/releases)
 - [BHAAV (भाव) Corpus](https://doi.org/10.5281/zenodo.3457467): A Text Corpus for Emotion Analysis from Hindi Stories
-- [iNLTK Movie Reviews](https://github.com/goru001/nlp-for-hindi/blob/master/classification-movie-review/Hindi_Classification_Data.csv): Hindi sentiment analysis on movie reviews
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
@@ -232,6 +232,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [BERT Multilingual](https://github.com/google-research/bert): BERT model trained on Wikipedias of many languages (including major Indic languages).
 - [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
 - [albert-base-sanskrit](https://huggingface.co/surajp/albert-base-sanskrit): ALBERT-based model trained on Sanskrit Wikipedia.
+- [RoBERTa-hindi-guj-san](https://huggingface.co/surajp/RoBERTa-hindi-guj-san): Multilingual RoBERTa like model trained on Hindi, Sanskrit and Gujarati.
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
