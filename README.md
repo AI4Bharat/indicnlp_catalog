@@ -7,6 +7,8 @@ _Please suggest any other resources you may be aware of. Raise a pull request or
 
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list._
 
+:new: Added _Evaluation Benchmarks_ sections
+
 :+1: **Featured Resources**
 
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): Largest en-hi parallel corpora in public domain (about 1.5 million semgents)
@@ -23,6 +25,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 <!-- vscode-markdown-toc -->
 * [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
 * [Libraries](#Libraries)
+* [Evaluation Benchmarks](#Benchmarks)
 * [Text Corpora](#TextCorpora)
 	* [Unicode Standard](#UnicodeStandard)
 	* [Monolingual Corpus](#MonolingualCorpus)
@@ -75,6 +78,13 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Indic-OCR](https://indic-ocr.github.io/) : OCR for Indic Scripts
 - [CLTK](https://github.com/cltk/cltk/tree/master/cltk): Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
 - [iNLTK](https://github.com/goru001/inltk): iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
+
+## <a name='Benchmarks'></a>Evaluation Benchmarks
+
+Benchmarks spanning multiple tasks.
+
+- [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed data containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
+- [AI4Bharat Text Classification](https://github.com/ai4bharat-indicnlp/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 
 ## <a name='TextCorpora'></a>Text Corpora
 
