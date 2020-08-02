@@ -26,6 +26,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 * [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
 * [Libraries](#Libraries)
 * [Evaluation Benchmarks](#Benchmarks)
+* [Standards](#Standards)
 * [Text Corpora](#TextCorpora)
 	* [Unicode Standard](#UnicodeStandard)
 	* [Monolingual Corpus](#MonolingualCorpus)
@@ -86,12 +87,13 @@ Benchmarks spanning multiple tasks.
 - [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed data containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
 - [AI4Bharat Text Classification](https://github.com/ai4bharat-indicnlp/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 
+## <a name='Standards'></a>Standards
+
+- Unicode Standard for Indic Scripts
+   - [An Introduction to Indic Scripts](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
+   - [Unicode Standard for South Asian Scripts](http://www.unicode.org/versions/Unicode12.1.0/ch12.pdf)
+
 ## <a name='TextCorpora'></a>Text Corpora
-
-### <a name='UnicodeStandard'></a>Unicode Standard
-
-- [An Introduction to Indic Scripts](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
-- [Unicode Standard for South Asian Scripts](http://www.unicode.org/versions/Unicode12.1.0/ch12.pdf)
 
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
