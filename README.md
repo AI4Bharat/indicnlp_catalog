@@ -267,6 +267,7 @@ Benchmarks spanning multiple tasks.
 - [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php)
 - [BABEL Speech Corpus](https://en.wikipedia.org/wiki/BABEL_Speech_Corpus): includes some Indian languages
 - [Pratham ASER dataset](https://github.com/shashwatup9k/bho-resources): Dataset for research on reading level assessment.
+- [WikiPron](https://pypi.org/project/wikipron/): Words and their pronunciations in IPA mined from Wiktionary. Includes Indian languages. [paper](https://www.aclweb.org/anthology/2020.lrec-1.521)
 
 
 ## <a name='OCRCorpora'></a>OCR Corpora
