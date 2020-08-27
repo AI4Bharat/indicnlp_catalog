@@ -14,7 +14,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): Largest en-hi parallel corpora in public domain (about 1.5 million semgents)
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
-- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Text corpora, word embeddings, text classification datasets for Indian languages. 
+- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus): Text corpora, word embeddings, text classification datasets for Indian languages. 
 - [iNLTK](https://github.com/goru001/inltk): iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 - [Dakshina Dataset](https://github.com/google-research-datasets/dakshina): The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. Contains an aggregate of around 300k word pairs and 120k sentence pairs. Useful for transliteration.
 
@@ -85,7 +85,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 Benchmarks spanning multiple tasks.
 
 - [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed data containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
-- [AI4Bharat Text Classification](https://github.com/ai4bharat-indicnlp/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
+- [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 
 ## <a name='Standards'></a>Standards
 
@@ -126,6 +126,7 @@ Benchmarks spanning multiple tasks.
 - [IIIT-Hyderabad Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages): 7 Indian languages
 - [Facebook Hindi Analogy Dataset](https://dl.fbaipublicfiles.com/fasttext/word-analogies/questions-words-hi.txt)
 - [MGAD Hindi Analogy dataset](https://github.com/rutrastone/MGAD)
+- [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora): Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
 
 ### <a name='NERCorpora'></a>NER Corpora
 
@@ -178,7 +179,7 @@ Benchmarks spanning multiple tasks.
 
 - [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1): 14 class classification
 - [iNLTK News Headlines classification](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
-- [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Word embeddings for 10 Indian languages.
+- [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus): Word embeddings for 10 Indian languages.
 
 ### <a name='TextualEntailment'></a>Textual Entailment
 
@@ -240,7 +241,7 @@ Benchmarks spanning multiple tasks.
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
-- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Word embeddings for 10 Indian languages.
+- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus): Word embeddings for 10 Indian languages.
 
 ### <a name='SentenceEmbeddings'></a>Sentence Embeddings
 
@@ -256,7 +257,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='Morphanalyzers'></a>Morphanalyzers
 
-- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat-indicnlp/indicnlp_corpus): Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
+- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus): Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
 
 ### <a name='SMTModels'></a>SMT Models
 
