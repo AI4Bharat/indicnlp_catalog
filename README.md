@@ -158,7 +158,9 @@ Benchmarks spanning multiple tasks.
 - [FLORES dataset](https://github.com/facebookresearch/flores): English-Sinhala and English-Nepali corpora
 - [Uka Tarsadia University Corpus](https://github.com/shahparth123/eng_guj_parallel_corpus): 65k English-Gujarati sentence pairs. Corpus is described in [this paper](https://arxiv.org/abs/2002.02758)
 - [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus): 9k sentences, 24k glossary terms
-- [English-Tamil Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz): from statmt
+- Wikititles: from statmt
+   - [English-Tamil Wiki Titles](http://data.statmt.org/wikititles/v2/wikititles-v2.ta-en.tsv.gz) 
+   - [English-Gujarati Wiki Titles](http://data.statmt.org/wikititles/v1/wikititles-v1.gu-en.tsv.gz)
 - [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources): English-Bhojpuri corpus of 65k sentences
 - [EILMT Corpus](http://tdil-dc.in/index.php?searchword=EILMT&searchphrase=all&option=com_search&lang=en)
 - [QED Corpus](http://alt.qcri.org/resources/qedcorpus): English-Hindi corpus of 43k sentences from the educational domain.
