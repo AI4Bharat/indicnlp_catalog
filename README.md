@@ -197,7 +197,7 @@ Benchmarks spanning multiple tasks.
 - [IIT Patna movie review datasets for Hindi](http://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 - [IIIT-H LTRC Multi-domain dataset for Telugu](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/sentiraama/)
 - [ACTSA corpus for Telugu](https://github.com/NirantK/bharatNLP/releases)
-- [BHAAV (भाव) Corpus](https://doi.org/10.5281/zenodo.3457467): A Text Corpus for Emotion Analysis from Hindi Stories
+- [BHAAV (भाव) Corpus](https://github.com/midas-research/bhaav): A Text Corpus for Emotion Analysis from Hindi Stories
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
