@@ -133,7 +133,7 @@ Benchmarks spanning multiple tasks.
 - [FIRE 2013 AUKBC NER Corpus](http://au-kbc.org/nlp/NER-FIRE2013)
 - [FIRE 2014 AUKBC NER Corpus](http://www.au-kbc.org/nlp/NER-FIRE2014/)
 - [IIT Bombay Marathi NER Corpus](http://www.cfilt.iitb.ac.in/ner/download_data.html)
-- [WikiAnn NER Corpus](http://nlp.cs.rpi.edu/wikiann/) (_Noisy_)
+- [WikiAnn NER Corpus](https://elisa-ie.github.io/wikiann) (_Noisy_)  [DOWNLOAD](https://drive.google.com/drive/folders/1Q-xdT99SeaCghihGa7nRkcXGwRGUIsKN?usp=sharing)  (Old broken [LINK](http://nlp.cs.rpi.edu))
 - [a-mma NER data](https://github.com/a-mma/NER_Open_Data)
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
