@@ -134,6 +134,7 @@ Benchmarks spanning multiple tasks.
 - [FIRE 2014 AUKBC NER Corpus](http://www.au-kbc.org/nlp/NER-FIRE2014/)
 - [IIT Bombay Marathi NER Corpus](http://www.cfilt.iitb.ac.in/ner/download_data.html)
 - [WikiAnn NER Corpus](https://elisa-ie.github.io/wikiann) (_Noisy_)  [DOWNLOAD](https://drive.google.com/drive/folders/1Q-xdT99SeaCghihGa7nRkcXGwRGUIsKN?usp=sharing)  (Old broken [LINK](http://nlp.cs.rpi.edu))
+- [IJCNLP 200 NER Corpus](http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5): NER corpora for hi, bn, or, te, ur.
 - [a-mma NER data](https://github.com/a-mma/NER_Open_Data)
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
@@ -220,6 +221,7 @@ Benchmarks spanning multiple tasks.
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 - [Universal Dependencies](https://universaldependencies.org/)
+- [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): POS annotations for hi, bn, kn, ml and mr.
 - [Code Mixed Dataset for Hindi, Bengali and Telugu, ICON 2016 shared task](https://amitavadas.com/Code-Mixing.html)
 - [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of 5000 sentences.
 - [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
@@ -228,6 +230,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='ChunkCorpus'></a>Chunk Corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
+- [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Chunk annotations for hi, bn, kn, ml and mr.
 
 ### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
 
@@ -235,6 +238,7 @@ Benchmarks spanning multiple tasks.
 - [Universal Dependencies](https://universaldependencies.org/)
 - [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB)
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
+- [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Paninian Grammar Framework annotations along with mappings to Stanford dependency annotations for hi, bn, kn, ml and mr.
 
 ## <a name='Models'></a>Models
 
