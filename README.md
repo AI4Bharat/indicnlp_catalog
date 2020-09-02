@@ -35,15 +35,18 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [NER Corpora](#NERCorpora)
 	* [Parallel Translation Corpus](#ParallelTranslationCorpus)
 	* [Parallel Transliteration Corpus](#ParallelTransliterationCorpus)
+	* [Text Classification](#TextualClassification)
 	* [Textual Entailment](#TextualEntailment)
 	* [Paraphrase](#Paraphrase)
 	* [Sentiment, Sarcasm, Emotion  Analysis](#SentimentAnalysis)
 	* [Question Answering](#QuestionAnswering)
 	* [Dialog](#Dialog)
 	* [Discourse](#Discourse)
+	* [Information Extraction](#InformationExtraction)
 	* [POS Tagged corpus](#POSTaggedcorpus)
 	* [Chunk Corpus](#ChunkCorpus)
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
+	* [Co-reference Corpus](#CoreferenceCorpus)
 * [Models](#Models)
 	* [Word Embeddings](#WordEmbeddings)
 	* [Sentence Embeddings](#SentenceEmbeddings)
@@ -214,7 +217,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='Discourse'></a>Discourse
 - [MIDAS-Hindi Discourse Analysis](https://github.com/midas-research/hindi-discourse)
 
-### <a name='Information Extraction'></a>Information Extraction
+### <a name='InformationExtraction'></a>Information Extraction
 - [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 - [EDNIL-FIRE2020]https://ednilfire.github.io/ednil/2020/index.html): Event extraction for Tamil, Hindi, Bengali, Marathi, English. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 
