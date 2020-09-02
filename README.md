@@ -240,6 +240,11 @@ Benchmarks spanning multiple tasks.
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
 - [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Paninian Grammar Framework annotations along with mappings to Stanford dependency annotations for hi, bn, kn, ml and mr.
 
+### <a name='CoreferenceCorpus'></a>Coreference Corpus
+
+- [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Hindi
+- [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Hindi
+
 ## <a name='Models'></a>Models
 
 ### <a name='WordEmbeddings'></a>Word Embeddings
