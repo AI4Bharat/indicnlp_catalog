@@ -82,6 +82,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Indic-OCR](https://indic-ocr.github.io/) : OCR for Indic Scripts
 - [CLTK](https://github.com/cltk/cltk/tree/master/cltk): Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
 - [iNLTK](https://github.com/goru001/inltk): iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
+- [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration): Script conversion and ronaization for Indian languages.
 
 ## <a name='Benchmarks'></a>Evaluation Benchmarks
 
