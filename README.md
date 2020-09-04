@@ -290,6 +290,7 @@ Benchmarks spanning multiple tasks.
 - [Pratham ASER dataset](https://github.com/shashwatup9k/bho-resources): Dataset for research on reading level assessment.
 - [WikiPron](https://pypi.org/project/wikipron/): Words and their pronunciations in IPA mined from Wiktionary. Includes Indian languages. [paper](https://www.aclweb.org/anthology/2020.lrec-1.521)
 - [CVIT IndicSpeech](http://cvit.iiit.ac.in/research/projects/cvit-projects/text-to-speech-dataset-for-indian-languages): TTS data for 3 Indian languages: Malayalam, Bengali and Hindi (24 hours each).
+- [CoVoST 2](https://github.com/facebookresearch/covost): Tamil 2 hrs data
 
 
 ## <a name='OCRCorpora'></a>OCR Corpora
