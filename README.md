@@ -171,6 +171,7 @@ Benchmarks spanning multiple tasks.
 - [QED Corpus](http://alt.qcri.org/resources/qedcorpus): English-Hindi corpus of 43k sentences from the educational domain.
 - [WikiMatrix Corpus](https://ai.facebook.com/blog/wikimatrix): Mined from Wikipedia, looks noisy.
 - [CCMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix): Parallel corpus mined from CommonCrawl, looks noisy.
+- [CGNetSwara](http://cgnetswara.org/hindi-gondi-corpus.html): Hindi-Gondi parallel corpus (19k sentence pairs)
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
