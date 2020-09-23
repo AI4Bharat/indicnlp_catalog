@@ -119,6 +119,7 @@ Benchmarks spanning multiple tasks.
 - [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of 45k sentences.
 - [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
+- [SMC Malayalam text corpus](https://gitlab.com/smc/corpus)
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -293,6 +294,7 @@ Benchmarks spanning multiple tasks.
 - [WikiPron](https://pypi.org/project/wikipron/): Words and their pronunciations in IPA mined from Wiktionary. Includes Indian languages. [paper](https://www.aclweb.org/anthology/2020.lrec-1.521)
 - [CVIT IndicSpeech](http://cvit.iiit.ac.in/research/projects/cvit-projects/text-to-speech-dataset-for-indian-languages): TTS data for 3 Indian languages: Malayalam, Bengali and Hindi (24 hours each).
 - [CoVoST 2](https://github.com/facebookresearch/covost): Tamil 2 hrs data
+- [SMC Malayalam Speech Corpus](https://blog.smc.org.in/malayalam-speech-corpus/) - [Download link](https://releases.smc.org.in/msc-reviewed-speech/)
 
 
 ## <a name='OCRCorpora'></a>OCR Corpora
