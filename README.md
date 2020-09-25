@@ -11,10 +11,10 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 :+1: **Featured Resources**
 
+- [AI4Bharat IndicNLPSuite](https://indicnlp.ai4bharat.org): Text corpora, word embeddings, BERT for Indian languages and NLU resources for Indian languages. 
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): Largest en-hi parallel corpora in public domain (about 1.5 million semgents)
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
-- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus): Text corpora, word embeddings, text classification datasets for Indian languages. 
 - [iNLTK](https://github.com/goru001/inltk): iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 - [Dakshina Dataset](https://github.com/google-research-datasets/dakshina): The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. Contains an aggregate of around 300k word pairs and 120k sentence pairs. Useful for transliteration.
 
@@ -36,7 +36,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Parallel Translation Corpus](#ParallelTranslationCorpus)
 	* [Parallel Transliteration Corpus](#ParallelTransliterationCorpus)
 	* [Text Classification](#TextualClassification)
-	* [Textual Entailment](#TextualEntailment)
+	* [Textual Entailment/Natural Language Inference](#TextualEntailment)
 	* [Paraphrase](#Paraphrase)
 	* [Sentiment, Sarcasm, Emotion  Analysis](#SentimentAnalysis)
 	* [Question Answering](#QuestionAnswering)
@@ -88,6 +88,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 Benchmarks spanning multiple tasks.
 
+- [AI4Bharat IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue): NLU benchmark for 11 languages.
 - [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed data containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
 - [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 
@@ -101,7 +102,8 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
-- [Wikipedia Dumps](https://dumps.wikimedia.org/)
+- [AIBharat IndicCorp](https://indicnlp.ai4bharat.org/corpora): contains 8.9 billion tokens from 12 Indian languages (including Indian English).
+- [Wikipedia Dumps](https://dumps.wikimedia.org)
 - Common Crawl
 	- [OSCAR Corpus](https://traces1.inria.fr/oscar): Released in 2019, large-scaled processed CommonCrawl.	
 	- [WMT Common Crawl Dumps](http://data.statmt.org/ngrams/raw): Crawls between 2012 and 2016. Noisy text, needs to be filtered.
@@ -191,7 +193,7 @@ Benchmarks spanning multiple tasks.
 - [iNLTK News Headlines classification](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
 - [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus): Word embeddings for 10 Indian languages.
 
-### <a name='TextualEntailment'></a>Textual Entailment
+### <a name='TextualEntailment'></a>Textual Entailment/Natural Language Inference
 
 - [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).
 
@@ -257,13 +259,15 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='WordEmbeddings'></a>Word Embeddings
 
+- [AI4Bharat IndicFT](https://indicnlp.ai4bharat.org/indicft): Fast-text word embeddings for 11 Indian languages.
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
-- [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus): Word embeddings for 10 Indian languages.
+
 
 ### <a name='SentenceEmbeddings'></a>Sentence Embeddings
 
+- [AI4Bharat IndicBERT](https://indicnlp.ai4bharat.org/indic-bert): Multilingual ALBERT embeddings spanning 12 languages (including Indian English).
 - [BERT Multilingual](https://github.com/google-research/bert): BERT model trained on Wikipedias of many languages (including major Indic languages).
 - [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
 - [albert-base-sanskrit](https://huggingface.co/surajp/albert-base-sanskrit): ALBERT-based model trained on Sanskrit Wikipedia.
