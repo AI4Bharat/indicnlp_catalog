@@ -24,7 +24,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	
 <!-- vscode-markdown-toc -->
 * [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
-* [Libraries](#Libraries)
+* [Libraries and Tools](#Libraries)
 * [Evaluation Benchmarks](#Benchmarks)
 * [Standards](#Standards)
 * [Text Corpora](#TextCorpora)
@@ -75,7 +75,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [University of Hyderabad - Sanskrit NLP](http://sanskrit.uohyd.ac.in/scl)
 
 
-## <a name='Libraries'></a>Libraries
+## <a name='Libraries'></a>Libraries and Tools
 
 - [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentece splitting, normalization, script conversion, transliteration, _etc_
 - [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
@@ -83,6 +83,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [CLTK](https://github.com/cltk/cltk/tree/master/cltk): Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
 - [iNLTK](https://github.com/goru001/inltk): iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 - [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration): Script conversion and ronaization for Indian languages.
+- [Smart Sanskirt Annotator](https://github.com/iamdsc/smart-sanskrit-annotator): Annotation tool for Sanskrit [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.874.pdf)
 
 ## <a name='Benchmarks'></a>Evaluation Benchmarks
 
@@ -122,6 +123,7 @@ Benchmarks spanning multiple tasks.
 - [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
 - [SMC Malayalam text corpus](https://gitlab.com/smc/corpus)
+- [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/0B7LLASJiB2m6cDVzbnNjUVZ5dUE): Telugu corpus of 280M tokens and 23M sentences.
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -249,6 +251,7 @@ Benchmarks spanning multiple tasks.
 - [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB)
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
 - [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Paninian Grammar Framework annotations along with mappings to Stanford dependency annotations for hi, bn, kn, ml and mr.
+- [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec): 4k Sanskrit dependency treebank [paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)
 
 ### <a name='CoreferenceCorpus'></a>Coreference Corpus
 
