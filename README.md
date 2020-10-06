@@ -300,6 +300,7 @@ Benchmarks spanning multiple tasks.
 - [Pratham ASER dataset](https://github.com/shashwatup9k/bho-resources): Dataset for research on reading level assessment.
 - [WikiPron](https://pypi.org/project/wikipron/): Words and their pronunciations in IPA mined from Wiktionary. Includes Indian languages. [paper](https://www.aclweb.org/anthology/2020.lrec-1.521)
 - [CVIT IndicSpeech](http://cvit.iiit.ac.in/research/projects/cvit-projects/text-to-speech-dataset-for-indian-languages): TTS data for 3 Indian languages: Malayalam, Bengali and Hindi (24 hours each).
+- [Google Speech Corpus](http://www.openslr.org/resources.php): TTS data for 6 Indian languages: Malayalam, Marathi, Telugu, Kannada, Gujarati, Tamil (upto 9 hours each). Resources SLR#63-#66, #78-#79. [(paper)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)
 - [CoVoST 2](https://github.com/facebookresearch/covost): Tamil 2 hrs data
 - [SMC Malayalam Speech Corpus](https://blog.smc.org.in/malayalam-speech-corpus/) - [Download link](https://releases.smc.org.in/msc-reviewed-speech/)
 
@@ -307,7 +308,7 @@ Benchmarks spanning multiple tasks.
 ## <a name='OCRCorpora'></a>OCR Corpora
 
 - [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist)
-
+http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf
 ## <a name='MultimodalCorpora'></a>Multimodal Corpora
 
 - [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
