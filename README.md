@@ -307,8 +307,11 @@ Benchmarks spanning multiple tasks.
 
 ## <a name='OCRCorpora'></a>OCR Corpora
 
-- [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist)
-http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf
+- [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist) ([Paper](
+http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf))
+- [Devanagari MNIST](https://www.kaggle.com/ashokpant/devanagari-character-dataset-large)
+- [SynthTextHindi](https://github.com/IngleJaya95/SynthTextHindi) ([Dataset link](https://ai4bharat.org/articles/sign-board))
+
 ## <a name='MultimodalCorpora'></a>Multimodal Corpora
 
 - [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
