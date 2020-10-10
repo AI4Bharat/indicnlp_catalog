@@ -12,11 +12,13 @@ _Add a small, informative description of the dataset and provide links to any pa
 :+1: **Featured Resources**
 
 - [AI4Bharat IndicNLPSuite](https://indicnlp.ai4bharat.org): Text corpora, word embeddings, BERT for Indian languages and NLU resources for Indian languages. 
-- [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): Largest en-hi parallel corpora in public domain (about 1.5 million semgents)
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
+- [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentece splitting, normalization, script conversion, transliteration, _etc_
 - [iNLTK](https://github.com/goru001/inltk): iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
-- [Dakshina Dataset](https://github.com/google-research-datasets/dakshina): The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. Contains an aggregate of around 300k word pairs and 120k sentence pairs. Useful for transliteration.
+- [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
+- [Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html): Sentence level paraphrase identification for four Indian languages (Tamil, Malayalam, Hindi and Punjabi).
+
 
 **Browse the entire catalog...**
 
@@ -90,7 +92,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 Benchmarks spanning multiple tasks.
 
 - [AI4Bharat IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue): NLU benchmark for 11 languages.
-- [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed data containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
+- [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
 - [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 
 ## <a name='Standards'></a>Standards
