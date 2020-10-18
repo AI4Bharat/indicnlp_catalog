@@ -155,7 +155,6 @@ Benchmarks spanning multiple tasks.
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
 - [PMIndia](http://data.statmt.org/pmindia): Parallel corpus for En-Indian languages mined from _Mann ki Baat_ speeches of the PM of India ([paper](https://arxiv.org/abs/2001.09907)).
-- [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp): Available on TDIL portal on request
 - [OPUS corpus](http://opus.nlpl.eu/)
 - [WAT 2018 Parallel Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html): There may significant overlap between WAT and OPUS.
 - [Charles University English-Hindi Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-BD17-1): This is included in the IITB parallel corpus.
@@ -163,6 +162,7 @@ Benchmarks spanning multiple tasks.
 - [Charles University English-Odia Parallel Corpus v1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 - [Charles University English-Odia Parallel Corpus v2.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3211)
 - [Charles University English-Urdu Religious Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2582)
+- [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp): Available on TDIL portal on request
 - [IndoWordnet Parallel Corpus](https://github.com/anoopkunchukuttan/indowordnet_parallel): Parallel corpora mined from IndoWordNet gloss and/or examples for Indian-Indian language corpora  (6.3 million segments, 18 languages). 
 - [MTurk Indian Parallel Corpus](https://github.com/joshua-decoder/indian-parallel-corpora)
 - [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus)
@@ -181,6 +181,7 @@ Benchmarks spanning multiple tasks.
 - [CCMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/CCMatrix): Parallel corpus mined from CommonCrawl, looks noisy.
 - [CGNetSwara](http://cgnetswara.org/hindi-gondi-corpus.html): Hindi-Gondi parallel corpus (19k sentence pairs)
 - [MTEnglish2Odia](https://github.com/soumendrak/MTEnglish2Odia): English-Odia (42k pairs)
+- [SAP Software Documentation](https://github.com/SAP/software-documentation-data-set-for-machine-translation): test and evaluation set for English-Hindi in the  software documentation domain [[paper](https://arxiv.org/abs/2008.04550)]
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
