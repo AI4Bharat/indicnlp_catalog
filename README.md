@@ -217,6 +217,7 @@ Benchmarks spanning multiple tasks.
 - [ACTSA corpus for Telugu](https://github.com/NirantK/bharatNLP/releases)
 - [BHAAV (भाव) Corpus](https://github.com/midas-research/bhaav): A Text Corpus for Emotion Analysis from Hindi Stories
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html) - Hindi, Bangla, Tamil & Telugu
+- [Dravidian-CodeMix - FIRE 2020](https://dravidian-codemix.github.io/2020/datasets.html) - Tamil & Malayalam
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
