@@ -329,3 +329,4 @@ http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf))
  Pointers to language-specific NLP resource catalogs
  
  - [Odia](https://github.com/shantipriyap/Odia-NLP-Resource-Catalog)
+ - [Nepali](https://github.com/amitness/ml-datasets)
