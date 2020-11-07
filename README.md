@@ -111,6 +111,7 @@ Benchmarks spanning multiple tasks.
 - Common Crawl
 	- [OSCAR Corpus](https://traces1.inria.fr/oscar): Released in 2019, large-scaled processed CommonCrawl.	
 	- [WMT Common Crawl Dumps](http://data.statmt.org/ngrams/raw): Crawls between 2012 and 2016. Noisy text, needs to be filtered.
+	- [CC-100 Corpus](): Facebook CommonCrawl extracted data. They provide scripts for processing CommonCrawl. StatMT has built a replica of the CC-100 corpus using these scripts. You can find it [HERE](http://data.statmt.org/cc-100). This corpus also has romanized corpora for some Indian languages.
 - [WMT NEWS Crawl](http://data.statmt.org/news-crawl)
 - [LDCIL Monolingual Corpus](https://data.ldcil.org)
 - [Charles University Hindi Monolingual Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-625F-0)
