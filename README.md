@@ -269,6 +269,11 @@ Benchmarks spanning multiple tasks.
 
 ## <a name='Models'></a>Models
 
+### <a name='Generative Models'></a>Generative Models
+
+- [Indic Language Modelling Project](https://github.com/ananthakrishnak/Indic-Language-Modelling-Project/): Pre-trained generative models for Indic languages 
+
+
 ### <a name='WordEmbeddings'></a>Word Embeddings
 
 - [AI4Bharat IndicFT](https://indicnlp.ai4bharat.org/indicft): Fast-text word embeddings for 11 Indian languages.
