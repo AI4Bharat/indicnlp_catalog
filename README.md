@@ -220,6 +220,7 @@ Benchmarks spanning multiple tasks.
 - [BHAAV (भाव) Corpus](https://github.com/midas-research/bhaav): A Text Corpus for Emotion Analysis from Hindi Stories
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html) - Hindi, Bangla, Tamil & Telugu
 - [Dravidian-CodeMix - FIRE 2020](https://dravidian-codemix.github.io/2020/datasets.html) - Tamil & Malayalam
+- [Bengali Sentiment Analysis - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText): 8k sentences
 
 ### <a name='HateSpeech'></a>Hate Speech and Offensive Comments
 
@@ -228,6 +229,7 @@ Benchmarks spanning multiple tasks.
 - [Aggression-annotated Corpus of Hindi-English Code-mixed Data, 2018](https://sites.google.com/view/trac1/shared-task): Scraped from Facebook (21k) & Twitter (18k) ([Paper](https://arxiv.org/abs/1803.09402))
 - [Did You Offend Me? Classification of Offensive Tweets in Hinglish Language, 2018](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification/tree/b8433ff1ebb885bd657f5117eab6bd3798f20408): 3k tweets ([Paper](https://www.aclweb.org/anthology/W18-5118))
 - [A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection, 2018](https://github.com/punyajoy/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text): 4.5k Tweets ([Paper](https://www.aclweb.org/anthology/W18-1105))
+- [Bengali Hate Speech - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText): 1.5k sentences
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
