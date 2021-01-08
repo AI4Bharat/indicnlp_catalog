@@ -41,6 +41,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Textual Entailment/Natural Language Inference](#TextualEntailment)
 	* [Paraphrase](#Paraphrase)
 	* [Sentiment, Sarcasm, Emotion  Analysis](#SentimentAnalysis)
+	* [Hate Speech and Offensive Comments](#HateSpeech)
 	* [Question Answering](#QuestionAnswering)
 	* [Dialog](#Dialog)
 	* [Discourse](#Discourse)
@@ -219,6 +220,14 @@ Benchmarks spanning multiple tasks.
 - [BHAAV (भाव) Corpus](https://github.com/midas-research/bhaav): A Text Corpus for Emotion Analysis from Hindi Stories
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html) - Hindi, Bangla, Tamil & Telugu
 - [Dravidian-CodeMix - FIRE 2020](https://dravidian-codemix.github.io/2020/datasets.html) - Tamil & Malayalam
+
+### <a name='HateSpeech'></a>Hate Speech and Offensive Comments
+
+- [Hate Speech and Offensive Content Identification in Indo-European Languages](https://hasocfire.github.io/hasoc/2020/dataset.html):  (HASOC FIRE-2020)
+- [An Indian Language Social Media Collection for Hate and Offensive Speech, 2020](https://www.aclweb.org/anthology/2020.restup-1.2/): Hinglish Tweets and FB Comments collected during Parliamentary Election 2019 of India (Dataset available on request)
+- [Aggression-annotated Corpus of Hindi-English Code-mixed Data, 2018](https://sites.google.com/view/trac1/shared-task): Scraped from Facebook (21k) & Twitter (18k) ([Paper](https://arxiv.org/abs/1803.09402))
+- [Did You Offend Me? Classification of Offensive Tweets in Hinglish Language, 2018](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification/tree/b8433ff1ebb885bd657f5117eab6bd3798f20408): 3k tweets ([Paper](https://www.aclweb.org/anthology/W18-5118))
+- [A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection, 2018](https://github.com/punyajoy/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text): 4.5k Tweets ([Paper](https://www.aclweb.org/anthology/W18-1105))
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
