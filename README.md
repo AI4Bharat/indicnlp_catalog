@@ -77,6 +77,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [AI4Bharat IndicNLP](https://indicnlp.ai4bharat.org)
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
 - [University of Hyderabad - Sanskrit NLP](http://sanskrit.uohyd.ac.in/scl)
+- [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category&path=75_59&limit=100)
 
 
 ## <a name='Libraries'></a>Libraries and Tools
