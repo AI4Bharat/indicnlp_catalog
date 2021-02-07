@@ -230,6 +230,7 @@ Benchmarks spanning multiple tasks.
 - [Aggression-annotated Corpus of Hindi-English Code-mixed Data, 2018](https://sites.google.com/view/trac1/shared-task): Scraped from Facebook (21k) & Twitter (18k) ([Paper](https://arxiv.org/abs/1803.09402))
 - [Did You Offend Me? Classification of Offensive Tweets in Hinglish Language, 2018](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification/tree/b8433ff1ebb885bd657f5117eab6bd3798f20408): 3k tweets ([Paper](https://www.aclweb.org/anthology/W18-5118))
 - [A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection, 2018](https://github.com/punyajoy/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text): 4.5k Tweets ([Paper](https://www.aclweb.org/anthology/W18-1105))
+- [Roman Urdu Offensive Language Detection, 2020](https://github.com/haroonshakeel/roman_urdu_hate_speech): 10k tweets, can also used for Hindi, ([Paper](https://www.aclweb.org/anthology/2020.emnlp-main.197))
 - [Bengali Hate Speech - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText): 1.5k sentences
 - [Offensive Language Identification in Dravidian Languages, EACL 2021](https://dravidianlangtech.github.io/2021/): Tamil, Malayalam, Kannada
 
