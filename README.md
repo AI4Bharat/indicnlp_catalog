@@ -185,6 +185,7 @@ Benchmarks spanning multiple tasks.
 - [CGNetSwara](http://cgnetswara.org/hindi-gondi-corpus.html): Hindi-Gondi parallel corpus (19k sentence pairs)
 - [MTEnglish2Odia](https://github.com/soumendrak/MTEnglish2Odia): English-Odia (42k pairs)
 - [SAP Software Documentation](https://github.com/SAP/software-documentation-data-set-for-machine-translation): test and evaluation set for English-Hindi in the  software documentation domain [[paper](https://arxiv.org/abs/2008.04550)]
+- [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt) - 2.7M sentences (has overlaps with OPUS)
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
