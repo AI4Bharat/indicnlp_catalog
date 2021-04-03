@@ -142,6 +142,7 @@ Benchmarks spanning multiple tasks.
 - [Facebook Hindi Analogy Dataset](https://dl.fbaipublicfiles.com/fasttext/word-analogies/questions-words-hi.txt)
 - [MGAD Hindi Analogy dataset](https://github.com/rutrastone/MGAD)
 - [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora): Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
+- [Hindi RG-63](https://github.com/ashwinivd/similarity_hindi): Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset
 
 ### <a name='NERCorpora'></a>NER Corpora
 
