@@ -11,10 +11,11 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 :+1: **Featured Resources**
 
+- :new:[Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models): Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation).
 - :new:[FLORES-101](https://github.com/facebookresearch/flores): Human translated evaluation sets for 101 languages released by Facebook. It includes 14 Indic languages. The testsets are n-way parallel. 
 - :new:[Samanantar Parallel Corpus](https://indicnlp.ai4bharat.org/samanantar): Largest parallel corpus for English and 11 Indian languages. It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
 - :new:[Itihasa Parallel Corpus](https://github.com/rahular/itihasa): 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
-- [AI4Bharat IndicNLPSuite](https://indicnlp.ai4bharat.org): Text corpora, word embeddings, BERT for Indian languages and NLU resources for Indian languages. 
+- [AI4Bharat IndicNLPSuite](https://indicnlp.ai4bharat.org): Text corpora, word embeddings, BERT for Indian languages and NLU resources for Indian languages.
 
 **Browse the entire catalog...**
 
@@ -51,7 +52,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Sentence Embeddings](#SentenceEmbeddings)
 	* [Multilingual Word Embeddings](#MultilingualWordEmbeddings)
 	* [Morphanalyzers](#Morphanalyzers)
-	* [SMT Models](#SMTModels)
+	* [Translation Models](#TranslationModels)
+	* [Speech Models](#SpeechModels)
 * [Speech Corpora](#SpeechCorpora)
 * [OCR Corpora](#OCRCorpora)
 * [Multimodal Corpora](#MultimodalCorpora)
@@ -314,11 +316,15 @@ Benchmarks spanning multiple tasks.
 
 - [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus): Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
 
-### <a name='SMTModels'></a>SMT Models
+### <a name='TranslationModels'></a>Translation Models
 
+- [IndicTrans](https://indicnlp.ai4bharat.org/indic-trans): Multilingual neural translation models for translation between English and 11 Indian languages. Supports translation between Indian langauges as well. A total of 110 translation directions are supported.
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
 
+### <a name='SpeechModels'></a>Speech Models
+
+- [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models): Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation).
 ## <a name='SpeechCorpora'></a>Speech Corpora
 
 - [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e): Speech corpus for Telugu, Tamil and Gujarati.
