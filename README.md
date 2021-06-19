@@ -339,7 +339,7 @@ Benchmarks spanning multiple tasks.
 - [Google Speech Corpus](http://www.openslr.org/resources.php): TTS data for 6 Indian languages: Malayalam, Marathi, Telugu, Kannada, Gujarati, Tamil (upto 9 hours each). Resources SLR#63-#66, #78-#79. [(paper)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)
 - [CoVoST 2](https://github.com/facebookresearch/covost): Tamil 2 hrs data
 - [SMC Malayalam Speech Corpus](https://blog.smc.org.in/malayalam-speech-corpus/) - [Download link](https://releases.smc.org.in/msc-reviewed-speech/)
-- [Vāksañcayaḥ Sanskrit Speech Corpus](https://github.com/cyfer0618/Vaksanca) : 78 hours of speech corpus in Sanskrit prose, with a speaker disjoint splits of train, dev and test. It also contains an additional out of domain test data with speakers having pronunciation influences from L1.
+- [Vāksañcayaḥ Sanskrit Speech Corpus](https://github.com/cyfer0618/Vaksanca) : 78 hours of speech corpus in Sanskrit prose, with a speaker disjoint splits of train, dev and test. It also contains an additional out of domain test data with speakers having pronunciation influences from L1 [(paper)](https://arxiv.org/abs/2106.05852).
 
 
 
