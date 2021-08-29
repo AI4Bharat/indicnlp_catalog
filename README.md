@@ -264,7 +264,7 @@ Benchmarks spanning multiple tasks.
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 - [Universal Dependencies](https://universaldependencies.org/)
-- [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): POS annotations for hi, bn, kn, ml and mr.
+- [IIITH Paninian Treebank](https://kcis.iiit.ac.in/LT/): POS annotations for hi, bn, kn, ml and mr.
 - [Code Mixed Dataset for Hindi, Bengali and Telugu, ICON 2016 shared task](https://amitavadas.com/Code-Mixing.html)
 - [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of 5000 sentences.
 - [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
@@ -273,7 +273,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='ChunkCorpus'></a>Chunk Corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
-- [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Chunk annotations for hi, bn, kn, ml and mr.
+- [Indian Languages Treebanking Project](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Chunk annotations for hi, bn, kn, ml and mr.
 
 ### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
 
