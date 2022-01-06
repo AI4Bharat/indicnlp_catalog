@@ -229,6 +229,7 @@ Benchmarks spanning multiple tasks.
 - [SentiWordNet - SAIL](http://amitavadas.com/SAIL/il_res.html) - Hindi, Bangla, Tamil & Telugu
 - [Dravidian-CodeMix - FIRE 2020](https://dravidian-codemix.github.io/2020/datasets.html) - Tamil & Malayalam
 - [Bengali Sentiment Analysis - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText): 8k sentences
+- [SentNoB](https://github.com/KhondokerIslam/SentNoB): sentiment dataset for Bangla from 3 domains on user comments containing 15k examples [(Paper)](https://aclanthology.org/2021.findings-emnlp.278.pdf)  [(Dataset)](https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts)
 
 ### <a name='HateSpeech'></a>Hate Speech and Offensive Comments
 
