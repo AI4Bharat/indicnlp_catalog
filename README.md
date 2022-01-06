@@ -286,8 +286,8 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='CoreferenceCorpus'></a>Coreference Corpus
 
-- [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Hindi
-- [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Hindi
+- [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
+- [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
 
 ## <a name='Models'></a>Models
 
