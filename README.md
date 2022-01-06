@@ -146,9 +146,6 @@ Benchmarks spanning multiple tasks.
 - [Hindi RG-63](https://github.com/ashwinivd/similarity_hindi): Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset
 - [IITB Cognate Datasets](https://github.com/dipteshkanojia/challengeCognateFF): Dataset of Cognates and False Friend Pairs for 12 Indian Languages. [(Paper)](https://aclanthology.org/2020.lrec-1.378.pdf)
 
-
-
-
 ### <a name='NERCorpora'></a>NER Corpora
 
 - [FIRE 2013 AUKBC NER Corpus](http://au-kbc.org/nlp/NER-FIRE2013)
