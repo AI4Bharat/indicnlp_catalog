@@ -252,6 +252,7 @@ Benchmarks spanning multiple tasks.
 - [XQuAD](https://github.com/deepmind/xquad): testset for Hindi QA from human translation of subset of SQuAD v1.1. Described in [this paper](https://arxiv.org/abs/1910.11856)
 - [XQA](http://github.com/thunlp/XQA): testset for Tamil QA. Described in [this paper](https://www.aclweb.org/anthology/P19-1227.pdf)
 - [HindiRC](https://github.com/erzaliator/HindiRC-Data): A Dataset for Reading Comprehension in Hindi containing 127 questions and 24 passages. Described in [this paper](https://www.researchgate.net/publication/342424208_HindiRC_A_Dataset_for_Reading_Comprehension_in_Hindi)
+- [HiDG](https://github.com/kaushal0494/ZmBART): A Distractor Generation Dataset for Hindi consisting of 1k/1k/5k (train/validation/test) split. Described in [this paper](https://arxiv.org/pdf/2106.01597.pdf). [Dataset](https://drive.google.com/drive/folders/1XlY9yOfk0XcfHNO5k0QGsbLQU1nMekG-)
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
