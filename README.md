@@ -253,6 +253,7 @@ Benchmarks spanning multiple tasks.
 - [XQA](http://github.com/thunlp/XQA): testset for Tamil QA. Described in [this paper](https://www.aclweb.org/anthology/P19-1227.pdf)
 - [HindiRC](https://github.com/erzaliator/HindiRC-Data): A Dataset for Reading Comprehension in Hindi containing 127 questions and 24 passages. Described in [this paper](https://www.researchgate.net/publication/342424208_HindiRC_A_Dataset_for_Reading_Comprehension_in_Hindi)
 - [IITH HiDG](https://github.com/kaushal0494/ZmBART): A Distractor Generation [Dataset](https://drive.google.com/drive/folders/1XlY9yOfk0XcfHNO5k0QGsbLQU1nMekG-) for Hindi consisting of 1k/1k/5k (train/validation/test) split. Described in [this paper](https://arxiv.org/pdf/2106.01597.pdf)
+- [Chaii](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/overview) a Kaggle challenge which consists of 1104 Questions in Hindi and Tamil. Moreover, [here](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/264695) is a good collection of papers on multilingual Question Answering.
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
@@ -290,8 +291,8 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='CoreferenceCorpus'></a>Coreference Corpus
 
-- [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Hindi
-- [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Hindi
+- [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
+- [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
 
 ## <a name='Models'></a>Models
 

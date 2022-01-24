@@ -18,3 +18,4 @@
 - Kavya Manohar
 - Amrith Krishna
 - Gokul NC
+- Ritwik Mishra
