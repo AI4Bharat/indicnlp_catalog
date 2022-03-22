@@ -50,7 +50,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Co-reference Corpus](#CoreferenceCorpus)
 * [Models](#Models)
 	* [Word Embeddings](#WordEmbeddings)
-	* [Sentence Embeddings](#SentenceEmbeddings)
+	* [Pre-trained Language Models](#PreTrainedLanguageModels)
 	* [Multilingual Word Embeddings](#MultilingualWordEmbeddings)
 	* [Morphanalyzers](#Morphanalyzers)
 	* [Translation Models](#TranslationModels)
@@ -304,9 +304,11 @@ Benchmarks spanning multiple tasks.
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
 
 
-### <a name='SentenceEmbeddings'></a>Sentence Embeddings
+### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
-- [AI4Bharat IndicBERT](https://indicnlp.ai4bharat.org/indic-bert): Multilingual ALBERT embeddings spanning 12 languages (including Indian English).
+- [AI4Bharat IndicBERT](https://indicnlp.ai4bharat.org/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
+- [AI4Bharat IndicBART](https://indicnlp.ai4bharat.org/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
+- [MuRIL](https://huggingface.co/google/muril-base-cased): Multilingual mBERT based embeddings spanning 17 languages and their transliterated counterparts for Natural Language Understanding [(paper)](https://arxiv.org/abs/2103.10730).
 - [BERT Multilingual](https://github.com/google-research/bert): BERT model trained on Wikipedias of many languages (including major Indic languages).
 - [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
 - [albert-base-sanskrit](https://huggingface.co/surajp/albert-base-sanskrit): ALBERT-based model trained on Sanskrit Wikipedia.
@@ -330,6 +332,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='SpeechModels'></a>Speech Models
 
+- [AI4Bharat IndicWav2Vec](https://indicnlp.ai4bharat.org/indicwav2vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0
 - [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models): Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation).
 - [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on ~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
