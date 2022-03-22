@@ -96,8 +96,10 @@ _Add a small, informative description of the dataset and provide links to any pa
 Benchmarks spanning multiple tasks.
 
 - [AI4Bharat IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue): NLU benchmark for 11 languages.
+- [AI4Bharat IndicNLG Suite](https://indicnlp.ai4bharat.org/indicnlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks.
 - [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
 - [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
+- [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
 
 ## <a name='Standards'></a>Standards
 
