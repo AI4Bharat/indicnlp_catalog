@@ -11,12 +11,12 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 :+1: **Featured Resources**
 
-- :new:[Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models): Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation).
-- :new:[FLORES-101](https://github.com/facebookresearch/flores): Human translated evaluation sets for 101 languages released by Facebook. It includes 14 Indic languages. The testsets are n-way parallel. 
-- :new:[Samanantar Parallel Corpus](https://indicnlp.ai4bharat.org/samanantar): Largest parallel corpus for English and 11 Indian languages. It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
-- :new:[IndicTrans](https://indicnlp.ai4bharat.org/indic-trans): Multilingual neural translation models for translation between English and 11 Indian languages. Supports translation between Indian langauges as well. A total of 110 translation directions are supported.
-- :new:[Itihasa Parallel Corpus](https://github.com/rahular/itihasa): 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
-- [AI4Bharat IndicNLPSuite](https://indicnlp.ai4bharat.org): Text corpora, word embeddings, BERT for Indian languages and NLU resources for Indian languages.
+- :new:[AI4Bharat IndicNLG Suite](https://indicnlp.ai4bharat.org/indicnlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks. Pre-trained models ara also available.                                                                            
+- :new:[AI4Bharat IndicBART](https://indicnlp.ai4bharat.org/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
+- :new:[HiNER](https://huggingface.co/datasets/cfilt/HiNER-original): Large manually annotated NER dataset for Hindi (100k sentences, 2m+ tokens) [[paper](https://arxiv.org/abs/2204.13743)]
+- [AI4Bharat Cross-lingual Semantic Textual Similarity](https://storage.googleapis.com/samanantar-public/human_annotations.tsv): 10 sentences across 11 en-Indic language pairs annotated on a scale of 0-5 as per SemEval cross-lingual STS guidelines
+- [XL-Sum](https://github.com/csebuetnlp/xl-sum): Extreme Summarization data for many Indian languages
+- [BUILD](https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline): Indian Legal Data Benchmark for rhetorical roles
 
 **Browse the entire catalog...**
 
@@ -334,7 +334,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='SpeechModels'></a>Speech Models
 
-- [AI4Bharat IndicWav2Vec](https://indicnlp.ai4bharat.org/indicwav2vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0
+- [AI4Bharat IndicWav2Vec](https://indicnlp.ai4bharat.org/indicwav2vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 - [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models): Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation).
 - [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on ~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
