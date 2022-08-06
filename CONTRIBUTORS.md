@@ -19,3 +19,4 @@
 - Amrith Krishna
 - Gokul NC
 - Ritwik Mishra
+- Sangeeta Rajagopal
