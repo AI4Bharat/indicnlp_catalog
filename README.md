@@ -55,6 +55,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Morphanalyzers](#Morphanalyzers)
 	* [Translation Models](#TranslationModels)
 	* [Speech Models](#SpeechModels)
+	* [NER](#NER)
 * [Speech Corpora](#SpeechCorpora)
 * [OCR Corpora](#OCRCorpora)
 * [Multimodal Corpora](#MultimodalCorpora)
@@ -156,6 +157,7 @@ Benchmarks spanning multiple tasks.
 - [WikiAnn NER Corpus](https://elisa-ie.github.io/wikiann) (_Noisy_)  [DOWNLOAD](https://drive.google.com/drive/folders/1Q-xdT99SeaCghihGa7nRkcXGwRGUIsKN?usp=sharing)  (Old broken [LINK](http://nlp.cs.rpi.edu))
 - [IJCNLP 200 NER Corpus](http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5): NER corpora for hi, bn, or, te, ur.
 - [a-mma NER data](https://github.com/a-mma/NER_Open_Data)
+- [AI4Bharat Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam): NER dataset for 11 Indic languages.
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
@@ -337,6 +339,10 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat IndicWav2Vec](https://indicnlp.ai4bharat.org/indicwav2vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 - [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models): Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation).
 - [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on ~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
+
+### <a name='NER'></a>NER
+
+- [AI4Bharat IndicNER](https://huggingface.co/ai4bharat/IndicNER): NER model for 11 Indic languages.
 
 ## <a name='SpeechCorpora'></a>Speech Corpora
 
