@@ -156,6 +156,7 @@ Benchmarks spanning multiple tasks.
 - [WikiAnn NER Corpus](https://elisa-ie.github.io/wikiann) (_Noisy_)  [DOWNLOAD](https://drive.google.com/drive/folders/1Q-xdT99SeaCghihGa7nRkcXGwRGUIsKN?usp=sharing)  (Old broken [LINK](http://nlp.cs.rpi.edu))
 - [IJCNLP 200 NER Corpus](http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5): NER corpora for hi, bn, or, te, ur.
 - [a-mma NER data](https://github.com/a-mma/NER_Open_Data)
+- [AI4Bharat Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam): NER dataset for 11 Indic languages.
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
