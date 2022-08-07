@@ -55,6 +55,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Morphanalyzers](#Morphanalyzers)
 	* [Translation Models](#TranslationModels)
 	* [Speech Models](#SpeechModels)
+	* [NER](#NER)
 * [Speech Corpora](#SpeechCorpora)
 * [OCR Corpora](#OCRCorpora)
 * [Multimodal Corpora](#MultimodalCorpora)
