@@ -158,7 +158,7 @@ Benchmarks spanning multiple tasks.
 - [IJCNLP 200 NER Corpus](http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5): NER corpora for hi, bn, or, te, ur.
 - [a-mma NER data](https://github.com/a-mma/NER_Open_Data)
 - [AI4Bharat Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam): NER dataset for 11 Indic languages.
-- [AsNER]: A named entity annotation dataset for low resource Assamese language containing 99k tokens. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf)
+- [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A named entity annotation dataset for low resource Assamese language containing 99k tokens. 
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
@@ -344,7 +344,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='NER'></a>NER
 
 - [AI4Bharat IndicNER](https://huggingface.co/ai4bharat/IndicNER): NER model for 11 Indic languages.
-- [AsNER]: A Baseline Assamese NER model.Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf)
+- [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A Baseline Assamese NER model.
 
 ## <a name='SpeechCorpora'></a>Speech Corpora
 
