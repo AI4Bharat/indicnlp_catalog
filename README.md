@@ -369,6 +369,8 @@ Benchmarks spanning multiple tasks.
 - [CoVoST 2](https://github.com/facebookresearch/covost): Tamil 2 hrs data
 - [SMC Malayalam Speech Corpus](https://blog.smc.org.in/malayalam-speech-corpus/) - [Download link](https://releases.smc.org.in/msc-reviewed-speech/)
 - [Vāksañcayaḥ Sanskrit Speech Corpus](https://github.com/cyfer0618/Vaksanca) : 78 hours of speech corpus in Sanskrit prose, with a speaker disjoint splits of train, dev and test. It also contains an additional out of domain test data with speakers having pronunciation influences from L1 [(paper)](https://arxiv.org/abs/2106.05852).
+- [IISc-MILE Kannada ASR Corpus](http://www.openslr.org/126/): Transcribed speech corpus containing ~350 hours of read speech data for training ASR systems for Kannada language. Described in [this paper](https://arxiv.org/abs/2207.13331).
+- [IISc-MILE Tamil ASR Corpus](http://www.openslr.org/127/): Transcribed speech corpus containing ~150 hours of read speech data for training ASR systems for Tamil language. Described in [this paper](https://arxiv.org/abs/2207.13331).
 
 
 
