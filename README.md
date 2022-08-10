@@ -212,6 +212,7 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat StoryWeaver Xlit Dataset](http://transliteration.ai4bharat.org/#/resources) - Transliteration datasets for Hindi, Maithili & Konkani
 - [Hindi WikiData Transliteration Pairs](https://trigonaminima.github.io/2019/11/transliteration-wikidata/) - Hindi dataset (90k pairs)
 - [NotAI-tech English-Telugu](https://github.com/notAI-tech/Datasets/tree/master/En-Te_Transliteration): Around 38k word pairs
+- [AI4Bharat Aksharantar](https://indicnlp.ai4bharat.org/aksharantar/): The largest publicly available transliteration dataset for 21 Indic languages consisting of 26M Indic language-English transliteration pairs. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
 ### <a name='TextualClassification'></a>Text Classification
 
@@ -336,6 +337,10 @@ Benchmarks spanning multiple tasks.
 - [IndicTrans](https://indicnlp.ai4bharat.org/indic-trans): Multilingual neural translation models for translation between English and 11 Indian languages. Supports translation between Indian langauges as well. A total of 110 translation directions are supported.
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
+
+### <a name='TransliterationModels'></a>Transliteration Models
+
+- [AI4Bharat IndicXlit](https://indicnlp.ai4bharat.org/indic-xlit/): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
 ### <a name='SpeechModels'></a>Speech Models
 
