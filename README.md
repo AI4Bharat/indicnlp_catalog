@@ -158,6 +158,9 @@ Benchmarks spanning multiple tasks.
 - [IJCNLP 200 NER Corpus](http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5): NER corpora for hi, bn, or, te, ur.
 - [a-mma NER data](https://github.com/a-mma/NER_Open_Data)
 - [AI4Bharat Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam): NER dataset for 11 Indic languages.
+- [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A named entity annotation dataset for low resource Assamese language containing 99k tokens.
+- [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER): The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
+- [CFILT HiNER](https://github.com/cfiltnlp/hiner): A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in [this paper](https://arxiv.org/abs/2204.13743).
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
@@ -209,6 +212,7 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat StoryWeaver Xlit Dataset](http://transliteration.ai4bharat.org/#/resources) - Transliteration datasets for Hindi, Maithili & Konkani
 - [Hindi WikiData Transliteration Pairs](https://trigonaminima.github.io/2019/11/transliteration-wikidata/) - Hindi dataset (90k pairs)
 - [NotAI-tech English-Telugu](https://github.com/notAI-tech/Datasets/tree/master/En-Te_Transliteration): Around 38k word pairs
+- [AI4Bharat Aksharantar](https://indicnlp.ai4bharat.org/aksharantar/): The largest publicly available transliteration dataset for 21 Indic languages consisting of 26M Indic language-English transliteration pairs. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
 ### <a name='TextualClassification'></a>Text Classification
 
@@ -334,6 +338,10 @@ Benchmarks spanning multiple tasks.
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
 
+### <a name='TransliterationModels'></a>Transliteration Models
+
+- [AI4Bharat IndicXlit](https://indicnlp.ai4bharat.org/indic-xlit/): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
+
 ### <a name='SpeechModels'></a>Speech Models
 
 - [AI4Bharat IndicWav2Vec](https://indicnlp.ai4bharat.org/indicwav2vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
@@ -343,6 +351,9 @@ Benchmarks spanning multiple tasks.
 ### <a name='NER'></a>NER
 
 - [AI4Bharat IndicNER](https://huggingface.co/ai4bharat/IndicNER): NER model for 11 Indic languages.
+- [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A Baseline Assamese NER model.
+- [L3Cube-MahaNER-BERT](https://huggingface.co/l3cube-pune/marathi-ner): A 752 million token multilingual BERT model. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
+- [CFILT HiNER](https://github.com/cfiltnlp/hiner#models): Hindi NER models trained on CFILT HiNER dataset. Described in [this paper](https://arxiv.org/abs/2204.13743).
 
 ## <a name='SpeechCorpora'></a>Speech Corpora
 
