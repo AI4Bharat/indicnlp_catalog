@@ -8,8 +8,8 @@ _Please suggest any other resources you may be aware of. Raise a pull request or
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list._
 
 
-:+1: ##Featured Resources
-
+## Featured Resources :+1: 
+ 
 - :new:[AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks. Pre-trained models ara also available.                                                                            
 - :new:[AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
 - :new:[HiNER](https://huggingface.co/datasets/cfilt/HiNER-original): Large manually annotated NER dataset for Hindi (100k sentences, 2m+ tokens) [[paper](https://arxiv.org/abs/2204.13743)]
@@ -17,7 +17,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [XL-Sum](https://github.com/csebuetnlp/xl-sum): Extreme Summarization data for many Indian languages
 - [BUILD](https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline): Indian Legal Data Benchmark for rhetorical roles
 
-**Browse the entire catalog...**
+## Browse the entire catalog...
 
 :raising_hand:**Note**: Many known resources have not yet been classified into the catalog. They can be found as open issues in the repo.
 	
