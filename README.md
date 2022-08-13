@@ -364,7 +364,6 @@ Benchmarks spanning multiple tasks.
 - [AccentDB](https://accentdb.org/): Database of Indian English accents from native speakers in Bangla, Malayalam, Telugu and Oriya. 
 - [IIT Madras TTS database](https://www.iitm.ac.in/donlab/tts/index.php)
 - [BABEL Speech Corpus](https://en.wikipedia.org/wiki/BABEL_Speech_Corpus): includes some Indian languages
-- [Pratham ASER dataset](https://github.com/shashwatup9k/bho-resources): Dataset for research on reading level assessment.
 - [WikiPron](https://pypi.org/project/wikipron/): Words and their pronunciations in IPA mined from Wiktionary. Includes Indian languages. [paper](https://www.aclweb.org/anthology/2020.lrec-1.521)
 - [CVIT IndicSpeech](http://cvit.iiit.ac.in/research/projects/cvit-projects/text-to-speech-dataset-for-indian-languages): TTS data for 3 Indian languages: Malayalam, Bengali and Hindi (24 hours each).
 - [Google Speech Corpus](http://www.openslr.org/resources.php): TTS data for 6 Indian languages: Malayalam, Marathi, Telugu, Kannada, Gujarati, Tamil (upto 9 hours each). Resources SLR#63-#66, #78-#79. [(paper)](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf)
@@ -373,6 +372,19 @@ Benchmarks spanning multiple tasks.
 - [Vāksañcayaḥ Sanskrit Speech Corpus](https://github.com/cyfer0618/Vaksanca) : 78 hours of speech corpus in Sanskrit prose, with a speaker disjoint splits of train, dev and test. It also contains an additional out of domain test data with speakers having pronunciation influences from L1 [(paper)](https://arxiv.org/abs/2106.05852).
 - [IISc-MILE Kannada ASR Corpus](http://www.openslr.org/126/): Transcribed speech corpus containing ~350 hours of read speech data for training ASR systems for Kannada language. Described in [this paper](https://arxiv.org/abs/2207.13331).
 - [IISc-MILE Tamil ASR Corpus](http://www.openslr.org/127/): Transcribed speech corpus containing ~150 hours of read speech data for training ASR systems for Tamil language. Described in [this paper](https://arxiv.org/abs/2207.13331).
+- [MUCS 2021 Dataset](https://navana-tech.github.io/MUCS2021/data.html): (Gujarati, Hindi, Marathi, Odia, Tamil, Telugu) Multilingual and Code-Switching ASR Challenges for Low Resource Indian Languages 
+- [Gramvaani](https://sites.google.com/view/gramvaaniasrchallenge/dataset): 100 hours of labelled data and 1000 hours of pretraining data for Hindi
+- [Kashmiri Data Corpus](https://www.openslr.org/122/): Collection of transcribed Kashmiri recordings taken from native speakers
+- [Hindi-Tamil-English ASR Challenge](https://sites.google.com/view/indian-language-asrchallenge/home): 490 hours of transcribed speeech data in three Indian Languages
+- [Large Sinhala ASR training data set](http://openslr.org/52): Sinhala ASR training data set containing ~185K utterances
+- [Large Bengali ASR training data set](http://openslr.org/53): Bengali ASR training data set containing ~196K utterances
+- [Large Nepali ASR training data set](http://openslr.org/54): Nepali ASR training data set containing ~157K utterances
+- [Crowdsourced high-quality Gujarati multi-speaker speech data set](https://www.openslr.org/78/): Contains recordings of native speakers of Gujarati
+- [Crowdsourced high-quality Kannada multi-speaker speech data set](https://www.openslr.org/79/): Contains recordings of native speakers of Kannada
+- [Crowdsourced high-quality Malayalam multi-speaker speech data set](https://www.openslr.org/63/): Contains recordings of native speakers of Malayalam
+- [Crowdsourced high-quality Marathi multi-speaker speech data set](https://www.openslr.org/64/): Contains recordings of native speakers of Marathi
+- [Crowdsourced high-quality Tamil multi-speaker speech data set](https://www.openslr.org/65/): Contains recordings of native speakers of Tamil
+- [Crowdsourced high-quality Telugu multi-speaker speech data set](https://www.openslr.org/66/): Contains recordings of native speakers of Telugu
 
 
 
