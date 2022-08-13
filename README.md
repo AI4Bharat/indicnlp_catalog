@@ -160,6 +160,7 @@ Benchmarks spanning multiple tasks.
 - [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A named entity annotation dataset for low resource Assamese language containing 99k tokens.
 - [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER): The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 - [CFILT HiNER](https://github.com/cfiltnlp/hiner): A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in [this paper](https://arxiv.org/abs/2204.13743).
+- [MultiCoNER](https://multiconer.github.io/): A multilingual complex Named Entity Recognition dataset composed of 2.3 million instances for 11 languages(including dataset for Indic languages Hindi and Bangla) representing three domains(wiki sentences, questions, and search queries) plus multilingual and code-mixed subsets.The NER tag-set consists of six classes viz.: PER,LOC,CORP,GRP,PROD and CW. Described in [this paper](https://aclanthology.org/2022.semeval-1.196.pdf).
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
@@ -314,7 +315,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
 - [AI4Bharat IndicBERT](https://ai4bharat.iitm.ac.in/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
-- [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
+- [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): A multilingual,sequence-to-sequence pre-trained model based on the mBART architecture focusing on 11 Indic languages and English for Natural Language Generation of Indic Languages. Described in [this paper](https://arxiv.org/abs/2109.02903).
 - [MuRIL](https://huggingface.co/google/muril-base-cased): Multilingual mBERT based embeddings spanning 17 languages and their transliterated counterparts for Natural Language Understanding [(paper)](https://arxiv.org/abs/2103.10730).
 - [BERT Multilingual](https://github.com/google-research/bert): BERT model trained on Wikipedias of many languages (including major Indic languages).
 - [mBART50](https://huggingface.co/facebook/mbart-large-50): seq2seq pre-trained model trained on CommonCrawl of many languages (including major Indic languages).
