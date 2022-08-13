@@ -212,7 +212,7 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat StoryWeaver Xlit Dataset](http://transliteration.ai4bharat.org/#/resources) - Transliteration datasets for Hindi, Maithili & Konkani
 - [Hindi WikiData Transliteration Pairs](https://trigonaminima.github.io/2019/11/transliteration-wikidata/) - Hindi dataset (90k pairs)
 - [NotAI-tech English-Telugu](https://github.com/notAI-tech/Datasets/tree/master/En-Te_Transliteration): Around 38k word pairs
-- [AI4Bharat Aksharantar](https://indicnlp.ai4bharat.org/aksharantar/): The largest publicly available transliteration dataset for 21 Indic languages consisting of 26M Indic language-English transliteration pairs. Described in [this paper](https://arxiv.org/abs/2205.03018).
+- [AI4Bharat Aksharantar](https://ai4bharat.iitm.ac.in/aksharantar): The largest publicly available transliteration dataset for 21 Indic languages consisting of 26M Indic language-English transliteration pairs. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
 ### <a name='TextualClassification'></a>Text Classification
 
@@ -340,7 +340,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='TransliterationModels'></a>Transliteration Models
 
-- [AI4Bharat IndicXlit](https://indicnlp.ai4bharat.org/indic-xlit/): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
+- [AI4Bharat IndicXlit](https://ai4bharat.iitm.ac.in/indic-xlit): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
 ### <a name='SpeechModels'></a>Speech Models
 
