@@ -11,8 +11,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 :+1: **Featured Resources**
 
-- :new:[AI4Bharat IndicNLG Suite](https://indicnlp.ai4bharat.org/indicnlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks. Pre-trained models ara also available.                                                                            
-- :new:[AI4Bharat IndicBART](https://indicnlp.ai4bharat.org/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
+- :new:[AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks. Pre-trained models ara also available.                                                                            
+- :new:[AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
 - :new:[HiNER](https://huggingface.co/datasets/cfilt/HiNER-original): Large manually annotated NER dataset for Hindi (100k sentences, 2m+ tokens) [[paper](https://arxiv.org/abs/2204.13743)]
 - [AI4Bharat Cross-lingual Semantic Textual Similarity](https://storage.googleapis.com/samanantar-public/human_annotations.tsv): 10 sentences across 11 en-Indic language pairs annotated on a scale of 0-5 as per SemEval cross-lingual STS guidelines
 - [XL-Sum](https://github.com/csebuetnlp/xl-sum): Extreme Summarization data for many Indian languages
@@ -96,8 +96,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 Benchmarks spanning multiple tasks.
 
-- [AI4Bharat IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue): NLU benchmark for 11 languages.
-- [AI4Bharat IndicNLG Suite](https://indicnlp.ai4bharat.org/indicnlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks.
+- [AI4Bharat IndicGLUE](https://ai4bharat.iitm.ac.in/indic-glue): NLU benchmark for 11 languages.
+- [AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks.
 - [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
 - [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 - [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
@@ -112,7 +112,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
-- [AIBharat IndicCorp](https://indicnlp.ai4bharat.org/corpora): contains 8.9 billion tokens from 12 Indian languages (including Indian English).
+- [AIBharat IndicCorp](https://ai4bharat.iitm.ac.in/indic-corp): contains 8.9 billion tokens from 12 Indian languages (including Indian English).
 - [Wikipedia Dumps](https://dumps.wikimedia.org)
 - Common Crawl
 	- [OSCAR Corpus](https://traces1.inria.fr/oscar): Released in 2019, large-scaled processed CommonCrawl.	
@@ -164,7 +164,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
-- [Samanantar Parallel Corpus](https://indicnlp.ai4bharat.org/samanantar): Largest parallel corpus for English and 11 Indian languages. It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
+- [Samanantar Parallel Corpus](https://ai4bharat.iitm.ac.in/samanantar): Largest parallel corpus for English and 11 Indian languages. It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
 - [FLORES-101](https://github.com/facebookresearch/flores): Human translated evaluation sets for 101 languages released by Facebook. It includes 14 Indic languages. The testsets are n-way parallel. 
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel): Largest en-hi parallel corpora in public domain (about 1.5 million segments)
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
@@ -212,7 +212,7 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat StoryWeaver Xlit Dataset](http://transliteration.ai4bharat.org/#/resources) - Transliteration datasets for Hindi, Maithili & Konkani
 - [Hindi WikiData Transliteration Pairs](https://trigonaminima.github.io/2019/11/transliteration-wikidata/) - Hindi dataset (90k pairs)
 - [NotAI-tech English-Telugu](https://github.com/notAI-tech/Datasets/tree/master/En-Te_Transliteration): Around 38k word pairs
-- [AI4Bharat Aksharantar](https://indicnlp.ai4bharat.org/aksharantar/): The largest publicly available transliteration dataset for 21 Indic languages consisting of 26M Indic language-English transliteration pairs. Described in [this paper](https://arxiv.org/abs/2205.03018).
+- [AI4Bharat Aksharantar](https://ai4bharat.iitm.ac.in/aksharantar): The largest publicly available transliteration dataset for 21 Indic languages consisting of 26M Indic language-English transliteration pairs. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
 ### <a name='TextualClassification'></a>Text Classification
 
@@ -306,7 +306,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='WordEmbeddings'></a>Word Embeddings
 
-- [AI4Bharat IndicFT](https://indicnlp.ai4bharat.org/indicft): Fast-text word embeddings for 11 Indian languages.
+- [AI4Bharat IndicFT](https://ai4bharat.iitm.ac.in/indic-ft): Fast-text word embeddings for 11 Indian languages.
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
@@ -314,8 +314,8 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
-- [AI4Bharat IndicBERT](https://indicnlp.ai4bharat.org/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
-- [AI4Bharat IndicBART](https://indicnlp.ai4bharat.org/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
+- [AI4Bharat IndicBERT](https://ai4bharat.iitm.ac.in/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
+- [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
 - [MuRIL](https://huggingface.co/google/muril-base-cased): Multilingual mBERT based embeddings spanning 17 languages and their transliterated counterparts for Natural Language Understanding [(paper)](https://arxiv.org/abs/2103.10730).
 - [BERT Multilingual](https://github.com/google-research/bert): BERT model trained on Wikipedias of many languages (including major Indic languages).
 - [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
@@ -334,17 +334,17 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='TranslationModels'></a>Translation Models
 
-- [IndicTrans](https://indicnlp.ai4bharat.org/indic-trans): Multilingual neural translation models for translation between English and 11 Indian languages. Supports translation between Indian langauges as well. A total of 110 translation directions are supported.
+- [IndicTrans](https://ai4bharat.iitm.ac.in/indic-trans): Multilingual neural translation models for translation between English and 11 Indian languages. Supports translation between Indian langauges as well. A total of 110 translation directions are supported.
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
 
 ### <a name='TransliterationModels'></a>Transliteration Models
 
-- [AI4Bharat IndicXlit](https://indicnlp.ai4bharat.org/indic-xlit/): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
+- [AI4Bharat IndicXlit](https://ai4bharat.iitm.ac.in/indic-xlit): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
 ### <a name='SpeechModels'></a>Speech Models
 
-- [AI4Bharat IndicWav2Vec](https://indicnlp.ai4bharat.org/indicwav2vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
+- [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 - [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models): Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation).
 - [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on ~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
@@ -369,6 +369,8 @@ Benchmarks spanning multiple tasks.
 - [CoVoST 2](https://github.com/facebookresearch/covost): Tamil 2 hrs data
 - [SMC Malayalam Speech Corpus](https://blog.smc.org.in/malayalam-speech-corpus/) - [Download link](https://releases.smc.org.in/msc-reviewed-speech/)
 - [Vāksañcayaḥ Sanskrit Speech Corpus](https://github.com/cyfer0618/Vaksanca) : 78 hours of speech corpus in Sanskrit prose, with a speaker disjoint splits of train, dev and test. It also contains an additional out of domain test data with speakers having pronunciation influences from L1 [(paper)](https://arxiv.org/abs/2106.05852).
+- [IISc-MILE Kannada ASR Corpus](http://www.openslr.org/126/): Transcribed speech corpus containing ~350 hours of read speech data for training ASR systems for Kannada language. Described in [this paper](https://arxiv.org/abs/2207.13331).
+- [IISc-MILE Tamil ASR Corpus](http://www.openslr.org/127/): Transcribed speech corpus containing ~150 hours of read speech data for training ASR systems for Tamil language. Described in [this paper](https://arxiv.org/abs/2207.13331).
 
 
 
