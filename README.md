@@ -315,7 +315,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
 - [AI4Bharat IndicBERT](https://ai4bharat.iitm.ac.in/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
-- [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
+- [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): A multilingual,sequence-to-sequence pre-trained model based on the mBART architecture focusing on 11 Indic languages and English for Natural Language Generation of Indic Languages.Described in [this paper](https://arxiv.org/abs/2109.02903).
 - [MuRIL](https://huggingface.co/google/muril-base-cased): Multilingual mBERT based embeddings spanning 17 languages and their transliterated counterparts for Natural Language Understanding [(paper)](https://arxiv.org/abs/2103.10730).
 - [BERT Multilingual](https://github.com/google-research/bert): BERT model trained on Wikipedias of many languages (including major Indic languages).
 - [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
