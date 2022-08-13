@@ -72,7 +72,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Technology Development for Indian Languages (TDIL)](http://tdil-dc.in)
 - [Center for Indian Language Technology (CFILT)](http://www.cfilt.iitb.ac.in/)
 - [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/download.php)
-- [AI4Bharat IndicNLP](https://indicnlp.ai4bharat.org)
+- [AI4Bharat IndicNLP](https://ai4bharat.iitm.ac.in/)
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
 - [University of Hyderabad - Sanskrit NLP](http://sanskrit.uohyd.ac.in/scl)
 - [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category&path=75_59&limit=100)
