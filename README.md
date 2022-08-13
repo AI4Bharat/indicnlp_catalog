@@ -10,11 +10,10 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ## Featured Resources :+1: 
  
-- :new:[Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca): ULCA is a standard API and open scalable data platform (supporting various types of datasets) for Indian language datasets and models. ULCA is part for the [Bhasini mission](https://bhashini.gov.in). 
-- :new:[AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks. Pre-trained models ara also available.                                                                            
-- :new:[HiNER](https://huggingface.co/datasets/cfilt/HiNER-original): Large manually annotated NER dataset for Hindi (100k sentences, 2m+ tokens) [[paper](https://arxiv.org/abs/2204.13743)]
-- [XL-Sum](https://github.com/csebuetnlp/xl-sum): Extreme Summarization data for many Indian languages
-- [BUILD](https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline): Indian Legal Data Benchmark for rhetorical roles
+- [Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca): ULCA is a standard API and open scalable data platform (supporting various types of datasets) for Indian language datasets and models. ULCA is part for the [Bhasini mission](https://bhashini.gov.in). 
+- :new:[BLOOM](https://huggingface.co/bigscience/bloom): GPT3 like multilingual transformer-decoder language model (includes major Indic languages.
+- :new:[AI4Bharat Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam): NER dataset for 11 Indic languages.
+- :new:[L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER): The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 
 
 ## Browse the entire catalog...
@@ -318,6 +317,8 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
 - [MuRIL](https://huggingface.co/google/muril-base-cased): Multilingual mBERT based embeddings spanning 17 languages and their transliterated counterparts for Natural Language Understanding [(paper)](https://arxiv.org/abs/2103.10730).
 - [BERT Multilingual](https://github.com/google-research/bert): BERT model trained on Wikipedias of many languages (including major Indic languages).
+- [mBART50](https://huggingface.co/facebook/mbart-large-50): seq2seq pre-trained model trained on CommonCrawl of many languages (including major Indic languages).
+- [BLOOM](https://huggingface.co/bigscience/bloom): GPT3 like multilingual transformer-decoder language model (includes major Indic languages.
 - [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
 - [albert-base-sanskrit](https://huggingface.co/surajp/albert-base-sanskrit): ALBERT-based model trained on Sanskrit Wikipedia.
 - [RoBERTa-hindi-guj-san](https://huggingface.co/surajp/RoBERTa-hindi-guj-san): Multilingual RoBERTa like model trained on Hindi, Sanskrit and Gujarati.
