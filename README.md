@@ -161,6 +161,7 @@ Benchmarks spanning multiple tasks.
 - [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A named entity annotation dataset for low resource Assamese language containing 99k tokens.
 - [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER): The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 - [CFILT HiNER](https://github.com/cfiltnlp/hiner): A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in [this paper](https://arxiv.org/abs/2204.13743).
+- [MultiCoNER](https://multiconer.github.io/): A multilingual complex Named Entity Recognition dataset composed of 2.3 million instances for 11 languages(including dataset for Indic languages Hindi and Bangla) representing three domains(wiki sentences, questions, and search queries) plus multilingual and code-mixed subsets.The NER tag-set consists of six classes viz.:PER,LOC,CORP,GRP,PROD and CW. Described in [this paper](https://aclanthology.org/2022.semeval-1.196.pdf).
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
