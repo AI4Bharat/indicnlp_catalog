@@ -7,9 +7,8 @@ _Please suggest any other resources you may be aware of. Raise a pull request or
 
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list._
 
-:new: Added _Evaluation Benchmarks_ sections
 
-:+1: **Featured Resources**
+:+1: ##Featured Resources
 
 - :new:[AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks. Pre-trained models ara also available.                                                                            
 - :new:[AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
