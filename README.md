@@ -10,12 +10,12 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 ## Featured Resources :+1: 
  
+- :new:[Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca): ULCA is a standard API and open scalable data platform (supporting various types of datasets) for Indian language datasets and models. ULCA is part for the [Bhasini mission](https://bhashini.gov.in). 
 - :new:[AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks. Pre-trained models ara also available.                                                                            
-- :new:[AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): Multilingual mBART based embeddings spanning 12 languages for Natural Language Generation (including Indian English).
 - :new:[HiNER](https://huggingface.co/datasets/cfilt/HiNER-original): Large manually annotated NER dataset for Hindi (100k sentences, 2m+ tokens) [[paper](https://arxiv.org/abs/2204.13743)]
-- [AI4Bharat Cross-lingual Semantic Textual Similarity](https://storage.googleapis.com/samanantar-public/human_annotations.tsv): 10 sentences across 11 en-Indic language pairs annotated on a scale of 0-5 as per SemEval cross-lingual STS guidelines
 - [XL-Sum](https://github.com/csebuetnlp/xl-sum): Extreme Summarization data for many Indian languages
 - [BUILD](https://github.com/Legal-NLP-EkStep/rhetorical-role-baseline): Indian Legal Data Benchmark for rhetorical roles
+
 
 ## Browse the entire catalog...
 
@@ -69,7 +69,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 
 
 ## <a name='MajorIndicLanguageNLPRepositories'></a>Major Indic Language NLP Repositories
-
+- [Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca)
 - [Technology Development for Indian Languages (TDIL)](http://tdil-dc.in)
 - [Center for Indian Language Technology (CFILT)](http://www.cfilt.iitb.ac.in/)
 - [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/download.php)
@@ -138,7 +138,7 @@ Benchmarks spanning multiple tasks.
 
 - [VarDial 2018 Language Identification Dataset](https://github.com/kmi-linguistics/vardial2018): 5 languages - Hindi, Braj, Awadhi, Bhojpuri, Magahi.
 
-### <a name='LexicalResources'></a>Lexical Resources
+### <a name='LexicalResources'></a>Lexical Resources and Semantic Similarity
 
 - [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
 - [IIIT-Hyderabad Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages): 7 Indian languages
@@ -147,6 +147,7 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora): Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
 - [Hindi RG-63](https://github.com/ashwinivd/similarity_hindi): Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset
 - [IITB Cognate Datasets](https://github.com/dipteshkanojia/challengeCognateFF): Dataset of Cognates and False Friend Pairs for 12 Indian Languages. [(Paper)](https://aclanthology.org/2020.lrec-1.378.pdf)
+- [AI4Bharat Cross-lingual Semantic Textual Similarity](https://storage.googleapis.com/samanantar-public/human_annotations.tsv): 10 sentences across 11 en-Indic language pairs annotated on a scale of 0-5 as per SemEval cross-lingual STS guidelines.
 
 ### <a name='NERCorpora'></a>NER Corpora
 
