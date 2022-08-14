@@ -135,7 +135,8 @@ Benchmarks spanning multiple tasks.
 - [SMC Malayalam text corpus](https://gitlab.com/smc/corpus)
 - [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/0B7LLASJiB2m6cDVzbnNjUVZ5dUE): Telugu corpus of 280M tokens and 23M sentences.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with the monolingual data comprising of 1,034,715 Manipuri sentences and 846,796 English sentences in version 1 and 1,880,035 Manipuri sentences and 1,450,053 English sentences in version 2.
-- [SinMin Corpus](https://osf.io/a5quv/): Contains texts of different genres and styles of the modern and old Sinhala language. 
+- [SinMin Corpus](https://osf.io/a5quv/): Contains texts of different genres and styles of the modern and old Sinhala language.
+- [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -225,6 +226,7 @@ Benchmarks spanning multiple tasks.
 - [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1): 14 class classification
 - [iNLTK News Headlines classification](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
 - [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus): Word embeddings for 10 Indian languages.
+- [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1): Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
 
 ### <a name='TextualEntailment'></a>Textual Entailment/Natural Language Inference
 
