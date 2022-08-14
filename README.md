@@ -46,6 +46,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Chunk Corpus](#ChunkCorpus)
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
 	* [Co-reference Corpus](#CoreferenceCorpus)
+	* [Summarization](#Summarization)
 * [Models](#Models)
 	* [Word Embeddings](#WordEmbeddings)
 	* [Pre-trained Language Models](#PreTrainedLanguageModels)
@@ -302,6 +303,10 @@ Benchmarks spanning multiple tasks.
 
 - [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
 - [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
+
+### <a name='Summarization'></a>Summarization
+
+- [XL-Sum](https://github.com/csebuetnlp/xl-sum): A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Described in [this paper](https://arxiv.org/abs/2106.13822).
 
 ## <a name='Models'></a>Models
 
