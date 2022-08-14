@@ -47,6 +47,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
 	* [Co-reference Corpus](#CoreferenceCorpus)
 	* [Summarization](#Summarization)
+	* [Data to Text](#Data to Text)
 * [Models](#Models)
 	* [Word Embeddings](#WordEmbeddings)
 	* [Pre-trained Language Models](#PreTrainedLanguageModels)
@@ -307,6 +308,10 @@ Benchmarks spanning multiple tasks.
 ### <a name='Summarization'></a>Summarization
 
 - [XL-Sum](https://github.com/csebuetnlp/xl-sum): A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Described in [this paper](https://arxiv.org/abs/2106.13822).
+
+### <a name='Data to Text></a>Data to Text
+
+-[XAlign](https://github.com/tushar117/XAlign): Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages comprising of a high quality XF2T dataset in 7 languages: Hindi, Marathi, Gujarati, Telugu, Tamil, Kannada, Bengali, and monolingual dataset in English. The dataset is available upon request. Described in [this paper](https://arxiv.org/abs/2202.00291).
 
 ## <a name='Models'></a>Models
 
