@@ -285,6 +285,7 @@ Benchmarks spanning multiple tasks.
 - [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of 5000 sentences.
 - [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
+- [Tham Khasi Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0321/#): An annotated Khasi POS tagged corpus containing 83,312 words, 4,386 sentences, 5,465 word types which amounts to 94,651 tokens (including punctuations).
 
 ### <a name='ChunkCorpus'></a>Chunk Corpus
 
