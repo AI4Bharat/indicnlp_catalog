@@ -208,6 +208,7 @@ Benchmarks spanning multiple tasks.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with parallel data comprising of 124,975 Manipuri-English aligned sentences.
 - [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).
 - [IIITH en-hi-codemixed-corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus): A gold standard parallel corpus consisting of 6096 English-Hindi code-mixed sentences containing a total of 63,913 tokens and monolingual English. Described in [this paper](https://aclanthology.org/W18-3817.pdf).
+- [CALCS 2021 Eng-Hinglish dataset](https://ritual.uh.edu/lince/datasets): Eng-Hinglish parallel corpus containing 10k pairs of sentences. Described in [this paper](https://arxiv.org/pdf/2202.09625.pdf). 
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
