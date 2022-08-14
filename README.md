@@ -350,6 +350,8 @@ Benchmarks spanning multiple tasks.
 - [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert): Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
 - [BanglaBERT](https://github.com/csebuetnlp/banglabert): Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
 - [EM-ALBERT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first ALBERT model available for Manipuri language which is trained on 1,034,715 Manipuri sentences.
+- [LaBSE](https://tfhub.dev/google/LaBSE/2): Encoder models suitable for sentence retrieval tasks supporting 109 languages (including 26 all major Indic languages).
+- [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models): Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 26 Indic languges).
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
@@ -363,12 +365,13 @@ Benchmarks spanning multiple tasks.
 ### <a name='TranslationModels'></a>Translation Models
 
 - [IndicTrans](https://ai4bharat.iitm.ac.in/indic-trans): Multilingual neural translation models for translation between English and 11 Indian languages. Supports translation between Indian langauges as well. A total of 110 translation directions are supported.
-- [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): 110 language pairs
-- [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi
+- [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): SMT for 110 language pairs (all pairs between English and 10 Indian languages.
+- [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi.
+- [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb#open-sourced-models-and-community-integrations): Models for 200 languages including 26 Indic languages.
 
 ### <a name='TransliterationModels'></a>Transliteration Models
 
-- [AI4Bharat IndicXlit](https://ai4bharat.iitm.ac.in/indic-xlit): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
+- [AI4Bharat IndicXlit](https://ai4bharat.iitm.ac.in/indic-xlit): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion and vice versa that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
 ### <a name='SpeechModels'></a>Speech Models
 
