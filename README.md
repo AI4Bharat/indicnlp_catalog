@@ -134,6 +134,9 @@ Benchmarks spanning multiple tasks.
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
 - [SMC Malayalam text corpus](https://gitlab.com/smc/corpus)
 - [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/0B7LLASJiB2m6cDVzbnNjUVZ5dUE): Telugu corpus of 280M tokens and 23M sentences.
+- [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with the monolingual data comprising of 1,034,715 Manipuri sentences and 846,796 English sentences in version 1 and 1,880,035 Manipuri sentences and 1,450,053 English sentences in version 2.
+- [SinMin Corpus](https://osf.io/a5quv/): Contains texts of different genres and styles of the modern and old Sinhala language.
+- [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -202,6 +205,8 @@ Benchmarks spanning multiple tasks.
 - [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt): 2.7M sentences (has overlaps with OPUS)
 - [CLE Parallel Corpus](https://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm): Parallel corpus for English, Urdu and Nepali.
 - [Itihasa Parallel Corpus](https://github.com/rahular/itihasa): 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
+- [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with parallel data comprising of 124,975 Manipuri-English aligned sentences.
+- [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).  
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
@@ -221,10 +226,12 @@ Benchmarks spanning multiple tasks.
 - [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1): 14 class classification
 - [iNLTK News Headlines classification](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
 - [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus): Word embeddings for 10 Indian languages.
+- [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1): Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
 
 ### <a name='TextualEntailment'></a>Textual Entailment/Natural Language Inference
 
 - [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).
+- [csebuetnlp Bangla NLI](https://huggingface.co/datasets/csebuetnlp/xnli_bn): A Natural Language Inference (NLI) dataset for Bengali. Described in [this paper](https://arxiv.org/abs/2101.00204).
 
 ### <a name='Paraphrase'></a> Paraphrase
 
@@ -264,6 +271,7 @@ Benchmarks spanning multiple tasks.
 - [HindiRC](https://github.com/erzaliator/HindiRC-Data): A Dataset for Reading Comprehension in Hindi containing 127 questions and 24 passages. Described in [this paper](https://www.researchgate.net/publication/342424208_HindiRC_A_Dataset_for_Reading_Comprehension_in_Hindi)
 - [IITH HiDG](https://github.com/kaushal0494/ZmBART): A Distractor Generation [Dataset](https://drive.google.com/drive/folders/1XlY9yOfk0XcfHNO5k0QGsbLQU1nMekG-) for Hindi consisting of 1k/1k/5k (train/validation/test) split. Described in [this paper](https://arxiv.org/pdf/2106.01597.pdf)
 - [Chaii](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/overview) a Kaggle challenge which consists of 1104 Questions in Hindi and Tamil. Moreover, [here](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/264695) is a good collection of papers on multilingual Question Answering.
+- [csebuetnlp Bangla QA](https://huggingface.co/datasets/csebuetnlp/squad_bn): A Question Answering (QA) dataset for Bengali. Described in [this paper](https://arxiv.org/abs/2101.00204).
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
@@ -322,7 +330,7 @@ Benchmarks spanning multiple tasks.
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
-
+- [EM-FT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first FastText word embedding available for Manipuri language trained on 1,880,035 Manipuri sentences.
 
 ### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
@@ -335,7 +343,9 @@ Benchmarks spanning multiple tasks.
 - [iNLTK](https://github.com/goru001/inltk): ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles. 
 - [albert-base-sanskrit](https://huggingface.co/surajp/albert-base-sanskrit): ALBERT-based model trained on Sanskrit Wikipedia.
 - [RoBERTa-hindi-guj-san](https://huggingface.co/surajp/RoBERTa-hindi-guj-san): Multilingual RoBERTa like model trained on Hindi, Sanskrit and Gujarati.
-- [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert): Bengali BERT model trained on Bengali wikipedia and OSCAR datasets
+- [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert): Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
+- [BanglaBERT](https://github.com/csebuetnlp/banglabert): Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
+- [EM-ALBERT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first ALBERT model available for Manipuri language which is trained on 1,034,715 Manipuri sentences.
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
