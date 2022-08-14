@@ -97,7 +97,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 Benchmarks spanning multiple tasks.
 
 - [AI4Bharat IndicGLUE](https://ai4bharat.iitm.ac.in/indic-glue): NLU benchmark for 11 languages.
-- [AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks.
+- [AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks: biography generation, sentence summarization, headline generation, paraphrase generation and question generation.
 - [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
 - [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 - [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
@@ -132,11 +132,11 @@ Benchmarks spanning multiple tasks.
 - [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of 45k sentences.
 - [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
+- [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 - [SMC Malayalam text corpus](https://gitlab.com/smc/corpus)
 - [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/0B7LLASJiB2m6cDVzbnNjUVZ5dUE): Telugu corpus of 280M tokens and 23M sentences.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with the monolingual data comprising of 1,034,715 Manipuri sentences and 846,796 English sentences in version 1 and 1,880,035 Manipuri sentences and 1,450,053 English sentences in version 2.
 - [SinMin Corpus](https://osf.io/a5quv/): Contains texts of different genres and styles of the modern and old Sinhala language.
-- [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -152,6 +152,7 @@ Benchmarks spanning multiple tasks.
 - [Hindi RG-63](https://github.com/ashwinivd/similarity_hindi): Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset
 - [IITB Cognate Datasets](https://github.com/dipteshkanojia/challengeCognateFF): Dataset of Cognates and False Friend Pairs for 12 Indian Languages. [(Paper)](https://aclanthology.org/2020.lrec-1.378.pdf)
 - [AI4Bharat Cross-lingual Semantic Textual Similarity](https://storage.googleapis.com/samanantar-public/human_annotations.tsv): 10 sentences across 11 en-Indic language pairs annotated on a scale of 0-5 as per SemEval cross-lingual STS guidelines.
+- [Toxicity-200](https://github.com/facebookresearch/flores/blob/main/toxicity): Toxicity Lists for 200 languges including 26 Indian languages.
 
 ### <a name='NERCorpora'></a>NER Corpora
 
@@ -171,6 +172,7 @@ Benchmarks spanning multiple tasks.
 
 - [Samanantar Parallel Corpus](https://ai4bharat.iitm.ac.in/samanantar): Largest parallel corpus for English and 11 Indian languages. It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
 - [FLORES-101](https://github.com/facebookresearch/flores): Human translated evaluation sets for 101 languages released by Facebook. It includes 14 Indic languages. The testsets are n-way parallel. 
+- [FLORES-200](https://github.com/facebookresearch/flores/tree/main/flores200): Human translated evaluation sets for 200 languages released by Facebook. It includes 24 Indic languages. The testsets are n-way parallel. 
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel): Largest en-hi parallel corpora in public domain (about 1.5 million segments)
 - [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): Mined from Press Information Bureau for many Indian languages. Contains both English-IL and IL-IL corpora (IL=Indian language).
 - [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): Mined from Indian PM Narendra Modi's _Mann ki Baat_ speeches.
@@ -206,6 +208,8 @@ Benchmarks spanning multiple tasks.
 - [CLE Parallel Corpus](https://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm): Parallel corpus for English, Urdu and Nepali.
 - [Itihasa Parallel Corpus](https://github.com/rahular/itihasa): 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with parallel data comprising of 124,975 Manipuri-English aligned sentences.
+- [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed): Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi. 
+- [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed): NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
 - [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).  
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
