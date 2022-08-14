@@ -328,6 +328,10 @@ Benchmarks spanning multiple tasks.
 
 ## <a name='Models'></a>Models
 
+### <a name='LIDModels'></a>Language Identification
+
+- [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb#lid-model): LID for 200 languages including 26 Indic languages.
+
 ### <a name='WordEmbeddings'></a>Word Embeddings
 
 - [AI4Bharat IndicFT](https://ai4bharat.iitm.ac.in/indic-ft): Fast-text word embeddings for 11 Indian languages.
@@ -350,7 +354,7 @@ Benchmarks spanning multiple tasks.
 - [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert): Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
 - [BanglaBERT](https://github.com/csebuetnlp/banglabert): Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
 - [EM-ALBERT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first ALBERT model available for Manipuri language which is trained on 1,034,715 Manipuri sentences.
-- [LaBSE](https://tfhub.dev/google/LaBSE/2): Encoder models suitable for sentence retrieval tasks supporting 109 languages (including 26 all major Indic languages).
+- [LaBSE](https://tfhub.dev/google/LaBSE/2): Encoder models suitable for sentence retrieval tasks supporting 109 languages (including  all major Indic languages) [[paper]](https://arxiv.org/abs/2007.01852).
 - [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models): Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 26 Indic languges).
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
