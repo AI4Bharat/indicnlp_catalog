@@ -46,6 +46,8 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Chunk Corpus](#ChunkCorpus)
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
 	* [Co-reference Corpus](#CoreferenceCorpus)
+	* [Summarization](#Summarization)
+	* [Data to Text](#DatatoText)
 * [Models](#Models)
 	* [Word Embeddings](#WordEmbeddings)
 	* [Pre-trained Language Models](#PreTrainedLanguageModels)
@@ -272,6 +274,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='InformationExtraction'></a>Information Extraction
 - [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 - [EDNIL-FIRE2020]https://ednilfire.github.io/ednil/2020/index.html): Event extraction for Tamil, Hindi, Bengali, Marathi, English. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
+- [Amazon MASSIVE](https://github.com/alexa/massive): A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
 
 ### <a name='POSTaggedcorpus'></a>POS Tagged corpus
 
@@ -282,6 +285,7 @@ Benchmarks spanning multiple tasks.
 - [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus): Bhojpuri corpus of 5000 sentences.
 - [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi): 
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
+- [Tham Khasi Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0321/#): An annotated Khasi POS tagged corpus containing 83,312 words, 4,386 sentences, 5,465 word types which amounts to 94,651 tokens (including punctuations).
 
 ### <a name='ChunkCorpus'></a>Chunk Corpus
 
@@ -301,6 +305,14 @@ Benchmarks spanning multiple tasks.
 
 - [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
 - [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
+
+### <a name='Summarization'></a>Summarization
+
+- [XL-Sum](https://github.com/csebuetnlp/xl-sum): A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Described in [this paper](https://arxiv.org/abs/2106.13822).
+
+### <a name='DatatoText'></a>Data to Text
+
+- [XAlign](https://github.com/tushar117/XAlign): Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages comprising of a high quality XF2T dataset in 7 languages: Hindi, Marathi, Gujarati, Telugu, Tamil, Kannada, Bengali, and monolingual dataset in English. The dataset is available upon request. Described in [this paper](https://arxiv.org/abs/2202.00291).
 
 ## <a name='Models'></a>Models
 
