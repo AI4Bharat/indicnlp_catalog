@@ -311,7 +311,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='DatatoText'></a>Data to Text
 
--[XAlign](https://github.com/tushar117/XAlign): Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages comprising of a high quality XF2T dataset in 7 languages: Hindi, Marathi, Gujarati, Telugu, Tamil, Kannada, Bengali, and monolingual dataset in English. The dataset is available upon request. Described in [this paper](https://arxiv.org/abs/2202.00291).
+- [XAlign](https://github.com/tushar117/XAlign): Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages comprising of a high quality XF2T dataset in 7 languages: Hindi, Marathi, Gujarati, Telugu, Tamil, Kannada, Bengali, and monolingual dataset in English. The dataset is available upon request. Described in [this paper](https://arxiv.org/abs/2202.00291).
 
 ## <a name='Models'></a>Models
 
