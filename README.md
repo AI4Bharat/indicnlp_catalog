@@ -205,6 +205,7 @@ Benchmarks spanning multiple tasks.
 - [CLE Parallel Corpus](https://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm): Parallel corpus for English, Urdu and Nepali.
 - [Itihasa Parallel Corpus](https://github.com/rahular/itihasa): 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with parallel data comprising of 124,975 Manipuri-English aligned sentences.
+- [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).  
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
