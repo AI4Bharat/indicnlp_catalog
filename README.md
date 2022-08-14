@@ -134,6 +134,7 @@ Benchmarks spanning multiple tasks.
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
 - [SMC Malayalam text corpus](https://gitlab.com/smc/corpus)
 - [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/0B7LLASJiB2m6cDVzbnNjUVZ5dUE): Telugu corpus of 280M tokens and 23M sentences.
+- [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with the monolingual data comprising of 1,034,715 Manipuri sentences and 846,796 English sentences in version 1 and 1,880,035 Manipuri sentences and 1,450,053 English sentences in version 2.
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -202,6 +203,7 @@ Benchmarks spanning multiple tasks.
 - [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt): 2.7M sentences (has overlaps with OPUS)
 - [CLE Parallel Corpus](https://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm): Parallel corpus for English, Urdu and Nepali.
 - [Itihasa Parallel Corpus](https://github.com/rahular/itihasa): 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
+- [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with parallel data comprising of 124,975 Manipuri-English aligned sentences.
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
@@ -322,7 +324,7 @@ Benchmarks spanning multiple tasks.
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
 - [FastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
-
+- [EM-FT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first FastText word embedding available for Manipuri language trained on 1,880,035 Manipuri sentences.
 
 ### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
@@ -337,6 +339,7 @@ Benchmarks spanning multiple tasks.
 - [RoBERTa-hindi-guj-san](https://huggingface.co/surajp/RoBERTa-hindi-guj-san): Multilingual RoBERTa like model trained on Hindi, Sanskrit and Gujarati.
 - [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert): Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
 - [BanglaBERT](https://github.com/csebuetnlp/banglabert): Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla.Two downstream task datasets on natural language inference and question answering and benchmark on four diverse NLU tasks covering text classification, sequence labeling, and span prediction are made available. Described in [this paper](https://arxiv.org/abs/2101.00204).
+- [EM-ALBERT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first ALBERT model available for Manipuri language which is trained on 1,034,715 Manipuri sentences.
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
