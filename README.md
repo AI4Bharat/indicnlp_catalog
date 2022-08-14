@@ -47,7 +47,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 	* [Dependency Parse Corpus](#DependencyParseCorpus)
 	* [Co-reference Corpus](#CoreferenceCorpus)
 	* [Summarization](#Summarization)
-	* [Data to Text](#Data to Text)
+	* [Data to Text](#DatatoText)
 * [Models](#Models)
 	* [Word Embeddings](#WordEmbeddings)
 	* [Pre-trained Language Models](#PreTrainedLanguageModels)
