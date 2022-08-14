@@ -137,6 +137,8 @@ Benchmarks spanning multiple tasks.
 - [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/0B7LLASJiB2m6cDVzbnNjUVZ5dUE): Telugu corpus of 280M tokens and 23M sentences.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with the monolingual data comprising of 1,034,715 Manipuri sentences and 846,796 English sentences in version 1 and 1,880,035 Manipuri sentences and 1,450,053 English sentences in version 2.
 - [SinMin Corpus](https://osf.io/a5quv/): Contains texts of different genres and styles of the modern and old Sinhala language.
+- [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
+- [Kangri_corpus](https://github.com/chauhanshweta/Kangri_corpus): Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -208,6 +210,10 @@ Benchmarks spanning multiple tasks.
 - [CLE Parallel Corpus](https://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm): Parallel corpus for English, Urdu and Nepali.
 - [Itihasa Parallel Corpus](https://github.com/rahular/itihasa): 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with parallel data comprising of 124,975 Manipuri-English aligned sentences.
+- [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).
+- [IIIT-H en-hi-codemixed-corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus): A gold standard parallel corpus consisting of 6096 English-Hindi code-mixed sentences containing a total of 63,913 tokens and monolingual English. Described in [this paper](https://aclanthology.org/W18-3817.pdf).
+- [CALCS 2021 Eng-Hinglish dataset](https://ritual.uh.edu/lince/datasets): Eng-Hinglish parallel corpus containing 10k pairs of sentences. Described in [this paper](https://arxiv.org/pdf/2202.09625.pdf).
+- [Kangri_corpus](https://github.com/chauhanshweta/Kangri_corpus): The corpus contains 27,362 Hindi-Kangri Parallel corpora. Described in [this paper] (https://arxiv.org/abs/2103.11596).
 - [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed): Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi. 
 - [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed): NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
 - [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).  
