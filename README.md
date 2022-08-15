@@ -139,7 +139,7 @@ Benchmarks spanning multiple tasks.
 - [SinMin Corpus](https://osf.io/a5quv/): Contains texts of different genres and styles of the modern and old Sinhala language.
 - [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 - [Kangri_corpus](https://github.com/chauhanshweta/Kangri_corpus): Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
-- [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The Sanskrit Monolingual Data is available [here] (https://drive.google.com/file/d/1_qclc7unNLvToiDK8t2scIgj5oxJDEGm/view?usp=sharing).
+- [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The Sanskrit Monolingual Data is available [here](https://drive.google.com/file/d/1_qclc7unNLvToiDK8t2scIgj5oxJDEGm/view?usp=sharing).
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
