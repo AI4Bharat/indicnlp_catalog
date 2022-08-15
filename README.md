@@ -18,7 +18,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 - We are seeing the rise of large-scale datasets across many tasks like **IndicCorp** (text corpus/9 billion tokens), **Samanantar** (parallel corpus/50 million sentence pairs), **Naamapadam** (named entity/5.7 million sentences), **HiNER** (named entity/100k sentences), **Aksharantar** (transliteration/26 million pairs) , _etc_. These are being built using either large-scale mining of web-resource or large human annotation efforts or both. 
 - As we aim higher, the datasets and models are achieving higher language coverage. While earlier datasets would be available for only a handful of Indian languages, then for 10-12 languages - we are now reaching the next frontier where we are creating resources like **Aksharantar** (transliteration/21 languages), **FLORES-200** (translation/27 languages), **IndoWordNet** (wordnet/18 languages) spanning almost all languages listed in the Indian constitution and more.  Datasets and models spanning a large number of languages. 
 - Particularly, we are seeing datasets getting created for extremely low-resourced languages or languages not yet covered in any dataset like **Bodo**, **Kangri**, **Khasi**, _etc_.
-- From a handful of institutes who pioneered the development of NLP in India, we now have an increasing number of institutes/interest groups and passionate volunteers like **AI4Bharat**, **KMI**, **L3Cube**, **iNLTK**, **IIT Patna**, _etc_. who are contributing to building resources for Indian languages.
+- From a handful of institutes who pioneered the development of NLP in India, we now have an increasing number of institutes/interest groups and passionate volunteers like **AI4Bharat**, **BUET CSE NLP**, **KMI**, **L3Cube**, **iNLTK**, **IIT Patna**, _etc_. who are contributing to building resources for Indian languages.
 
 ## Browse the entire catalog...
 
@@ -82,6 +82,10 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
 - [University of Hyderabad - Sanskrit NLP](http://sanskrit.uohyd.ac.in/scl)
 - [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category&path=75_59&limit=100)
+- [BUET CSE NLP Group](https://csebuetnlp.github.io)
+- [KMI Linguistics](https://github.com/kmi-linguistics)
+- [L3Cube](https://github.com/l3cube-pune/MarathiNLP)
+- [IIT Patna](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
 
 ## <a name='Libraries'></a>Libraries and Tools
