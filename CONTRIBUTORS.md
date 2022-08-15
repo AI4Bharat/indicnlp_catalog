@@ -20,3 +20,6 @@
 - Gokul NC
 - Ritwik Mishra
 - Sangeeta Rajagopal
+- Kaushal Bhosale
+- Tahir Javed
+- Maharaja Brahma
