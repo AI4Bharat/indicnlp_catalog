@@ -1,6 +1,6 @@
 
 # :bookmark: The Indic NLP Catalog
-_A Catalog of Resources for Indian Language NLP_
+_A Collabortive Catalog of Resources for Indic Language NLP_
 
 The **Indic NLP Catalog** repository is an attempt to **collaboratively** build the **most comprehensive** catalog of NLP datasets, models and other resources for all languages of the Indian subcontinent.
 
@@ -10,7 +10,7 @@ _Please suggest any other resources you may be aware of. Raise a pull request or
 
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list._
 
-## :+1: Featured Resources  _(76_$^{ th}$ _Indian Independence Day Special)_: 
+## :+1: Featured Resources
 
 Indian language NLP has come a long way. We feature a few resources that are illustrative of the trends in recent times along various axes and point to a bright future.  
  
