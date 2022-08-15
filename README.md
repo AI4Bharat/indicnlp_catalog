@@ -10,7 +10,9 @@ _Please suggest any other resources you may be aware of. Raise a pull request or
 
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list._
 
-## :+1: Featured Resources  _(75th Indian Independence Day Special)_: 
+## :+1: Featured Resources  _(76_$^{ th}$ _Indian Independence Day Special)_: 
+
+Indian language NLP has come a long way. We feature a few resources that are illustrative of the trends in recent times along various axes and point to a bright future.  
  
 - [Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca): **ULCA** is a standard API and open scalable data platform (supporting various types of datasets) for Indian language datasets and models. ULCA is part of the [Bhasini mission](https://bhashini.gov.in). You can upload, discover models, datasets and benchmarks here. This is one repository we really need and hope to see this evolving into a standard, large-scale platform for resource discovery and dissemination.
 - We are seeing the rise of large-scale datasets across many tasks like **IndicCorp** (text corpus/9 billion tokens), **Samanantar** (parallel corpus/50 million sentence pairs), **Naamapadam** (named entity/5.7 million sentences), **HiNER** (named entity/100k sentences), **Aksharantar** (transliteration/26 million pairs) , _etc_. These are being built using either large-scale mining of web-resource or large human annotation efforts or both. 
