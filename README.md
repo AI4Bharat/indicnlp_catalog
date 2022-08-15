@@ -148,6 +148,7 @@ Benchmarks spanning multiple tasks.
 - [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 - [Kangri_corpus](https://github.com/chauhanshweta/Kangri_corpus): Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The Sanskrit Monolingual Data is available [here](https://drive.google.com/file/d/1_qclc7unNLvToiDK8t2scIgj5oxJDEGm/view?usp=sharing).
+- [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora): Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -164,6 +165,7 @@ Benchmarks spanning multiple tasks.
 - [IITB Cognate Datasets](https://github.com/dipteshkanojia/challengeCognateFF): Dataset of Cognates and False Friend Pairs for 12 Indian Languages. [(Paper)](https://aclanthology.org/2020.lrec-1.378.pdf)
 - [AI4Bharat Cross-lingual Semantic Textual Similarity](https://storage.googleapis.com/samanantar-public/human_annotations.tsv): 10 sentences across 11 en-Indic language pairs annotated on a scale of 0-5 as per SemEval cross-lingual STS guidelines.
 - [Toxicity-200](https://github.com/facebookresearch/flores/blob/main/toxicity): Toxicity Lists for 200 languages including 27 Indian languages.
+- [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora): Contains a list of algorithmically derived stopwords extracted from Corpus-Sinhala-Redux. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
 
 ### <a name='NERCorpora'></a>NER Corpora
 
