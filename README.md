@@ -1,7 +1,7 @@
 
 # A Catalog of Resources for Indian Language NLP
 
-This repository is an attempt to _collaboratively_ build the _most comprehensive_ catalog of NLP datasets, models and other resources for all languages of the Indian subcontinent.
+This repository is an attempt to **collaboratively** build the **most comprehensive** catalog of NLP datasets, models and other resources for all languages of the Indian subcontinent.
 
 _Please suggest any other resources you may be aware of. Raise a pull request or an issue to add more resources to the catalog. Put the proposed entry in the following format:_
 
@@ -9,13 +9,13 @@ _Please suggest any other resources you may be aware of. Raise a pull request or
 
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list._
 
-## Featured Resources :+1 _(75th Indian Independence Day Special)_: 
+## :+1: Featured Resources  _(75th Indian Independence Day Special)_: 
  
-- [Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca): ULCA is a standard API and open scalable data platform (supporting various types of datasets) for Indian language datasets and models. ULCA is part of the [Bhasini mission](https://bhashini.gov.in). You can upload, discover models, datasets and benchmarks here. This is one repository we really need and hope to see this evolving into a standard, large-scale platform for resource discovery and dissemination.
-- We are seeing the rise of large-scale datasets across many tasks like IndicCorp (text corpus/9 billion tokens), Samanantar (parallel corpus/50 million sentence pairs), Naamapadam (named entity/5.7 million sentences), HiNER (named entity/100k sentences), Aksharantar (transliteration/26 million pairs) , _etc_. These are being built using either large-scale mining of web-resource or large human annotation efforts or both. 
-- As we aim higher, the datasets and models are achieving higher language coverage. While earlier datasets would be available for only a handful of Indian languages, then for 10-12 languages - we are now reaching the next frontier where we are creating resources like Aksharantar (transliteration/21 languages), FLORES-200 (translation/27 languages), IndoWordnet (wordnet/18 languages) spanning almost all languages listed in the Indian constitution and more.  Datasets and models spanning a large number of languages. 
-- Particularly, we are seeing datasets getting created for extremely low-resourced languages or languages not yet covered in any dataset like Bodo, Kangri, Khasi, _etc_.
-- From a handful of institutes who pioneered the development of NLP in India, we now have an increasing number of institutes/interest groups and passionate volunteers like AI4Bharat, KMI Linguistics, L3Cube, iNLTK, IIT Patna, etc. who are contributing to building resources for Indian languages.
+- [Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca): **ULCA** is a standard API and open scalable data platform (supporting various types of datasets) for Indian language datasets and models. ULCA is part of the [Bhasini mission](https://bhashini.gov.in). You can upload, discover models, datasets and benchmarks here. This is one repository we really need and hope to see this evolving into a standard, large-scale platform for resource discovery and dissemination.
+- We are seeing the rise of large-scale datasets across many tasks like **IndicCorp** (text corpus/9 billion tokens), **Samanantar** (parallel corpus/50 million sentence pairs), **Naamapadam** (named entity/5.7 million sentences), **HiNER** (named entity/100k sentences), **Aksharantar** (transliteration/26 million pairs) , _etc_. These are being built using either large-scale mining of web-resource or large human annotation efforts or both. 
+- As we aim higher, the datasets and models are achieving higher language coverage. While earlier datasets would be available for only a handful of Indian languages, then for 10-12 languages - we are now reaching the next frontier where we are creating resources like **Aksharantar** (transliteration/21 languages), **FLORES-200** (translation/27 languages), **IndoWordNet** (wordnet/18 languages) spanning almost all languages listed in the Indian constitution and more.  Datasets and models spanning a large number of languages. 
+- Particularly, we are seeing datasets getting created for extremely low-resourced languages or languages not yet covered in any dataset like **Bodo**, **Kangri**, **Khasi**, _etc_.
+- From a handful of institutes who pioneered the development of NLP in India, we now have an increasing number of institutes/interest groups and passionate volunteers like **AI4Bharat**, **KMI**, **L3Cube**, **iNLTK**, **IIT Patna**, _etc_. who are contributing to building resources for Indian languages.
 
 ## Browse the entire catalog...
 
