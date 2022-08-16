@@ -270,6 +270,7 @@ Benchmarks spanning multiple tasks.
 - [Dravidian-CodeMix - FIRE 2020](https://dravidian-codemix.github.io/2020/datasets.html) - Tamil & Malayalam
 - [Bengali Sentiment Analysis - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText): 8k sentences
 - [SentNoB](https://github.com/KhondokerIslam/SentNoB): sentiment dataset for Bangla from 3 domains on user comments containing 15k examples [(Paper)](https://aclanthology.org/2021.findings-emnlp.278.pdf)  [(Dataset)](https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts)
+- [UoM-Sinhala Sentiment Analysis](https://github.com/LahiruSen/sinhala_sentiment_anlaysis_tallip#data-set): Sentiment Analysis for Sinhala Language. Consists of a multi-class annotated data set with 15059 sentiment annotated Sinhala news comments extracted from two Sinhala online news papers with four sentiment categories namely POSITIVE, NEGATIVE, NEUTRAL and CONFLICT and a corpus of 9.48 million tokens. Described in [this paper](https://arxiv.org/pdf/2011.07280.pdf).
 
 ### <a name='HateSpeech'></a>Hate Speech and Offensive Comments
 
@@ -358,6 +359,7 @@ Benchmarks spanning multiple tasks.
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
 - [EM-FT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first FastText word embedding available for Manipuri language trained on 1,880,035 Manipuri sentences.
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The FastText embeddings for Sanskrit is available [here](https://drive.google.com/file/d/1k5INFw9oaxV7yoWRg0qscmcFrOHVhdzW/view?usp=sharing) and for Hindi [here](https://drive.google.com/file/d/1Md9N7Ux2P9JCky1_9RgL2KjXRGb_lpXj/view?usp=sharing). 
+- [UoM-Sinhala Sentiment Analysis- FastText 300](https://github.com/LahiruSen/sinhala_sentiment_anlaysis_tallip#word-embedding-models): The FastText word embedding model for Sinhala language. Described in [this paper](https://arxiv.org/pdf/2011.07280.pdf).
 
 ### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
