@@ -232,7 +232,7 @@ Benchmarks spanning multiple tasks.
 - [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.
 - [Nepali National corpus]( http://catalog.elra.info/product_info.php?products_id=1217): The English-Nepali Parallel Corpus consists of a small set of data aligned at the sentence level with 27,060 English words and 21,756 Nepali words and a larger set of texts at the document level with 617,340 English words and 596,571 Nepali words. An additional set of monolingual data is also provided with 386,879 words in Nepali. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
-- [English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
+- [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
