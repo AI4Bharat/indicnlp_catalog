@@ -150,6 +150,7 @@ Benchmarks spanning multiple tasks.
 - [Kangri_corpus](https://github.com/chauhanshweta/Kangri_corpus): Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The Sanskrit Monolingual Data is available [here](https://drive.google.com/file/d/1_qclc7unNLvToiDK8t2scIgj5oxJDEGm/view?usp=sharing).
 - [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora): Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
+- [Nepali National corpus](http://catalog.elra.info/product_info.php?products_id=1216): The Nepali Monolingual written corpus comprises the core corpus containing 802,000 words and the general corpus containing 1,400,000 words. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -230,6 +231,7 @@ Benchmarks spanning multiple tasks.
 - [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed): NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
 - [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.
+- [Nepali National corpus]( http://catalog.elra.info/product_info.php?products_id=1217): The English-Nepali Parallel Corpus consists of a small set of data aligned at the sentence level with 27,060 English words and 21,756 Nepali words and a larger set of texts at the document level with 617,340 English words and 596,571 Nepali words. An additional set of monolingual data is also provided with 386,879 words in Nepali. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
@@ -440,6 +442,7 @@ Benchmarks spanning multiple tasks.
 - [Crowdsourced high-quality Marathi multi-speaker speech data set](https://www.openslr.org/64/): Contains recordings of native speakers of Marathi
 - [Crowdsourced high-quality Tamil multi-speaker speech data set](https://www.openslr.org/65/): Contains recordings of native speakers of Tamil
 - [Crowdsourced high-quality Telugu multi-speaker speech data set](https://www.openslr.org/66/): Contains recordings of native speakers of Telugu
+- [Nepali National corpus](http://catalog.elra.info/product_info.php?products_id=1219): The Nepali Spoken Corpus contains audio recordings from different 17 types of social activities with a total temporal recording duration of 31 hours and 26 minutes. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 
 
 
