@@ -232,6 +232,7 @@ Benchmarks spanning multiple tasks.
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.
 - [Nepali National corpus]( http://catalog.elra.info/product_info.php?products_id=1217): The English-Nepali Parallel Corpus consists of a small set of data aligned at the sentence level with 27,060 English words and 21,756 Nepali words and a larger set of texts at the document level with 617,340 English words and 596,571 Nepali words. An additional set of monolingual data is also provided with 386,879 words in Nepali. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 - [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
+- [CCAligned](https://statmt.org/cc-aligned/): A Massive Collection of more than 100 million cross-lingual web-document pairs in 137 languages aligned with English.
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
