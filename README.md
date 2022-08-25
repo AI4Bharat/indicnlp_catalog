@@ -227,6 +227,7 @@ Benchmarks spanning multiple tasks.
 - [Kangri_corpus](https://github.com/chauhanshweta/Kangri_corpus): The corpus contains 27,362 Hindi-Kangri Parallel corpora. Described in [this paper] (https://arxiv.org/abs/2103.11596).
 - [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed): Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi. 
 - [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed): NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
+- [NLLB-Mined](https://huggingface.co/datasets/allenai/nllb): All the parallel corpora mined by the NLLB project. This repository was reconstructed by AllenAI based on metadata released by the NLLB Project.
 - [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.
 
