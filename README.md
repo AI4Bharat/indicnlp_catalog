@@ -253,6 +253,7 @@ Benchmarks spanning multiple tasks.
 - [iNLTK News Headlines classification](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
 - [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus): Word embeddings for 10 Indian languages.
 - [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1): Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
+- [XCOPA](https://github.com/cambridgeltl/xcopa): A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
 
 ### <a name='TextualEntailment'></a>Textual Entailment/Natural Language Inference
 
