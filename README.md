@@ -142,7 +142,7 @@ Benchmarks spanning multiple tasks.
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
 - [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 - [SMC Malayalam text corpus](https://gitlab.com/smc/corpus)
-- [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/0B7LLASJiB2m6cDVzbnNjUVZ5dUE): Telugu corpus of 280M tokens and 23M sentences.
+- [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/1fEt7aIzYWGQKto3Nt51M5CdjtzxMqdCz?usp=sharing): Telugu corpus of 280M tokens and 23M sentences along with skip-gram model trained with word2vec.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with the monolingual data comprising of 1,034,715 Manipuri sentences and 846,796 English sentences in version 1 and 1,880,035 Manipuri sentences and 1,450,053 English sentences in version 2.
 - [SinMin Corpus](https://osf.io/a5quv/): Contains texts of different genres and styles of the modern and old Sinhala language.
 - [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
