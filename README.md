@@ -149,6 +149,7 @@ Benchmarks spanning multiple tasks.
 - [Kangri_corpus](https://github.com/chauhanshweta/Kangri_corpus): Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The Sanskrit Monolingual Data is available [here](https://drive.google.com/file/d/1_qclc7unNLvToiDK8t2scIgj5oxJDEGm/view?usp=sharing).
 - [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora): Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
+- [Nepali National corpus](http://catalog.elra.info/product_info.php?products_id=1216): The Nepali Monolingual written corpus comprises the core corpus containing 802,000 words and the general corpus containing 1,400,000 words. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 
 ### <a name='LanguageIdentification'></a>Language Identification
 
@@ -230,6 +231,9 @@ Benchmarks spanning multiple tasks.
 - [NLLB-Mined](https://huggingface.co/datasets/allenai/nllb): All the parallel corpora mined by the NLLB project. This repository was reconstructed by AllenAI based on metadata released by the NLLB Project.
 - [PHINC](https://zenodo.org/record/3605597#.YvjqEXZBy5d): A Parallel Hinglish Social Media Code-Mixed Corpus consisting of 13,738 code-mixed English-Hindi sentences and their corresponding translation in English. Described in [this paper](https://aclanthology.org/2020.wnut-1.7.pdf).
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.
+- [Nepali National corpus]( http://catalog.elra.info/product_info.php?products_id=1217): The English-Nepali Parallel Corpus consists of a small set of data aligned at the sentence level with 27,060 English words and 21,756 Nepali words and a larger set of texts at the document level with 617,340 English words and 596,571 Nepali words. An additional set of monolingual data is also provided with 386,879 words in Nepali. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
+- [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
+- [CCAligned](https://statmt.org/cc-aligned/): A Massive Collection of more than 100 million cross-lingual web-document pairs in 137 languages aligned with English.
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
@@ -250,6 +254,7 @@ Benchmarks spanning multiple tasks.
 - [iNLTK News Headlines classification](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
 - [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus): Word embeddings for 10 Indian languages.
 - [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1): Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
+- [XCOPA](https://github.com/cambridgeltl/xcopa): A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
 
 ### <a name='TextualEntailment'></a>Textual Entailment/Natural Language Inference
 
@@ -271,6 +276,7 @@ Benchmarks spanning multiple tasks.
 - [Dravidian-CodeMix - FIRE 2020](https://dravidian-codemix.github.io/2020/datasets.html) - Tamil & Malayalam
 - [Bengali Sentiment Analysis - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText): 8k sentences
 - [SentNoB](https://github.com/KhondokerIslam/SentNoB): sentiment dataset for Bangla from 3 domains on user comments containing 15k examples [(Paper)](https://aclanthology.org/2021.findings-emnlp.278.pdf)  [(Dataset)](https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts)
+- [UoM-Sinhala Sentiment Analysis](https://github.com/LahiruSen/sinhala_sentiment_anlaysis_tallip#data-set): Sentiment Analysis for Sinhala Language. Consists of a multi-class annotated data set with 15059 sentiment annotated Sinhala news comments extracted from two Sinhala online news papers with four sentiment categories namely POSITIVE, NEGATIVE, NEUTRAL and CONFLICT and a corpus of 9.48 million tokens. Described in [this paper](https://arxiv.org/pdf/2011.07280.pdf).
 
 ### <a name='HateSpeech'></a>Hate Speech and Offensive Comments
 
@@ -295,6 +301,7 @@ Benchmarks spanning multiple tasks.
 - [IITH HiDG](https://github.com/kaushal0494/ZmBART): A Distractor Generation [Dataset](https://drive.google.com/drive/folders/1XlY9yOfk0XcfHNO5k0QGsbLQU1nMekG-) for Hindi consisting of 1k/1k/5k (train/validation/test) split. Described in [this paper](https://arxiv.org/pdf/2106.01597.pdf)
 - [Chaii](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/overview) a Kaggle challenge which consists of 1104 Questions in Hindi and Tamil. Moreover, [here](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/264695) is a good collection of papers on multilingual Question Answering.
 - [csebuetnlp Bangla QA](https://huggingface.co/datasets/csebuetnlp/squad_bn): A Question Answering (QA) dataset for Bengali. Described in [this paper](https://arxiv.org/abs/2101.00204).
+- [XOR QA](https://github.com/AkariAsai/XORQA): A large-scale cross-lingual open-retrieval QA dataset (includes Bengali and Telugu) with 40k newly annotated open-retrieval questions that cover seven typologically diverse languages. Described in [this paper](https://arxiv.org/pdf/2010.11856.pdf). More information is available [here](https://nlp.cs.washington.edu/xorqa/).
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
@@ -306,6 +313,7 @@ Benchmarks spanning multiple tasks.
 - [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 - [EDNIL-FIRE2020]https://ednilfire.github.io/ednil/2020/index.html): Event extraction for Tamil, Hindi, Bengali, Marathi, English. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 - [Amazon MASSIVE](https://github.com/alexa/massive): A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
+- [Facebook - MTOP Benchmark](https://fb.me/mtop_dataset): A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark with a dataset comprising of 100k annotated utterances in 6 languages(including Indic language: Hindi) across 11 domains. Described in [this paper](https://arxiv.org/pdf/2008.09335.pdf).
 
 ### <a name='POSTaggedcorpus'></a>POS Tagged corpus
 
@@ -359,6 +367,7 @@ Benchmarks spanning multiple tasks.
 - [Polyglot](https://sites.google.com/site/rmyeid/projects/polyglot)
 - [EM-FT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first FastText word embedding available for Manipuri language trained on 1,880,035 Manipuri sentences.
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The FastText embeddings for Sanskrit is available [here](https://drive.google.com/file/d/1k5INFw9oaxV7yoWRg0qscmcFrOHVhdzW/view?usp=sharing) and for Hindi [here](https://drive.google.com/file/d/1Md9N7Ux2P9JCky1_9RgL2KjXRGb_lpXj/view?usp=sharing). 
+- [UoM-Sinhala Sentiment Analysis- FastText 300](https://github.com/LahiruSen/sinhala_sentiment_anlaysis_tallip#word-embedding-models): The FastText word embedding model for Sinhala language. Described in [this paper](https://arxiv.org/pdf/2011.07280.pdf).
 
 ### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
@@ -438,6 +447,7 @@ Benchmarks spanning multiple tasks.
 - [Crowdsourced high-quality Marathi multi-speaker speech data set](https://www.openslr.org/64/): Contains recordings of native speakers of Marathi
 - [Crowdsourced high-quality Tamil multi-speaker speech data set](https://www.openslr.org/65/): Contains recordings of native speakers of Tamil
 - [Crowdsourced high-quality Telugu multi-speaker speech data set](https://www.openslr.org/66/): Contains recordings of native speakers of Telugu
+- [Nepali National corpus](http://catalog.elra.info/product_info.php?products_id=1219): The Nepali Spoken Corpus contains audio recordings from different 17 types of social activities with a total temporal recording duration of 31 hours and 26 minutes. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 
 
 
