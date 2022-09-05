@@ -385,6 +385,7 @@ Benchmarks spanning multiple tasks.
 - [EM-ALBERT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first ALBERT model available for Manipuri language which is trained on 1,034,715 Manipuri sentences.
 - [LaBSE](https://tfhub.dev/google/LaBSE/2): Encoder models suitable for sentence retrieval tasks supporting 109 languages (including  all major Indic languages) [[paper]](https://arxiv.org/abs/2007.01852).
 - [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models): Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).
+- [MuRIL](https://tfhub.dev/google/MuRIL/1): A BERT base (12L) model pre-trained on 17 Indian languages, and their transliterated counterparts. Described in [this paper](https://arxiv.org/abs/2103.10730).
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
