@@ -302,6 +302,7 @@ Benchmarks spanning multiple tasks.
 - [Chaii](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/overview) a Kaggle challenge which consists of 1104 Questions in Hindi and Tamil. Moreover, [here](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/264695) is a good collection of papers on multilingual Question Answering.
 - [csebuetnlp Bangla QA](https://huggingface.co/datasets/csebuetnlp/squad_bn): A Question Answering (QA) dataset for Bengali. Described in [this paper](https://arxiv.org/abs/2101.00204).
 - [XOR QA](https://github.com/AkariAsai/XORQA): A large-scale cross-lingual open-retrieval QA dataset (includes Bengali and Telugu) with 40k newly annotated open-retrieval questions that cover seven typologically diverse languages. Described in [this paper](https://arxiv.org/pdf/2010.11856.pdf). More information is available [here](https://nlp.cs.washington.edu/xorqa/).
+- [IITB HiQuAD](https://www.cse.iitb.ac.in/~ganesh/HiQuAD/clqg/clqg_data.tar.gz): A question answering dataset in Hindi consisting of 6555 question-answer pairs. Described in [this paper](https://www.cse.iitb.ac.in/~ganesh/papers/acl2019a.pdf).
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
