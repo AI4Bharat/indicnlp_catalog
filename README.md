@@ -448,7 +448,7 @@ Benchmarks spanning multiple tasks.
 - [Crowdsourced high-quality Tamil multi-speaker speech data set](https://www.openslr.org/65/): Contains recordings of native speakers of Tamil
 - [Crowdsourced high-quality Telugu multi-speaker speech data set](https://www.openslr.org/66/): Contains recordings of native speakers of Telugu
 - [Nepali National corpus](http://catalog.elra.info/product_info.php?products_id=1219): The Nepali Spoken Corpus contains audio recordings from different 17 types of social activities with a total temporal recording duration of 31 hours and 26 minutes. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
-
+- [Shrutilipi](https://ai4bharat.org/shrutilipi): Over 6400 hours of transcribed speech corpus across 12 Indian languages: Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia, Punjabi, Sanskrit, Tamil, Telugu, Urdu
 
 
 ## <a name='OCRCorpora'></a>OCR Corpora
