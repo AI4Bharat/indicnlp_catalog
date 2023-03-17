@@ -288,6 +288,7 @@ Benchmarks spanning multiple tasks.
 - [Bengali Hate Speech - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText): 1.5k sentences
 - [Offensive Language Identification in Dravidian Languages, EACL 2021](https://dravidianlangtech.github.io/2021/): Tamil, Malayalam, Kannada
 - [Fear Speech in Indian WhatsApp Groups, 2021](https://github.com/punyajoy/Fear-speech-analysis)
+- [HateCheckHIn](https://github.com/hate-alert/HateCheckHIn): An evaluation dataset for Hindi Hate Speech Detection Models having a total of 34 functionalities out of which 28 functionalities are monolingual and the remaining 6 are multilingual. Hindi is used as the base language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.575.pdf).
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
