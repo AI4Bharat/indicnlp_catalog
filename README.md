@@ -145,7 +145,6 @@ Benchmarks spanning multiple tasks.
 - [DNLP-Tel Telugu Corpus](https://drive.google.com/drive/folders/1fEt7aIzYWGQKto3Nt51M5CdjtzxMqdCz?usp=sharing): Telugu corpus of 280M tokens and 23M sentences along with skip-gram model trained with word2vec.
 - [Ema-lon Manipuri Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first comparable corpus built for the Manipuri (mni)-English (eng) language pair with the monolingual data comprising of 1,034,715 Manipuri sentences and 846,796 English sentences in version 1 and 1,880,035 Manipuri sentences and 1,450,053 English sentences in version 2.
 - [SinMin Corpus](https://osf.io/a5quv/): Contains texts of different genres and styles of the modern and old Sinhala language.
-- [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo): Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 - [Kangri_corpus](https://github.com/chauhanshweta/Kangri_corpus): Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The Sanskrit Monolingual Data is available [here](https://drive.google.com/file/d/1_qclc7unNLvToiDK8t2scIgj5oxJDEGm/view?usp=sharing).
 - [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora): Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
@@ -450,7 +449,7 @@ Benchmarks spanning multiple tasks.
 - [Crowdsourced high-quality Tamil multi-speaker speech data set](https://www.openslr.org/65/): Contains recordings of native speakers of Tamil
 - [Crowdsourced high-quality Telugu multi-speaker speech data set](https://www.openslr.org/66/): Contains recordings of native speakers of Telugu
 - [Nepali National corpus](http://catalog.elra.info/product_info.php?products_id=1219): The Nepali Spoken Corpus contains audio recordings from different 17 types of social activities with a total temporal recording duration of 31 hours and 26 minutes. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
-
+- [Shrutilipi](https://ai4bharat.org/shrutilipi): Over 6400 hours of transcribed speech corpus across 12 Indian languages: Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia, Punjabi, Sanskrit, Tamil, Telugu, Urdu
 
 
 ## <a name='OCRCorpora'></a>OCR Corpora
