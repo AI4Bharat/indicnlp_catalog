@@ -288,6 +288,7 @@ Benchmarks spanning multiple tasks.
 - [Bengali Hate Speech - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText): 1.5k sentences
 - [Offensive Language Identification in Dravidian Languages, EACL 2021](https://dravidianlangtech.github.io/2021/): Tamil, Malayalam, Kannada
 - [Fear Speech in Indian WhatsApp Groups, 2021](https://github.com/punyajoy/Fear-speech-analysis)
+- [HateCheckHIn](https://github.com/hate-alert/HateCheckHIn): An evaluation dataset for Hindi Hate Speech Detection Models having a total of 34 functionalities out of which 28 functionalities are monolingual and the remaining 6 are multilingual. Hindi is used as the base language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.575.pdf).
 
 ### <a name='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
@@ -301,9 +302,11 @@ Benchmarks spanning multiple tasks.
 - [Chaii](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/overview) a Kaggle challenge which consists of 1104 Questions in Hindi and Tamil. Moreover, [here](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/264695) is a good collection of papers on multilingual Question Answering.
 - [csebuetnlp Bangla QA](https://huggingface.co/datasets/csebuetnlp/squad_bn): A Question Answering (QA) dataset for Bengali. Described in [this paper](https://arxiv.org/abs/2101.00204).
 - [XOR QA](https://github.com/AkariAsai/XORQA): A large-scale cross-lingual open-retrieval QA dataset (includes Bengali and Telugu) with 40k newly annotated open-retrieval questions that cover seven typologically diverse languages. Described in [this paper](https://arxiv.org/pdf/2010.11856.pdf). More information is available [here](https://nlp.cs.washington.edu/xorqa/).
+- [IITB HiQuAD](https://www.cse.iitb.ac.in/~ganesh/HiQuAD/clqg/clqg_data.tar.gz): A question answering dataset in Hindi consisting of 6555 question-answer pairs. Described in [this paper](https://www.cse.iitb.ac.in/~ganesh/papers/acl2019a.pdf).
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
+- [A Code-Mixed Medical Task-Oriented Dialog Dataset](https://github.com/suman101112/Code-Mixed-TOD-Medical-Dataset): The dataset contains 3005 Telugu–English Code-Mixed dialogs with 29 k utterances covering ten specializations with an average code-mixing index (CMI) of 33.3%. Described in [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0885230822000729).
 
 ### <a name='Discourse'></a>Discourse
 - [MIDAS-Hindi Discourse Analysis](https://github.com/midas-research/hindi-discourse)
@@ -384,6 +387,7 @@ Benchmarks spanning multiple tasks.
 - [EM-ALBERT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first ALBERT model available for Manipuri language which is trained on 1,034,715 Manipuri sentences.
 - [LaBSE](https://tfhub.dev/google/LaBSE/2): Encoder models suitable for sentence retrieval tasks supporting 109 languages (including  all major Indic languages) [[paper]](https://arxiv.org/abs/2007.01852).
 - [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models): Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).
+- [MuRIL](https://tfhub.dev/google/MuRIL/1): A BERT base (12L) model pre-trained on 17 Indian languages, and their transliterated counterparts. Described in [this paper](https://arxiv.org/abs/2103.10730).
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
