@@ -306,6 +306,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
+- [A Code-Mixed Medical Task-Oriented Dialog Dataset](https://github.com/suman101112/Code-Mixed-TOD-Medical-Dataset): The dataset contains 3005 Telugu–English Code-Mixed dialogs with 29 k utterances covering ten specializations with an average code-mixing index (CMI) of 33.3%. Described in [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0885230822000729).
 
 ### <a name='Discourse'></a>Discourse
 - [MIDAS-Hindi Discourse Analysis](https://github.com/midas-research/hindi-discourse)
