@@ -73,7 +73,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 <!-- /vscode-markdown-toc -->
 
 
-## <a name='MajorIndicLanguageNLPRepositories'></a>Major Indic Language NLP Repositories
+## <a id='MajorIndicLanguageNLPRepositories'></a>Major Indic Language NLP Repositories
 - [Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca)
 - [Technology Development for Indian Languages (TDIL)](http://tdil-dc.in)
 - [Center for Indian Language Technology (CFILT)](http://www.cfilt.iitb.ac.in/)
@@ -88,7 +88,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 - [IIT Patna](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
 
-## <a name='Libraries'></a>Libraries and Tools
+## <a id='Libraries'></a>Libraries and Tools
 
 - [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library): Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, _etc_
 - [pyiwn](https://github.com/riteshpanjwani/pyiwn): Python Interface to IndoWordNet
@@ -100,7 +100,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 - [BNLP](https://github.com/sagorbrur/bnlp): Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
 - [CodeSwitch](https://github.com/sagorbrur/codeswitch): Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 
-## <a name='Benchmarks'></a>Evaluation Benchmarks
+## <a id='Benchmarks'></a>Evaluation Benchmarks
 
 Benchmarks spanning multiple tasks.
 
@@ -110,15 +110,15 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 - [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
 
-## <a name='Standards'></a>Standards
+## <a id='Standards'></a>Standards
 
 - Unicode Standard for Indic Scripts
    - [An Introduction to Indic Scripts](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
    - [Unicode Standard for South Asian Scripts](http://www.unicode.org/versions/Unicode12.1.0/ch12.pdf)
 
-## <a name='TextCorpora'></a>Text Corpora
+## <a id='TextCorpora'></a>Text Corpora
 
-### <a name='MonolingualCorpus'></a>Monolingual Corpus
+### <a id='MonolingualCorpus'></a>Monolingual Corpus
 
 - [AIBharat IndicCorp](https://ai4bharat.iitm.ac.in/indic-corp): contains 8.9 billion tokens from 12 Indian languages (including Indian English).
 - [Wikipedia Dumps](https://dumps.wikimedia.org)
@@ -150,11 +150,11 @@ Benchmarks spanning multiple tasks.
 - [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora): Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
 - [Nepali National corpus](http://catalog.elra.info/product_info.php?products_id=1216): The Nepali Monolingual written corpus comprises the core corpus containing 802,000 words and the general corpus containing 1,400,000 words. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 
-### <a name='LanguageIdentification'></a>Language Identification
+### <a id='LanguageIdentification'></a>Language Identification
 
 - [VarDial 2018 Language Identification Dataset](https://github.com/kmi-linguistics/vardial2018): 5 languages - Hindi, Braj, Awadhi, Bhojpuri, Magahi.
 
-### <a name='LexicalResources'></a>Lexical Resources and Semantic Similarity
+### <a id='LexicalResources'></a>Lexical Resources and Semantic Similarity
 
 - [IndoWordNet](http://www.cfilt.iitb.ac.in/indowordnet/)
 - [IIIT-Hyderabad Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages): 7 Indian languages
@@ -167,7 +167,7 @@ Benchmarks spanning multiple tasks.
 - [Toxicity-200](https://github.com/facebookresearch/flores/blob/main/toxicity): Toxicity Lists for 200 languages including 27 Indian languages.
 - [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora): Contains a list of algorithmically derived stopwords extracted from Corpus-Sinhala-Redux. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
 
-### <a name='NERCorpora'></a>NER Corpora
+### <a id='NERCorpora'></a>NER Corpora
 
 - [FIRE 2013 AUKBC NER Corpus](http://au-kbc.org/nlp/NER-FIRE2013)
 - [FIRE 2014 AUKBC NER Corpus](http://www.au-kbc.org/nlp/NER-FIRE2014/)
@@ -181,7 +181,7 @@ Benchmarks spanning multiple tasks.
 - [CFILT HiNER](https://github.com/cfiltnlp/hiner): A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in [this paper](https://arxiv.org/abs/2204.13743).
 - [MultiCoNER](https://multiconer.github.io/): A multilingual complex Named Entity Recognition dataset composed of 2.3 million instances for 11 languages(including dataset for Indic languages Hindi and Bangla) representing three domains(wiki sentences, questions, and search queries) plus multilingual and code-mixed subsets.The NER tag-set consists of six classes viz.: PER,LOC,CORP,GRP,PROD and CW. Described in [this paper](https://aclanthology.org/2022.semeval-1.196.pdf).
 
-### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
+### <a id='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
 - [Samanantar Parallel Corpus](https://ai4bharat.iitm.ac.in/samanantar): Largest parallel corpus for English and 11 Indian languages. It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
 - [FLORES-101](https://github.com/facebookresearch/flores): Human translated evaluation sets for 101 languages released by Facebook. It includes 14 Indic languages. The testsets are n-way parallel. 
@@ -234,7 +234,7 @@ Benchmarks spanning multiple tasks.
 - [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 - [CCAligned](https://statmt.org/cc-aligned/): A Massive Collection of more than 100 million cross-lingual web-document pairs in 137 languages aligned with English.
 
-### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
+### <a id='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
 - [Dakshina Dataset](https://github.com/google-research-datasets/dakshina): The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. Contains an aggregate of around 300k word pairs and 120k sentence pairs.
 - [BrahmiNet Corpus](http://www.cfilt.iitb.ac.in/brahminet/static/download.html): 110 language pairs mined from ILCI parallel corpus.
@@ -247,7 +247,7 @@ Benchmarks spanning multiple tasks.
 - [NotAI-tech English-Telugu](https://github.com/notAI-tech/Datasets/tree/master/En-Te_Transliteration): Around 38k word pairs
 - [AI4Bharat Aksharantar](https://ai4bharat.iitm.ac.in/aksharantar): The largest publicly available transliteration dataset for 21 Indic languages consisting of 26M Indic language-English transliteration pairs. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
-### <a name='TextualClassification'></a>Text Classification
+### <a id='TextualClassification'></a>Text Classification
 
 - [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1): 14 class classification
 - [iNLTK News Headlines classification](https://github.com/goru001/inltk): Datasets for multiple Indian languages.
@@ -255,16 +255,16 @@ Benchmarks spanning multiple tasks.
 - [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1): Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
 - [XCOPA](https://github.com/cambridgeltl/xcopa): A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
 
-### <a name='TextualEntailment'></a>Textual Entailment/Natural Language Inference
+### <a id='TextualEntailment'></a>Textual Entailment/Natural Language Inference
 
 - [XNLI corpus](https://github.com/facebookresearch/XNLI): Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).
 - [csebuetnlp Bangla NLI](https://huggingface.co/datasets/csebuetnlp/xnli_bn): A Natural Language Inference (NLI) dataset for Bengali. Described in [this paper](https://arxiv.org/abs/2101.00204).
 
-### <a name='Paraphrase'></a> Paraphrase
+### <a id='Paraphrase'></a> Paraphrase
 
 - [Amrita University-DPIL Corpus](https://nlp.amrita.edu/dpil_cen/index.html): Sentence level paraphrase identification for four Indian languages (Tamil, Malayalam, Hindi and Punjabi).
 
-### <a name='SentimentAnalysis'></a>Sentiment, Sarcasm, Emotion Analysis
+### <a id='SentimentAnalysis'></a>Sentiment, Sarcasm, Emotion Analysis
 
 - [IIT Bombay movie review datasets for Hindi and Marathi](http://www.cfilt.iitb.ac.in/Sentiment_Analysis_Resources.html)
 - [IIT Patna movie review datasets for Hindi](http://www.iitp.ac.in/~ai-nlp-ml/resources.html)
@@ -277,7 +277,7 @@ Benchmarks spanning multiple tasks.
 - [SentNoB](https://github.com/KhondokerIslam/SentNoB): sentiment dataset for Bangla from 3 domains on user comments containing 15k examples [(Paper)](https://aclanthology.org/2021.findings-emnlp.278.pdf)  [(Dataset)](https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts)
 - [UoM-Sinhala Sentiment Analysis](https://github.com/LahiruSen/sinhala_sentiment_anlaysis_tallip#data-set): Sentiment Analysis for Sinhala Language. Consists of a multi-class annotated data set with 15059 sentiment annotated Sinhala news comments extracted from two Sinhala online news papers with four sentiment categories namely POSITIVE, NEGATIVE, NEUTRAL and CONFLICT and a corpus of 9.48 million tokens. Described in [this paper](https://arxiv.org/pdf/2011.07280.pdf).
 
-### <a name='HateSpeech'></a>Hate Speech and Offensive Comments
+### <a id='HateSpeech'></a>Hate Speech and Offensive Comments
 
 - [Hate Speech and Offensive Content Identification in Indo-European Languages](https://hasocfire.github.io/hasoc/2020/dataset.html):  (HASOC FIRE-2020)
 - [An Indian Language Social Media Collection for Hate and Offensive Speech, 2020](https://www.aclweb.org/anthology/2020.restup-1.2/): Hinglish Tweets and FB Comments collected during Parliamentary Election 2019 of India (Dataset available on request)
@@ -290,7 +290,7 @@ Benchmarks spanning multiple tasks.
 - [Fear Speech in Indian WhatsApp Groups, 2021](https://github.com/punyajoy/Fear-speech-analysis)
 - [HateCheckHIn](https://github.com/hate-alert/HateCheckHIn): An evaluation dataset for Hindi Hate Speech Detection Models having a total of 34 functionalities out of which 28 functionalities are monolingual and the remaining 6 are multilingual. Hindi is used as the base language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.575.pdf).
 
-### <a name='QuestionAnswering'></a>Question Answering
+### <a id='QuestionAnswering'></a>Question Answering
 - [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA): Contains dev and test sets for Hindi.
 - [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa): QA dataset for Bengali and Telugu.
 - [bAbi 1.2 dataset](http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz): Has Hindi version of bAbi tasks in romanized Hindi.
@@ -304,20 +304,20 @@ Benchmarks spanning multiple tasks.
 - [XOR QA](https://github.com/AkariAsai/XORQA): A large-scale cross-lingual open-retrieval QA dataset (includes Bengali and Telugu) with 40k newly annotated open-retrieval questions that cover seven typologically diverse languages. Described in [this paper](https://arxiv.org/pdf/2010.11856.pdf). More information is available [here](https://nlp.cs.washington.edu/xorqa/).
 - [IITB HiQuAD](https://www.cse.iitb.ac.in/~ganesh/HiQuAD/clqg/clqg_data.tar.gz): A question answering dataset in Hindi consisting of 6555 question-answer pairs. Described in [this paper](https://www.cse.iitb.ac.in/~ganesh/papers/acl2019a.pdf).
 
-### <a name='Dialog'></a>Dialog
+### <a id='Dialog'></a>Dialog
 - [a-mma Indic Casual Dialogs Datasets](https://github.com/a-mma/indic_casual_dialogs_dataset)
 - [A Code-Mixed Medical Task-Oriented Dialog Dataset](https://github.com/suman101112/Code-Mixed-TOD-Medical-Dataset): The dataset contains 3005 Telugu–English Code-Mixed dialogs with 29 k utterances covering ten specializations with an average code-mixing index (CMI) of 33.3%. Described in [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0885230822000729).
 
-### <a name='Discourse'></a>Discourse
+### <a id='Discourse'></a>Discourse
 - [MIDAS-Hindi Discourse Analysis](https://github.com/midas-research/hindi-discourse)
 
-### <a name='InformationExtraction'></a>Information Extraction
+### <a id='InformationExtraction'></a>Information Extraction
 - [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 - [EDNIL-FIRE2020]https://ednilfire.github.io/ednil/2020/index.html): Event extraction for Tamil, Hindi, Bengali, Marathi, English. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 - [Amazon MASSIVE](https://github.com/alexa/massive): A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
 - [Facebook - MTOP Benchmark](https://fb.me/mtop_dataset): A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark with a dataset comprising of 100k annotated utterances in 6 languages(including Indic language: Hindi) across 11 domains. Described in [this paper](https://arxiv.org/pdf/2008.09335.pdf).
 
-### <a name='POSTaggedcorpus'></a>POS Tagged corpus
+### <a id='POSTaggedcorpus'></a>POS Tagged corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 - [Universal Dependencies](https://universaldependencies.org/)
@@ -328,12 +328,12 @@ Benchmarks spanning multiple tasks.
 - [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi): 
 - [Tham Khasi Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0321/#): An annotated Khasi POS tagged corpus containing 83,312 words, 4,386 sentences, 5,465 word types which amounts to 94,651 tokens (including punctuations).
 
-### <a name='ChunkCorpus'></a>Chunk Corpus
+### <a id='ChunkCorpus'></a>Chunk Corpus
 
 - [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 - [Indian Languages Treebanking Project](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Chunk annotations for hi, bn, kn, ml and mr.
 
-### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
+### <a id='DependencyParseCorpus'></a>Dependency Parse Corpus
 
 - [IIIT Hyderabad Hindi Treebank](http://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1977&lang=en)
 - [Universal Dependencies](https://universaldependencies.org/)
@@ -342,26 +342,26 @@ Benchmarks spanning multiple tasks.
 - [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Paninian Grammar Framework annotations along with mappings to Stanford dependency annotations for hi, bn, kn, ml and mr.
 - [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec): 4k Sanskrit dependency treebank [paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)
 
-### <a name='CoreferenceCorpus'></a>Coreference Corpus
+### <a id='CoreferenceCorpus'></a>Coreference Corpus
 
 - [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
 - [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
 
-### <a name='Summarization'></a>Summarization
+### <a id='Summarization'></a>Summarization
 
 - [XL-Sum](https://github.com/csebuetnlp/xl-sum): A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Described in [this paper](https://arxiv.org/abs/2106.13822).
 
-### <a name='DatatoText'></a>Data to Text
+### <a id='DatatoText'></a>Data to Text
 
 - [XAlign](https://github.com/tushar117/XAlign): Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages comprising of a high quality XF2T dataset in 7 languages: Hindi, Marathi, Gujarati, Telugu, Tamil, Kannada, Bengali, and monolingual dataset in English. The dataset is available upon request. Described in [this paper](https://arxiv.org/abs/2202.00291).
 
-## <a name='Models'></a>Models
+## <a id='Models'></a>Models
 
-### <a name='LIDModels'></a>Language Identification
+### <a id='LIDModels'></a>Language Identification
 
 - [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb#lid-model): LID for 200 languages including 27 Indic languages.
 
-### <a name='WordEmbeddings'></a>Word Embeddings
+### <a id='WordEmbeddings'></a>Word Embeddings
 
 - [AI4Bharat IndicFT](https://ai4bharat.iitm.ac.in/indic-ft): Fast-text word embeddings for 11 Indian languages.
 - [FastText CommonCrawl+Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html)
@@ -371,7 +371,7 @@ Benchmarks spanning multiple tasks.
 - [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): The FastText embeddings for Sanskrit is available [here](https://drive.google.com/file/d/1k5INFw9oaxV7yoWRg0qscmcFrOHVhdzW/view?usp=sharing) and for Hindi [here](https://drive.google.com/file/d/1Md9N7Ux2P9JCky1_9RgL2KjXRGb_lpXj/view?usp=sharing). 
 - [UoM-Sinhala Sentiment Analysis- FastText 300](https://github.com/LahiruSen/sinhala_sentiment_anlaysis_tallip#word-embedding-models): The FastText word embedding model for Sinhala language. Described in [this paper](https://arxiv.org/pdf/2011.07280.pdf).
 
-### <a name='PreTrainedLanguageModels'></a>Pre-trained Language Models
+### <a id='PreTrainedLanguageModels'></a>Pre-trained Language Models
 
 - [AI4Bharat IndicBERT](https://ai4bharat.iitm.ac.in/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
 - [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): A multilingual,sequence-to-sequence pre-trained model based on the mBART architecture focusing on 11 Indic languages and English for Natural Language Generation of Indic Languages. Described in [this paper](https://arxiv.org/abs/2109.02903).
@@ -388,40 +388,40 @@ Benchmarks spanning multiple tasks.
 - [LaBSE](https://tfhub.dev/google/LaBSE/2): Encoder models suitable for sentence retrieval tasks supporting 109 languages (including  all major Indic languages) [[paper]](https://arxiv.org/abs/2007.01852).
 - [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models): Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).
 
-### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
+### <a id='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
 - [GeoMM](https://github.com/anoopkunchukuttan/geomm)
 - [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual)
 
-### <a name='Morphanalyzers'></a>Morphanalyzers
+### <a id='Morphanalyzers'></a>Morphanalyzers
 
 - [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus): Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
 
-### <a name='TranslationModels'></a>Translation Models
+### <a id='TranslationModels'></a>Translation Models
 
 - [IndicTrans](https://ai4bharat.iitm.ac.in/indic-trans): Multilingual neural translation models for translation between English and 11 Indian languages. Supports translation between Indian langauges as well. A total of 110 translation directions are supported.
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): SMT for 110 language pairs (all pairs between English and 10 Indian languages.
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi.
 - [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb#open-sourced-models-and-community-integrations): Models for 200 languages including 27 Indic languages.
 
-### <a name='TransliterationModels'></a>Transliteration Models
+### <a id='TransliterationModels'></a>Transliteration Models
 
 - [AI4Bharat IndicXlit](https://ai4bharat.iitm.ac.in/indic-xlit): A transformer-based multilingual transliteration model with 11M parameters for Roman to native script conversion and vice versa that supports 21 Indic languages. Described in [this paper](https://arxiv.org/abs/2205.03018).
 
-### <a name='SpeechModels'></a>Speech Models
+### <a id='SpeechModels'></a>Speech Models
 
 - [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 - [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models): Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation).
 - [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on ~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
-### <a name='NER'></a>NER
+### <a id='NER'></a>NER
 
 - [AI4Bharat IndicNER](https://huggingface.co/ai4bharat/IndicNER): NER model for 11 Indic languages.
 - [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A Baseline Assamese NER model.
 - [L3Cube-MahaNER-BERT](https://huggingface.co/l3cube-pune/marathi-ner): A 752 million token multilingual BERT model. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 - [CFILT HiNER](https://github.com/cfiltnlp/hiner#models): Hindi NER models trained on CFILT HiNER dataset. Described in [this paper](https://arxiv.org/abs/2204.13743).
 
-## <a name='SpeechCorpora'></a>Speech Corpora
+## <a id='SpeechCorpora'></a>Speech Corpora
 
 - [Microsoft Speech Corpus](https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e): Speech corpus for Telugu, Tamil and Gujarati.
 - [Microsoft-IITB Marathi Speech Corpus](https://www.cse.iitb.ac.in/~pjyothi/indiccorpora/#marathi): 109 hours of speech data collected via crowdsourcing.
@@ -453,19 +453,19 @@ Benchmarks spanning multiple tasks.
 - [Shrutilipi](https://ai4bharat.org/shrutilipi): Over 6400 hours of transcribed speech corpus across 12 Indian languages: Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia, Punjabi, Sanskrit, Tamil, Telugu, Urdu
 
 
-## <a name='OCRCorpora'></a>OCR Corpora
+## <a id='OCRCorpora'></a>OCR Corpora
 
 - [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist) ([Paper](
 http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf))
 - [Devanagari MNIST](https://www.kaggle.com/ashokpant/devanagari-character-dataset-large)
 - [SynthTextHindi](https://github.com/IngleJaya95/SynthTextHindi) ([Dataset link](https://ai4bharat.org/articles/sign-board))
 
-## <a name='MultimodalCorpora'></a>Multimodal Corpora
+## <a id='MultimodalCorpora'></a>Multimodal Corpora
 
 - [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
 - [English-Hindi Flickr 8k](https://arxiv.org/pdf/2004.11954.pdf): A subset of images from [Flickr8k](https://jair.org/index.php/jair/article/view/10833) images captioned by native speakers in both English and Hindi. Code and data available [here](https://github.com/madaan/PML4DC-Comparable-Data-Collection).
 
-## <a name='LanguageSpecificCatalogs'></a>Language Specific Catalogs 
+## <a id='LanguageSpecificCatalogs'></a>Language Specific Catalogs 
 
  Pointers to language-specific NLP resource catalogs
  
