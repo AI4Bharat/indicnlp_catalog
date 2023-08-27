@@ -23,4 +23,4 @@
 - Kaushal Bhosale
 - Tahir Javed
 - Maharaja Brahma
-– Pavel Straňák
+- Pavel Straňák
