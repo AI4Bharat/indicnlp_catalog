@@ -120,7 +120,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
-- [AIBharat IndicCorp](https://ai4bharat.iitm.ac.in/indic-corp): contains 8.9 billion tokens from 12 Indian languages (including Indian English).
+- [AIBharat IndicCorp](https://ai4bharat.iitm.ac.in/indic-corp): contains 8.9 billion tokens from 12 Indian languages (including Indian English). URL not available as of 2023-08-27 
 - [Wikipedia Dumps](https://dumps.wikimedia.org)
 - Common Crawl
 	- [OSCAR Corpus](https://traces1.inria.fr/oscar): Released in 2019, large-scaled processed CommonCrawl.	
@@ -128,7 +128,7 @@ Benchmarks spanning multiple tasks.
 	- [CC-100 Corpus](): Facebook CommonCrawl extracted data. They provide scripts for processing CommonCrawl. StatMT has built a replica of the CC-100 corpus using these scripts. You can find it [HERE](http://data.statmt.org/cc-100). This corpus also has romanized corpora for some Indian languages.
 - [WMT NEWS Crawl](http://data.statmt.org/news-crawl)
 - [LDCIL Monolingual Corpus](https://data.ldcil.org)
-- [Charles University Hindi Monolingual Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-625F-0)
+- [Charles University Hindi Monolingual Corpus](http://hdl.handle.net/11858/00-097C-0000-0023-6260-A)
 - [Charles University Urdu Monolingual Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0023-65A9-5)
 - [IIT Bombay Hindi Monolingual Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/iitb_corpus_download/monolingual.hi.tgz)
 - [EMILLE Corpus (multiple Indian languages)](https://www.lancaster.ac.uk/fass/projects/corpus/emille/)
@@ -192,7 +192,7 @@ Benchmarks spanning multiple tasks.
 - [PMIndia](http://data.statmt.org/pmindia): Parallel corpus for En-Indian languages mined from _Mann ki Baat_ speeches of the PM of India ([paper](https://arxiv.org/abs/2001.09907)).
 - [OPUS corpus](http://opus.nlpl.eu/)
 - [WAT 2018 Parallel Corpus](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html): There may significant overlap between WAT and OPUS.
-- [Charles University English-Hindi Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-BD17-1): This is included in the IITB parallel corpus.
+- [Charles University English-Hindi Parallel Corpus](http://hdl.handle.net/11858/00-097C-0000-0023-625F-0)
 - [Charles University English-Tamil Parallel Corpus](http://ufal.mff.cuni.cz/~ramasamy/parallel/html/)
 - [Charles University English-Odia Parallel Corpus v1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
 - [Charles University English-Odia Parallel Corpus v2.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3211)
