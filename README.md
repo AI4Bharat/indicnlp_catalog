@@ -36,6 +36,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 	* [Lexical Resources](#LexicalResources)
 	* [NER Corpora](#NERCorpora)
 	* [Parallel Translation Corpus](#ParallelTranslationCorpus)
+        * [MT Evaluation](#MTEvaluation)
 	* [Parallel Transliteration Corpus](#ParallelTransliterationCorpus)
 	* [Text Classification](#TextualClassification)
 	* [Textual Entailment/Natural Language Inference](#TextualEntailment)
@@ -233,6 +234,12 @@ Benchmarks spanning multiple tasks.
 - [Nepali National corpus]( http://catalog.elra.info/product_info.php?products_id=1217): The English-Nepali Parallel Corpus consists of a small set of data aligned at the sentence level with 27,060 English words and 21,756 Nepali words and a larger set of texts at the document level with 617,340 English words and 596,571 Nepali words. An additional set of monolingual data is also provided with 386,879 words in Nepali. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 - [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 - [CCAligned](https://statmt.org/cc-aligned/): A Massive Collection of more than 100 million cross-lingual web-document pairs in 137 languages aligned with English.
+
+### <a name='MTEvaluation'></a>MT Evaluation
+
+- [WMT23 QE task](https://wmt-qe-task.github.io):  QE datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, te) with DA annotations. The references are also available, so these can also be used for reference based metrics. For Marathi, post-edits are also available as are word-level annotations error annotations are also available. 26k training sentences for Marathi, 7k for the others.   [report](https://aclanthology.org/2023.wmt-1.52)
+- [AI4Bharat IndicMT-Eval]: MT evaluation datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, ml) with Multidimensional Quality Metric (MQM) annotations. 1400 sentence annotations per language (200 sentences and outputs from 7 MT systems).
+
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
