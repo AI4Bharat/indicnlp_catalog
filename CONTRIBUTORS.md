@@ -17,3 +17,9 @@
 - Rahul Gupta
 - Kavya Manohar
 - Amrith Krishna
+- Gokul NC
+- Ritwik Mishra
+- Sangeeta Rajagopal
+- Kaushal Bhosale
+- Tahir Javed
+- Maharaja Brahma
