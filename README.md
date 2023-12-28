@@ -36,7 +36,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 	* [Lexical Resources](#LexicalResources)
 	* [NER Corpora](#NERCorpora)
 	* [Parallel Translation Corpus](#ParallelTranslationCorpus)
-        * [MT Evaluation](#MTEvaluation)
+	* [MT Evaluation](#MTEvaluation)
 	* [Parallel Transliteration Corpus](#ParallelTransliterationCorpus)
 	* [Text Classification](#TextualClassification)
 	* [Textual Entailment/Natural Language Inference](#TextualEntailment)
@@ -238,7 +238,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='MTEvaluation'></a>MT Evaluation
 
 - [WMT23 QE task](https://wmt-qe-task.github.io):  QE datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, te) with DA annotations. The references are also available, so these can also be used for reference based metrics. For Marathi, post-edits are also available as are word-level annotations error annotations are also available. 26k training sentences for Marathi, 7k for the others.   [report](https://aclanthology.org/2023.wmt-1.52)
-- [AI4Bharat IndicMT-Eval]: MT evaluation datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, ml) with Multidimensional Quality Metric (MQM) annotations. 1400 sentence annotations per language (200 sentences and outputs from 7 MT systems).
+- [AI4Bharat IndicMT-Eval])(https://github.com/AI4Bharat/IndicMT-Eval): MT evaluation datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, ml) with Multidimensional Quality Metric (MQM) annotations. 1400 sentence annotations per language (200 sentences and outputs from 7 MT systems).
 
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
