@@ -73,7 +73,7 @@ _Add a small, informative description of the dataset and provide links to any pa
 - [Technology Development for Indian Languages (TDIL)](http://tdil-dc.in)
 - [Center for Indian Language Technology (CFILT)](http://www.cfilt.iitb.ac.in/)
 - [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/download.php)
-- [AI4Bharat IndicNLP](https://indicnlp.ai4bharat.org)
+- [AI4Bharat IndicNLP](https://ai4bharat.iitm.ac.in)
 - [Linguistic Data Consortium For Indian Languages (LDCIL)](https://data.ldcil.org)
 - [University of Hyderabad - Sanskrit NLP](http://sanskrit.uohyd.ac.in/scl)
 
@@ -106,7 +106,9 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='MonolingualCorpus'></a>Monolingual Corpus
 
-- [AIBharat IndicCorp](https://indicnlp.ai4bharat.org/corpora): contains 8.9 billion tokens from 12 Indian languages (including Indian English).
+- [AIBharat IndicCorp]: Text corpora for Indian languages
+  - [v1](https://indicnlp.ai4bharat.org/corpora): contains 8.9 billion tokens from 12 Indian languages (including Indian English).
+  - [v2](https://github.com/AI4Bharat/IndicBERT?tab=readme-ov-file#indiccorp-v2): contains 20 billion tokens from 22 Indian languages (including Indian English) [[paper](https://arxiv.org/abs/2212.05409)].
 - [Wikipedia Dumps](https://dumps.wikimedia.org)
 - Common Crawl
 	- [OSCAR Corpus](https://traces1.inria.fr/oscar): Released in 2019, large-scaled processed CommonCrawl.	
