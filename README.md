@@ -186,7 +186,8 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='ParallelTranslationCorpus'></a>Parallel Translation Corpus
 
-- [Samanantar Parallel Corpus](https://ai4bharat.iitm.ac.in/samanantar): Largest parallel corpus for English and 11 Indian languages. It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
+- [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data): Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages. 
+- [Samanantar Parallel Corpus](https://ai4bharat.iitm.ac.in/samanantar): Largest parallel corpus for English and 11 Indian languages (as of 2021). It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
 - [FLORES-101](https://github.com/facebookresearch/flores): Human translated evaluation sets for 101 languages released by Facebook. It includes 14 Indic languages. The testsets are n-way parallel. 
 - [FLORES-200](https://github.com/facebookresearch/flores/tree/main/flores200): Human translated evaluation sets for 200 languages released by Facebook. It includes 24 Indic languages. The testsets are n-way parallel. 
 - [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel): Largest en-hi parallel corpora in public domain (about 1.5 million segments)
@@ -237,6 +238,7 @@ Benchmarks spanning multiple tasks.
 - [Nepali National corpus]( http://catalog.elra.info/product_info.php?products_id=1217): The English-Nepali Parallel Corpus consists of a small set of data aligned at the sentence level with 27,060 English words and 21,756 Nepali words and a larger set of texts at the document level with 617,340 English words and 596,571 Nepali words. An additional set of monolingual data is also provided with 386,879 words in Nepali. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 - [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 - [CCAligned](https://statmt.org/cc-aligned/): A Massive Collection of more than 100 million cross-lingual web-document pairs in 137 languages aligned with English.
+- [CoPara](https://github.com/ENikhil/CoPara): Long-context parallel corpora for 4 Dravidian languages. Contains 2586 passage pairs mined from New India Samachar [[paper](https://aclanthology.org/2023.dravidianlangtech-1.12)]  
 
 ### <a name='MTEvaluation'></a>MT Evaluation
 
@@ -350,7 +352,7 @@ Benchmarks spanning multiple tasks.
 - [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB)
 - [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB)
 - [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Paninian Grammar Framework annotations along with mappings to Stanford dependency annotations for hi, bn, kn, ml and mr.
-- [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec): 4k Sanskrit dependency treebank [paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)
+- [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec): 4k Sanskrit dependency treebank [[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
 
 ### <a name='CoreferenceCorpus'></a>Coreference Corpus
 
@@ -360,6 +362,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='Summarization'></a>Summarization
 
 - [XL-Sum](https://github.com/csebuetnlp/xl-sum): A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Described in [this paper](https://arxiv.org/abs/2106.13822).
+- [TeSum](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/teSum): Telugu Abstractive Summarization dataset containing 20k+ article-summary pairs, with the summaries being manually created. [[paper](https://aclanthology.org/2022.lrec-1.614)]
 
 ### <a name='DatatoText'></a>Data to Text
 
