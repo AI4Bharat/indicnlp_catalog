@@ -366,6 +366,8 @@ Benchmarks spanning multiple tasks.
 
 - [XL-Sum](https://github.com/csebuetnlp/xl-sum): A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Span 150k examples across 10 Indic languages. Described in [this paper](https://arxiv.org/abs/2106.13822).
 - [TeSum](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/teSum): Telugu Abstractive Summarization dataset containing 20k+ article-summary pairs, with the summaries being manually created. [[paper](https://aclanthology.org/2022.lrec-1.614)]
+- [WikiLingua](https://github.com/esdurmus/Wikilingua): Cross-lingual summarization dataset created from WikiHow. Contains 9k English-Hindi article-summary pairs. [[paper](https://arxiv.org/abs/2010.03093)]
+- [MassiveSum](https://github.com/danielvarab/massive-summ): A large summarization dataset for containing 13 Indian languages with ~1.9million article-summary pairs. The summaries are mined from article metadata. [[paper](https://aclanthology.org/2021.emnlp-main.797/)]
 
 ### <a name='DatatoText'></a>Data to Text
 
