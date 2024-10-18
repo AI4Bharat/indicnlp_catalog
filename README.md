@@ -405,6 +405,7 @@ Benchmarks spanning multiple tasks.
 - [EM-ALBERT](http://catalog.elra.info/en-us/repository/browse/ELRA-W0316/): The first ALBERT model available for Manipuri language which is trained on 1,034,715 Manipuri sentences.
 - [LaBSE](https://tfhub.dev/google/LaBSE/2): Encoder models suitable for sentence retrieval tasks supporting 109 languages (including  all major Indic languages) [[paper]](https://arxiv.org/abs/2007.01852).
 - [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models): Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).
+- [IndicPretrained-80M](https://huggingface.co/spaces/abhaskumarsinha/IndicPretrained-80M): A low resource 80M GPT Model pre-trained on texts - English, Hindi, Bengali, Odia, Telugu, Malayalam and Gujarati. It is based upon [Corpus2GPT](https://github.com/abhaskumarsinha/Corpus2GPT/) framework that lets it fine-tuned for various tasks. [Model weights](https://huggingface.co/spaces/abhaskumarsinha/IndicPretrained-80M/blob/main/GPT_saved.keras) and [tokenizers](https://huggingface.co/spaces/abhaskumarsinha/IndicPretrained-80M/blob/main/bn-en-gu-hi-ml-or-te-tokenizer%20(2).model) are open source under [Apache-2.0 license](https://huggingface.co/spaces/abhaskumarsinha/IndicPretrained-80M/blob/main/README.md).
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
