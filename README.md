@@ -361,6 +361,7 @@ Benchmarks spanning multiple tasks.
 
 - [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
 - [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
+- [TransMuCoRes](https://github.com/ritwikmishra/transmucores): Synthetic data in multiple Indian languages. Finetuned model included.
 
 ### <a name='Summarization'></a>Summarization
 
