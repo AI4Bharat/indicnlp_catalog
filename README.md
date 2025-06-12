@@ -172,6 +172,7 @@ Benchmarks spanning multiple tasks.
 - [AI4Bharat Cross-lingual Semantic Textual Similarity](https://storage.googleapis.com/samanantar-public/human_annotations.tsv): 10 sentences across 11 en-Indic language pairs annotated on a scale of 0-5 as per SemEval cross-lingual STS guidelines.
 - [Toxicity-200](https://github.com/facebookresearch/flores/blob/main/toxicity): Toxicity Lists for 200 languages including 27 Indian languages.
 - [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora): Contains a list of algorithmically derived stopwords extracted from Corpus-Sinhala-Redux. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
+- [Soodkosh](https://github.com/Abhinav271828/soodkosh/blob/main/soodkosh.csv): Dataset of Hindi Pseudowords (nonce words) generated automatically via PseudRNN (usable from the same repo, can generate pseudowords for languages with an IPA transcribed dictionary) and evaluated by Hindi native speakers. Described in [this thesis](https://cdn.iiit.ac.in/cdn/web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.aa9934053ebb3051.6d735f7468657369735f6d61737465725f32303138313134303135202831292e706466.pdf).
 
 ### <a name='NERCorpora'></a>NER Corpora
 
@@ -241,7 +242,7 @@ Benchmarks spanning multiple tasks.
 - [Nepali National corpus]( http://catalog.elra.info/product_info.php?products_id=1217): The English-Nepali Parallel Corpus consists of a small set of data aligned at the sentence level with 27,060 English words and 21,756 Nepali words and a larger set of texts at the document level with 617,340 English words and 596,571 Nepali words. An additional set of monolingual data is also provided with 386,879 words in Nepali. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 - [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 - [CCAligned](https://statmt.org/cc-aligned/): A Massive Collection of more than 100 million cross-lingual web-document pairs in 137 languages aligned with English.
-- [CoPara](https://github.com/ENikhil/CoPara): Long-context parallel corpora for 4 Dravidian languages. Contains 2586 passage pairs mined from New India Samachar [[paper](https://aclanthology.org/2023.dravidianlangtech-1.12)]  
+- [CoPara](https://github.com/ENikhil/CoPara): Long-context parallel corpora for 4 Dravidian languages. Contains 2586 passage or paragraph aligned pairs mined from New India Samachar [[paper](https://aclanthology.org/2023.dravidianlangtech-1.12)]  
 
 ### <a name='MTEvaluation'></a>MT Evaluation
 
