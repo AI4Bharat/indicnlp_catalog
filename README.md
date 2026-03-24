@@ -1,4 +1,3 @@
-
 # :bookmark: The Indic NLP Catalog
 _A Collaborative Catalog of Resources for Indic Language NLP_
 
@@ -6,7 +5,7 @@ The **Indic NLP Catalog** repository is an attempt to **collaboratively** build 
 
 _Please suggest any other resources you may be aware of. Raise a pull request or an issue to add more resources to the catalog. Put the proposed entry in the following format:_
 
-  \[Wikipedia Dumps\]\(https://dumps.wikimedia.org/)
+  [Wikipedia Dumps](https://dumps.wikimedia.org)
 
 _Add a small, informative description of the dataset and provide links to any paper/article/site documenting the resource. Mention your name too. We would like to acknowlege your contribution to building this catalog in the [CONTRIBUTORS](CONTRIBUTORS.md) list._
 
@@ -24,7 +23,6 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 
 :raising_hand:**Note**: Many known resources have not yet been classified into the catalog. They can be found as open issues in the repo.
 	
-<!-- vscode-markdown-toc -->
 * [Major Indic Language NLP Repositories](#MajorIndicLanguageNLPRepositories)
 * [Libraries and Tools](#Libraries)
 * [Evaluation Benchmarks](#Benchmarks)
@@ -67,13 +65,6 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [Language Specific Catalogs](#LanguageSpecificCatalogs)	
 
 
-<!-- vscode-markdown-toc-config
-	numbering=false
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
-
-
 ## <a name='MajorIndicLanguageNLPRepositories'></a>Major Indic Language NLP Repositories
 - [Universal Language Contribution API (ULCA)](https://bhashini.gov.in/ulca)
 - [Technology Development for Indian Languages (TDIL)](http://tdil-dc.in)
@@ -103,6 +94,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 - [CodeSwitch](https://github.com/sagorbrur/codeswitch): Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 - [IndIE](https://github.com/ritwikmishra/IndIE): An Open Information Extraction tool (triple extractor) in Hindi. It is conjectured to work for Tamil, Telugu, and Urdu as well.
 - [Hindi-BenchIE](https://github.com/ritwikmishra/hindi-benchie): A triple evaluation tool for 112 Hindi sentences.
+- [Kannada RAG Agent](https://github.com/Amruth011/kannada-rag-agent): An end-to-end RAG system for Kannada literature featuring OCR, multilingual Q&A, and TTS support. Contributed by [Amruth Kumar M](https://github.com/Amruth011).
 
 ## <a name='Benchmarks'></a>Evaluation Benchmarks
 
@@ -241,7 +233,7 @@ Benchmarks spanning multiple tasks.
 - [Nepali National corpus]( http://catalog.elra.info/product_info.php?products_id=1217): The English-Nepali Parallel Corpus consists of a small set of data aligned at the sentence level with 27,060 English words and 21,756 Nepali words and a larger set of texts at the document level with 617,340 English words and 596,571 Nepali words. An additional set of monolingual data is also provided with 386,879 words in Nepali. Described [here](https://www.sketchengine.eu/nepali-national-corpus/).
 - [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 - [CCAligned](https://statmt.org/cc-aligned/): A Massive Collection of more than 100 million cross-lingual web-document pairs in 137 languages aligned with English.
-- [CoPara](https://github.com/ENikhil/CoPara): Long-context parallel corpora for 4 Dravidian languages. Contains 2586 passage pairs mined from New India Samachar [[paper](https://aclanthology.org/2023.dravidianlangtech-1.12)]  
+- [CoPara](https://github.com/ENikhil/CoPara): Long-context parallel corpora for 4 Dravidian languages. Contains 2586 passage pairs mined from New India Samachar [[paper](https://aclanthology.org/2023.dravidianlangtech-1.12)]   
 
 ### <a name='MTEvaluation'></a>MT Evaluation
 
