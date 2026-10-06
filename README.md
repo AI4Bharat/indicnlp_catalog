@@ -113,6 +113,7 @@ Benchmarks spanning multiple tasks.
 - [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
 - [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets): A compilation of classification datasets for 10 languages.
 - [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
+- [BKP-500 (Bharat Knowledge Probe)](https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark): 552 items testing India-specific conventions (lakh/crore arithmetic, state land units, crop calendars, fiscal-year conventions, government schemes) across 7 categories. Deterministically graded. Corpus, evaluation harness, and per-model responses released by Sthānika AI ([dataset](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark)).
 
 ## <a name='Standards'></a>Standards
 
