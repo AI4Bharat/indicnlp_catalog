@@ -295,6 +295,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='HateSpeech'></a>Hate Speech and Offensive Comments
 
 - [Hate Speech and Offensive Content Identification in Indo-European Languages](https://hasocfire.github.io/hasoc/2020/dataset.html):  (HASOC FIRE-2020)
+- [Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages](https://hasocfire.github.io/hasoc/2021/): (HASOC FIRE-2021) Subtask 1: English, Hindi and Marathi tweets (binary and fine-grained classification). Subtask 2: conversational hate speech in Hindi-English code-mixed data ([Subtask 1 overview](https://arxiv.org/abs/2112.09301))
 - [An Indian Language Social Media Collection for Hate and Offensive Speech, 2020](https://www.aclweb.org/anthology/2020.restup-1.2/): Hinglish Tweets and FB Comments collected during Parliamentary Election 2019 of India (Dataset available on request)
 - [Aggression-annotated Corpus of Hindi-English Code-mixed Data, 2018](https://sites.google.com/view/trac1/shared-task): Scraped from Facebook (21k) & Twitter (18k) ([Paper](https://arxiv.org/abs/1803.09402))
 - [Did You Offend Me? Classification of Offensive Tweets in Hinglish Language, 2018](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification/tree/b8433ff1ebb885bd657f5117eab6bd3798f20408): 3k tweets ([Paper](https://www.aclweb.org/anthology/W18-5118))
