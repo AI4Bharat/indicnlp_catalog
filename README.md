@@ -103,6 +103,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 - [CodeSwitch](https://github.com/sagorbrur/codeswitch): Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 - [IndIE](https://github.com/ritwikmishra/IndIE): An Open Information Extraction tool (triple extractor) in Hindi. It is conjectured to work for Tamil, Telugu, and Urdu as well.
 - [Hindi-BenchIE](https://github.com/ritwikmishra/hindi-benchie): A triple evaluation tool for 112 Hindi sentences.
+- [indic-voice-clone](https://github.com/2boysfromtown/indic-voice-clone): Offline voice cloning for Tamil, Hindi and English on a consumer NVIDIA GPU, built on AI4Bharat IndicF5 and Resemble Chatterbox, with a one-command Windows installer.
 
 ## <a name='Benchmarks'></a>Evaluation Benchmarks
 
