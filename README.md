@@ -61,6 +61,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 	* [Translation Models](#TranslationModels)
 	* [Speech Models](#SpeechModels)
 	* [NER](#NER)
+	* [Text Classification](#TextClassificationModels)
 * [Speech Corpora](#SpeechCorpora)
 * [OCR Corpora](#OCRCorpora)
 * [Multimodal Corpora](#MultimodalCorpora)
@@ -379,6 +380,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='LIDModels'></a>Language Identification
 
 - [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb#lid-model): LID for 200 languages including 27 Indic languages.
+- [Bhasha](https://huggingface.co/arunp0/bhasha-lid-indic-v2): Word-level language ID for code-mixed text (Hinglish, Tanglish, Kanglish, etc.) in romanised and native scripts: 11 Indic languages plus English, `name` and `other` tags. XLM-RoBERTa-base, Apache-2.0.
 
 ### <a name='WordEmbeddings'></a>Word Embeddings
 
@@ -439,6 +441,12 @@ Benchmarks spanning multiple tasks.
 - [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A Baseline Assamese NER model.
 - [L3Cube-MahaNER-BERT](https://huggingface.co/l3cube-pune/marathi-ner): A 752 million token multilingual BERT model. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 - [CFILT HiNER](https://github.com/cfiltnlp/hiner#models): Hindi NER models trained on CFILT HiNER dataset. Described in [this paper](https://arxiv.org/abs/2204.13743).
+- [Chitragupta](https://huggingface.co/arunp0/chitragupta-pii-indic): PII detection and redaction (18 types, including Aadhaar, PAN, voter ID, GSTIN, UPI ID, IFSC, names, phone numbers) for Hindi, Hinglish, 10 other Indic languages and English. Token tagger (XLM-RoBERTa-large) plus a checksum/format rule layer, Apache-2.0.
+
+### <a name='TextClassificationModels'></a>Text Classification
+
+- [Yama](https://huggingface.co/arunp0/yama-indic): Zero-shot text classifier for Hindi, Hinglish, 10 other Indic languages and English. Takes plain-English questions with your own labels and returns calibrated probabilities without fine-tuning. XLM-RoBERTa-large, Apache-2.0.
+- [Nandi](https://huggingface.co/arunp0/nandi-grievance-indic): Complaint/grievance router for Hindi, Hinglish, 10 other Indic languages and English: 53 categories following RBI, IRDAI, CPGRAMS, TRAI/DoT and National Consumer Helpline lists, with top-3 probabilities. Training data: [nandi-grievance-synthetic](https://huggingface.co/datasets/arunp0/nandi-grievance-synthetic). XLM-RoBERTa-large, Apache-2.0.
 
 ## <a name='SpeechCorpora'></a>Speech Corpora
 
