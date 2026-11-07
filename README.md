@@ -422,6 +422,7 @@ Benchmarks spanning multiple tasks.
 - [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): SMT for 110 language pairs (all pairs between English and 10 Indian languages.
 - [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi.
 - [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb#open-sourced-models-and-community-integrations): Models for 200 languages including 27 Indic languages.
+- [NifeLab PIB Translation Models](https://huggingface.co/NifeLab/pib-indic-en-v1): LoRA adapters fine-tuned on AI4Bharat IndicTrans2 (dist-200M) for Hindi <-> English translation; Indic translation models for offline/air-gapped use. Both directions on Hugging Face ([pib-en-indic-v1](https://huggingface.co/NifeLab/pib-en-indic-v1)).
 
 ### <a name='TransliterationModels'></a>Transliteration Models
 
