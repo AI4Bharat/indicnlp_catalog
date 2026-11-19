@@ -103,6 +103,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 - [CodeSwitch](https://github.com/sagorbrur/codeswitch): Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 - [IndIE](https://github.com/ritwikmishra/IndIE): An Open Information Extraction tool (triple extractor) in Hindi. It is conjectured to work for Tamil, Telugu, and Urdu as well.
 - [Hindi-BenchIE](https://github.com/ritwikmishra/hindi-benchie): A triple evaluation tool for 112 Hindi sentences.
+- - [Vaani](https://github.com) - Compact C++20 & Android ONNX NLU runtime for noisy, code-switched Hinglish voice commands (~22 ms latency, 353K parameters).
 
 ## <a name='Benchmarks'></a>Evaluation Benchmarks
 
