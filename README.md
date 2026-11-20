@@ -242,6 +242,7 @@ Benchmarks spanning multiple tasks.
 - [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator): A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 - [CCAligned](https://statmt.org/cc-aligned/): A Massive Collection of more than 100 million cross-lingual web-document pairs in 137 languages aligned with English.
 - [CoPara](https://github.com/ENikhil/CoPara): Long-context parallel corpora for 4 Dravidian languages. Contains 2586 passage pairs mined from New India Samachar [[paper](https://aclanthology.org/2023.dravidianlangtech-1.12)]  
+- [Pramāṇa open data](https://huggingface.co/datasets/srajma/pramana): openly licensed part of the [Pramāṇa](https://indike.org/pramana/) database of Indian primary sources (224M words, 3.8M passages): original texts aligned passage by passage with their human translations (e.g. Pāli–English/German from SuttaCentral, Kannada, Tamil and Sanskrit inscriptions–English from the Epigraphia volumes) and commentaries, with a licence column per passage. Also on [Zenodo](https://doi.org/10.5281/zenodo.24408374).
 
 ### <a name='MTEvaluation'></a>MT Evaluation
 
