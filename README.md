@@ -478,6 +478,7 @@ Benchmarks spanning multiple tasks.
 http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf))
 - [Devanagari MNIST](https://www.kaggle.com/ashokpant/devanagari-character-dataset-large)
 - [SynthTextHindi](https://github.com/IngleJaya95/SynthTextHindi) ([Dataset link](https://ai4bharat.org/articles/sign-board))
+- [Docling degraded-scan bench (Indic subset)](https://github.com/darshilbabel/docling-degraded-scan-bench): Synthetic Hindi, Marathi and Bengali form pages, clean and with simulated blur, skew, photocopy, low-light and fax degradation, with field-level ground truth and bounding boxes (CC BY 4.0). Also on [Hugging Face](https://huggingface.co/datasets/Gritworks/docling-degraded-scan-bench).
 
 ## <a name='MultimodalCorpora'></a>Multimodal Corpora
 
